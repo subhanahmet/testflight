@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <title>My Flight Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <listing>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+</listings>
