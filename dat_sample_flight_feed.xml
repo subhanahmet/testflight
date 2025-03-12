@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <title>My Flight Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>DXB</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Dubai</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>IZM</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Izmir</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>TBS</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Tbilisi</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>PRG</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Prague</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>LON</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>London</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>VIE</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Vienna</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>TZX</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Trabzon</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>AYT</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Antalya</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>ALA</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Almaty</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>LED</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>St Petersburg</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>MOW</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Moscow</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>PEK</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Beijing</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>MIL</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Milan</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>BER</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Berlin</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>NQZ</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Astana</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>IST</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Istanbul</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+    <listing>
+        <origin_airport>GYD</origin_airport>
+        <destination_airport>ANK</destination_airport>
+        <origin_city>Baku</origin_city>
+        <destination_city>Ankara</destination_city>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+    </listing>
+</listings>
