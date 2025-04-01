@@ -5,23 +5,23 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>DXB</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Dubai</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>Dubay</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>IZM</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Izmir</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>İzmir</destination_city>
         <price>150.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>TBS</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>Tbilisi</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
@@ -29,15 +29,15 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>PRG</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Prague</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>Praqa</destination_city>
         <price>170.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>LON</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>London</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
@@ -45,15 +45,15 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>VIE</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Vienna</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>Vyana</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>TZX</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>Trabzon</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
@@ -61,7 +61,7 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>AYT</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>Antalya</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
@@ -69,39 +69,39 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>ALA</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Almaty</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>Almatı</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>LED</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>St Petersburg</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>Sankt-Peterburq</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>MOW</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Moscow</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>Moskva</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>PEK</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Beijing</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>Pekin</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>MIL</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>Milan</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
@@ -109,7 +109,7 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>BER</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>Berlin</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
@@ -117,7 +117,7 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>NQZ</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>Astana</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
@@ -125,15 +125,15 @@
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>IST</destination_airport>
-        <origin_city>Baku</origin_city>
-        <destination_city>Istanbul</destination_city>
+        <origin_city>Bakı</origin_city>
+        <destination_city>İstanbul</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
     </listing>
     <listing>
         <origin_airport>GYD</origin_airport>
         <destination_airport>ANK</destination_airport>
-        <origin_city>Baku</origin_city>
+        <origin_city>Bakı</origin_city>
         <destination_city>Ankara</destination_city>
         <price>100.00 USD</price>
         <description>Best Flight</description>
