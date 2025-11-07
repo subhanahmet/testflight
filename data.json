@@ -9,13 +9,14 @@
       "destination_name": "Dubai",
       "feed_start_date": "12.01.2026",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=DXB",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-DXB.jpg?ts=545160",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-DXB.jpg?ts=803573",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-DXB.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 357
+      "rounded_price": 357,
+      "": "209,81"
     },
     {
       "destination_id": "LON",
@@ -26,13 +27,14 @@
       "destination_name": "London",
       "feed_start_date": "02.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=LON",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LON.jpg?ts=213435",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LON.jpg?ts=659410",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LON.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 309
+      "rounded_price": 309,
+      "": ""
     },
     {
       "destination_id": "PRG",
@@ -43,13 +45,14 @@
       "destination_name": "Prague",
       "feed_start_date": "01.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=PRG",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-PRG.jpg?ts=552596",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-PRG.jpg?ts=21338",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-PRG.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 307
+      "rounded_price": 307,
+      "": ""
     },
     {
       "destination_id": "IZM",
@@ -60,13 +63,14 @@
       "destination_name": "Izmir",
       "feed_start_date": "02.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=IZM",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IZM.jpg?ts=187083",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IZM.jpg?ts=232264",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IZM.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 190
+      "rounded_price": 190,
+      "": ""
     },
     {
       "destination_id": "IST",
@@ -77,13 +81,14 @@
       "destination_name": "Istanbul",
       "feed_start_date": "12.01.2026",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=IST",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IST.jpg?ts=310537",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IST.jpg?ts=900945",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IST.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 174
+      "rounded_price": 174,
+      "": ""
     },
     {
       "destination_id": "MIL",
@@ -94,13 +99,14 @@
       "destination_name": "Milan",
       "feed_start_date": "01.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=MIL",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MIL.jpg?ts=727431",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MIL.jpg?ts=548454",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MIL.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 333
+      "rounded_price": 333,
+      "": ""
     },
     {
       "destination_id": "ALA",
@@ -111,13 +117,14 @@
       "destination_name": "Almaty",
       "feed_start_date": "05.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=ALA",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ALA.jpg?ts=898306",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ALA.jpg?ts=659891",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ALA.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 301
+      "rounded_price": 301,
+      "": ""
     },
     {
       "destination_id": "AYT",
@@ -128,13 +135,14 @@
       "destination_name": "Antalya",
       "feed_start_date": "01.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=AYT",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-AYT.jpg?ts=69246",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-AYT.jpg?ts=349566",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-AYT.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 217
+      "rounded_price": 217,
+      "": ""
     },
     {
       "destination_id": "TZX",
@@ -145,13 +153,14 @@
       "destination_name": "Trabzon",
       "feed_start_date": "01.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=TZX",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TZX.jpg?ts=432914",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TZX.jpg?ts=399893",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TZX.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 104
+      "rounded_price": 104,
+      "": ""
     },
     {
       "destination_id": "NQZ",
@@ -162,13 +171,14 @@
       "destination_name": "Astana",
       "feed_start_date": "15.01.2026",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=NQZ",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-NQZ.jpg?ts=329330",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-NQZ.jpg?ts=674835",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-NQZ.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 204
+      "rounded_price": 204,
+      "": ""
     },
     {
       "destination_id": "TBS",
@@ -179,13 +189,14 @@
       "destination_name": "Tbilisi",
       "feed_start_date": "17.11.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=TBS",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TBS.jpg?ts=689917",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TBS.jpg?ts=513309",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TBS.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 104
+      "rounded_price": 104,
+      "": ""
     },
     {
       "destination_id": "LED",
@@ -196,13 +207,14 @@
       "destination_name": "St Petersburg",
       "feed_start_date": "20.01.2026",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=LED",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LED.jpg?ts=704438",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LED.jpg?ts=132757",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LED.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 366
+      "rounded_price": 366,
+      "": ""
     },
     {
       "destination_id": "BER",
@@ -213,13 +225,14 @@
       "destination_name": "Berlin",
       "feed_start_date": "02.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=BER",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-BER.jpg?ts=669369",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-BER.jpg?ts=897712",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-BER.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 277
+      "rounded_price": 277,
+      "": ""
     },
     {
       "destination_id": "VIE",
@@ -230,13 +243,14 @@
       "destination_name": "Vienna",
       "feed_start_date": "02.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=VIE",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-VIE.jpg?ts=704112",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-VIE.jpg?ts=29160",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-VIE.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 319
+      "rounded_price": 319,
+      "": ""
     },
     {
       "destination_id": "ANK",
@@ -247,13 +261,14 @@
       "destination_name": "Ankara",
       "feed_start_date": "04.12.2025",
       "final_url": "https://www.azal.az/az?utm_source=sheet_cataloue&from=BAK&to=ANK",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ANK.jpg?ts=813497",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ANK.jpg?ts=292916",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ANK.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
       "dep_city": "",
       "flight_description": "",
-      "rounded_price": 108
+      "rounded_price": 108,
+      "": ""
     }
   ]
 }
