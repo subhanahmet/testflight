@@ -9,7 +9,7 @@
       "destination_name": "Milan",
       "feed_start_date": "14.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=MIL",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MIL.jpg?ts=301284",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MIL.jpg?ts=352233",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MIL.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -17,7 +17,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Milan qiym?ti",
       "flight_price": "406 AZN",
       "rounded_price": "239 USD",
-      "rounded_price_usd": 239
+      "rounded_price_usd": 239,
+      "tt": "#N/A"
     },
     {
       "destination_id": "AYT",
@@ -28,7 +29,7 @@
       "destination_name": "Antalya",
       "feed_start_date": "14.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=AYT",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-AYT.jpg?ts=400358",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-AYT.jpg?ts=979357",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-AYT.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -36,7 +37,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Antalya qiym?ti",
       "flight_price": "254 AZN",
       "rounded_price": "150 USD",
-      "rounded_price_usd": 150
+      "rounded_price_usd": 150,
+      "tt": ""
     },
     {
       "destination_id": "TZX",
@@ -47,7 +49,7 @@
       "destination_name": "Trabzon",
       "feed_start_date": "08.12.2025",
       "final_url": "https://www.azal.az/az?from=BAK&to=TZX",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TZX.jpg?ts=705540",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TZX.jpg?ts=906971",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TZX.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -55,7 +57,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Trabzon qiym?ti",
       "flight_price": "124 AZN",
       "rounded_price": "73 USD",
-      "rounded_price_usd": 73
+      "rounded_price_usd": 73,
+      "tt": ""
     },
     {
       "destination_id": "TBS",
@@ -66,7 +69,7 @@
       "destination_name": "Tbilisi",
       "feed_start_date": "21.11.2025",
       "final_url": "https://www.azal.az/az?from=BAK&to=TBS",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TBS.jpg?ts=907793",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TBS.jpg?ts=728612",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-TBS.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -74,7 +77,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Tbilisi qiym?ti",
       "flight_price": "105 AZN",
       "rounded_price": "61 USD",
-      "rounded_price_usd": 61
+      "rounded_price_usd": 61,
+      "tt": ""
     },
     {
       "destination_id": "LON",
@@ -85,7 +89,7 @@
       "destination_name": "London",
       "feed_start_date": "18.11.2025",
       "final_url": "https://www.azal.az/az?from=BAK&to=LON",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LON.jpg?ts=353961",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LON.jpg?ts=493133",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LON.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -93,7 +97,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - London qiym?ti",
       "flight_price": "390 AZN",
       "rounded_price": "230 USD",
-      "rounded_price_usd": 230
+      "rounded_price_usd": 230,
+      "tt": ""
     },
     {
       "destination_id": "VIE",
@@ -104,7 +109,7 @@
       "destination_name": "Vienna",
       "feed_start_date": "16.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=VIE",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-VIE.jpg?ts=823569",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-VIE.jpg?ts=608056",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-VIE.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -112,7 +117,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Vienna qiym?ti",
       "flight_price": "386 AZN",
       "rounded_price": "227 USD",
-      "rounded_price_usd": 227
+      "rounded_price_usd": 227,
+      "tt": ""
     },
     {
       "destination_id": "IZM",
@@ -123,7 +129,7 @@
       "destination_name": "Izmir",
       "feed_start_date": "13.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=IZM",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IZM.jpg?ts=381512",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IZM.jpg?ts=895484",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IZM.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -131,7 +137,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Izmir qiym?ti",
       "flight_price": "191 AZN",
       "rounded_price": "113 USD",
-      "rounded_price_usd": 113
+      "rounded_price_usd": 113,
+      "tt": ""
     },
     {
       "destination_id": "ALA",
@@ -142,7 +149,7 @@
       "destination_name": "Almaty",
       "feed_start_date": "11.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=ALA",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ALA.jpg?ts=57994",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ALA.jpg?ts=356860",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ALA.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -150,7 +157,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Almaty qiym?ti",
       "flight_price": "303 AZN",
       "rounded_price": "178 USD",
-      "rounded_price_usd": 178
+      "rounded_price_usd": 178,
+      "tt": ""
     },
     {
       "destination_id": "PRG",
@@ -161,7 +169,7 @@
       "destination_name": "Prague",
       "feed_start_date": "16.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=PRG",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-PRG.jpg?ts=761197",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-PRG.jpg?ts=38555",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-PRG.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -169,7 +177,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Prague qiym?ti",
       "flight_price": "367 AZN",
       "rounded_price": "216 USD",
-      "rounded_price_usd": 216
+      "rounded_price_usd": 216,
+      "tt": ""
     },
     {
       "destination_id": "NQZ",
@@ -180,7 +189,7 @@
       "destination_name": "Astana",
       "feed_start_date": "19.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=NQZ",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-NQZ.jpg?ts=984819",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-NQZ.jpg?ts=647344",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-NQZ.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -188,7 +197,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Astana qiym?ti",
       "flight_price": "205 AZN",
       "rounded_price": "121 USD",
-      "rounded_price_usd": 121
+      "rounded_price_usd": 121,
+      "tt": ""
     },
     {
       "destination_id": "DXB",
@@ -199,7 +209,7 @@
       "destination_name": "Dubai",
       "feed_start_date": "01.12.2025",
       "final_url": "https://www.azal.az/az?from=BAK&to=DXB",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-DXB.jpg?ts=724650",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-DXB.jpg?ts=778445",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-DXB.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -207,7 +217,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Dubai qiym?ti",
       "flight_price": "324 AZN",
       "rounded_price": "190 USD",
-      "rounded_price_usd": 190
+      "rounded_price_usd": 190,
+      "tt": ""
     },
     {
       "destination_id": "MOW",
@@ -218,7 +229,7 @@
       "destination_name": "Moscow",
       "feed_start_date": "26.11.2025",
       "final_url": "https://www.azal.az/az?from=BAK&to=MOW",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MOW.jpg?ts=799200",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MOW.jpg?ts=632101",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-MOW.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -226,7 +237,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Moscow qiym?ti",
       "flight_price": "270 AZN",
       "rounded_price": "159 USD",
-      "rounded_price_usd": 159
+      "rounded_price_usd": 159,
+      "tt": ""
     },
     {
       "destination_id": "IST",
@@ -237,7 +249,7 @@
       "destination_name": "Istanbul",
       "feed_start_date": "12.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=IST",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IST.jpg?ts=267394",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IST.jpg?ts=394648",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-IST.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -245,7 +257,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Istanbul qiym?ti",
       "flight_price": "175 AZN",
       "rounded_price": "103 USD",
-      "rounded_price_usd": 103
+      "rounded_price_usd": 103,
+      "tt": ""
     },
     {
       "destination_id": "BER",
@@ -256,7 +269,7 @@
       "destination_name": "Berlin",
       "feed_start_date": "16.11.2025",
       "final_url": "https://www.azal.az/az?from=BAK&to=BER",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-BER.jpg?ts=33928",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-BER.jpg?ts=773533",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-BER.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -264,7 +277,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - Berlin qiym?ti",
       "flight_price": "358 AZN",
       "rounded_price": "211 USD",
-      "rounded_price_usd": 211
+      "rounded_price_usd": 211,
+      "tt": ""
     },
     {
       "destination_id": "LED",
@@ -275,7 +289,7 @@
       "destination_name": "St Petersburg",
       "feed_start_date": "21.01.2026",
       "final_url": "https://www.azal.az/az?from=BAK&to=LED",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LED.jpg?ts=876859",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LED.jpg?ts=862453",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-LED.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "Baku",
@@ -283,7 +297,8 @@
       "flight_description": "S?rf?li qiym?t? Baku - St Petersburg qiym?ti",
       "flight_price": "369 AZN",
       "rounded_price": "217 USD",
-      "rounded_price_usd": 217
+      "rounded_price_usd": 217,
+      "tt": ""
     },
     {
       "destination_id": "ANK",
@@ -294,7 +309,7 @@
       "destination_name": "Ankara",
       "feed_start_date": "01.12.2025",
       "final_url": "https://www.azal.az/az?from=BAK&to=ANK",
-      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ANK.jpg?ts=79342",
+      "image_url": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ANK.jpg?ts=652299",
       "github_image_urls": "https://raw.githubusercontent.com/subhanahmet/testflight/main/images/no_price/BAK-ANK.jpg",
       "feed_type": "Local Feed",
       "or_cirty": "",
@@ -302,7 +317,8 @@
       "flight_description": "???????? ?????? ?? ??????????? Baku - Ankara",
       "flight_price": "150 AZN",
       "rounded_price": "88 USD",
-      "rounded_price_usd": 88
+      "rounded_price_usd": 88,
+      "tt": ""
     }
   ]
 }
