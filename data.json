@@ -10954,13 +10954,94 @@
       "shymkent": "Shymkent"
     },
     {
-      "30062026": "",
+      "30062026": "20.05.2026",
       "cit": "TIV",
       "ber": "SCO",
-      "____berlin__shymkent": "",
-      "73690_azn": "",
-      "berlin": "",
-      "shymkent": ""
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "73690_azn": "406.65 AZN",
+      "berlin": "Aktau",
+      "shymkent": "Tivat"
+    },
+    {
+      "30062026": "11.05.2026",
+      "cit": "RMO",
+      "ber": "BAK",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Baku - Chisinau",
+      "73690_azn": "549.34 AZN",
+      "berlin": "Baku",
+      "shymkent": "Chisinau"
+    },
+    {
+      "30062026": "18.05.2026",
+      "cit": "ALA",
+      "ber": "BAK",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "73690_azn": "414.23 AZN",
+      "berlin": "Baku",
+      "shymkent": "Almaty"
+    },
+    {
+      "30062026": "05.05.2026",
+      "cit": "TLV",
+      "ber": "BAK",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "73690_azn": "297.56 AZN",
+      "berlin": "Baku",
+      "shymkent": "Tel Aviv"
+    },
+    {
+      "30062026": "09.05.2026",
+      "cit": "LED",
+      "ber": "BAK",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "73690_azn": "436.32 AZN",
+      "berlin": "Baku",
+      "shymkent": "St Petersburg"
+    },
+    {
+      "30062026": "09.06.2026",
+      "cit": "VIE",
+      "ber": "BAK",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "73690_azn": "493.74 AZN",
+      "berlin": "Baku",
+      "shymkent": "Vienna"
+    },
+    {
+      "30062026": "27.06.2026",
+      "cit": "HER",
+      "ber": "BAK",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "73690_azn": "894.18 AZN",
+      "berlin": "Baku",
+      "shymkent": "Heraklion"
+    },
+    {
+      "30062026": "20.06.2026",
+      "cit": "AYT",
+      "ber": "SCO",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "73690_azn": "363.90 AZN",
+      "berlin": "Aktau",
+      "shymkent": "Antalya"
+    },
+    {
+      "30062026": "13.05.2026",
+      "cit": "TBS",
+      "ber": "SCO",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "73690_azn": "236.95 AZN",
+      "berlin": "Aktau",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "30062026": "19.05.2026",
+      "cit": "LON",
+      "ber": "SCO",
+      "____berlin__shymkent": "???????? ?????? ?? ??????????? Aktau - London",
+      "73690_azn": "420.45 AZN",
+      "berlin": "Aktau",
+      "shymkent": "London"
     }
   ]
 }
