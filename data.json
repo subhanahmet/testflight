@@ -10387,13 +10387,796 @@
       "ekaterinburg": "Izmir"
     },
     {
-      "26052026": "",
+      "26052026": "16.06.2026",
       "svx": "COV",
-      "bcn": "",
-      "____barcelona__ekaterinburg": "",
-      "61678_azn": "",
-      "barcelona": "",
-      "ekaterinburg": ""
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
+      "61678_azn": "353.62 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "26052026": "09.05.2026",
+      "svx": "SSH",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Sharm El Sheikh",
+      "61678_azn": "560.65 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "26052026": "23.06.2026",
+      "svx": "DLM",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "61678_azn": "506.60 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "LON",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - London",
+      "61678_azn": "420.90 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "London"
+    },
+    {
+      "26052026": "18.05.2026",
+      "svx": "MOW",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Moscow",
+      "61678_azn": "367.80 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "26052026": "01.07.2026",
+      "svx": "ANK",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Ankara",
+      "61678_azn": "585.62 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "26052026": "16.06.2026",
+      "svx": "RIX",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Riga",
+      "61678_azn": "555.38 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Riga"
+    },
+    {
+      "26052026": "18.06.2026",
+      "svx": "AMD",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Ahmedabad",
+      "61678_azn": "258.40 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Ahmedabad"
+    },
+    {
+      "26052026": "18.05.2026",
+      "svx": "TZX",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Trabzon",
+      "61678_azn": "326.50 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "26052026": "14.06.2026",
+      "svx": "BJV",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Bodrum",
+      "61678_azn": "494.52 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "26052026": "13.05.2026",
+      "svx": "MSQ",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Minsk",
+      "61678_azn": "466.75 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "26052026": "08.05.2026",
+      "svx": "RMO",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Chisinau",
+      "61678_azn": "490.55 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "26052026": "22.06.2026",
+      "svx": "FRA",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Frankfurt",
+      "61678_azn": "431.06 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Frankfurt"
+    },
+    {
+      "26052026": "13.05.2026",
+      "svx": "TBS",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "61678_azn": "237.20 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "26052026": "17.06.2026",
+      "svx": "SSH",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Sharm El Sheikh",
+      "61678_azn": "868.20 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "VIE",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "61678_azn": "429.40 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "26052026": "15.06.2026",
+      "svx": "DLM",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Dalaman",
+      "61678_azn": "496.50 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "26052026": "07.06.2026",
+      "svx": "DYU",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "61678_azn": "250.40 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "26052026": "15.05.2026",
+      "svx": "PRG",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Prague",
+      "61678_azn": "367.57 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "26052026": "20.05.2026",
+      "svx": "TIV",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "61678_azn": "406.90 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "26052026": "10.05.2026",
+      "svx": "PAR",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Paris",
+      "61678_azn": "587.50 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "26052026": "13.05.2026",
+      "svx": "TLV",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Tel Aviv",
+      "61678_azn": "303.50 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "26052026": "03.06.2026",
+      "svx": "RUH",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Riyadh",
+      "61678_azn": "476.40 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "26052026": "06.06.2026",
+      "svx": "FRU",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Bishkek",
+      "61678_azn": "427.03 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "26052026": "24.06.2026",
+      "svx": "AYT",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Antalya",
+      "61678_azn": "393.32 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "26052026": "18.05.2026",
+      "svx": "TIV",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tivat",
+      "61678_azn": "405.19 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "26052026": "20.05.2026",
+      "svx": "TBS",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tbilisi",
+      "61678_azn": "166.87 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "26052026": "20.05.2026",
+      "svx": "SCO",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Aktau",
+      "61678_azn": "204.46 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "26052026": "14.06.2026",
+      "svx": "BJV",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Bodrum",
+      "61678_azn": "468.10 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "26052026": "31.05.2026",
+      "svx": "JED",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Jeddah",
+      "61678_azn": "1321.20 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "26052026": "13.05.2026",
+      "svx": "IST",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Istanbul",
+      "61678_azn": "232.10 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "BER",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Berlin",
+      "61678_azn": "388.00 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "26052026": "17.06.2026",
+      "svx": "TBZ",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Tabriz",
+      "61678_azn": "597.39 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "26052026": "01.07.2026",
+      "svx": "IST",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Istanbul",
+      "61678_azn": "466.40 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "26052026": "10.06.2026",
+      "svx": "BAK",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Baku",
+      "61678_azn": "486.75 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "26052026": "16.05.2026",
+      "svx": "SKD",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Samarkand",
+      "61678_azn": "360.42 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "GUW",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Atyrau",
+      "61678_azn": "361.27 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Atyrau"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "RMO",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Chisinau",
+      "61678_azn": "629.11 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "26052026": "08.05.2026",
+      "svx": "LHE",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Lahore",
+      "61678_azn": "532.23 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "26052026": "16.06.2026",
+      "svx": "COV",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Adana - Mersin",
+      "61678_azn": "5260.86 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "26052026": "01.07.2026",
+      "svx": "RUH",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Riyadh",
+      "61678_azn": "255.90 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "26052026": "07.06.2026",
+      "svx": "TZX",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "61678_azn": "307.78 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "26052026": "06.07.2026",
+      "svx": "MIL",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Milan",
+      "61678_azn": "660.32 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "26052026": "15.07.2026",
+      "svx": "IZM",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Izmir",
+      "61678_azn": "311.71 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "26052026": "31.05.2026",
+      "svx": "JED",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Jeddah",
+      "61678_azn": "1232.67 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "26052026": "04.06.2026",
+      "svx": "TAS",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tashkent",
+      "61678_azn": "400.12 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "26052026": "16.06.2026",
+      "svx": "DOH",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Doha",
+      "61678_azn": "809.65 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Doha"
+    },
+    {
+      "26052026": "16.06.2026",
+      "svx": "CIT",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Shymkent",
+      "61678_azn": "265.99 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "26052026": "06.06.2026",
+      "svx": "MED",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Medina",
+      "61678_azn": "960.74 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Medina"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "BCN",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Barcelona",
+      "61678_azn": "470.20 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "26052026": "08.06.2026",
+      "svx": "DMM",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Dammam",
+      "61678_azn": "259.87 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "26052026": "08.05.2026",
+      "svx": "VIE",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "61678_azn": "444.99 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "26052026": "27.06.2026",
+      "svx": "HER",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "61678_azn": "895.43 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Heraklion"
+    },
+    {
+      "26052026": "18.05.2026",
+      "svx": "PRG",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Prague",
+      "61678_azn": "434.50 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "26052026": "15.05.2026",
+      "svx": "DXB",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Dubai",
+      "61678_azn": "606.80 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "26052026": "12.05.2026",
+      "svx": "RMO",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "61678_azn": "509.20 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "26052026": "16.06.2026",
+      "svx": "IZM",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Izmir",
+      "61678_azn": "424.20 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "26052026": "22.05.2026",
+      "svx": "BUS",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Batumi",
+      "61678_azn": "224.41 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "26052026": "11.06.2026",
+      "svx": "BEG",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Belgrade",
+      "61678_azn": "321.82 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Belgrade"
+    },
+    {
+      "26052026": "20.05.2026",
+      "svx": "IST",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Istanbul",
+      "61678_azn": "343.51 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "26052026": "07.05.2026",
+      "svx": "ALA",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "61678_azn": "414.83 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "26052026": "16.06.2026",
+      "svx": "ANK",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Ankara",
+      "61678_azn": "303.81 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "LED",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "61678_azn": "417.10 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "BAK",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Baku",
+      "61678_azn": "150.70 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "26052026": "18.05.2026",
+      "svx": "ANK",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "61678_azn": "365.60 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "26052026": "07.05.2026",
+      "svx": "LON",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - London",
+      "61678_azn": "353.68 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "London"
+    },
+    {
+      "26052026": "09.05.2026",
+      "svx": "ISB",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Islamabad",
+      "61678_azn": "532.23 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "26052026": "09.05.2026",
+      "svx": "LED",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "61678_azn": "436.95 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "26052026": "15.05.2026",
+      "svx": "DXB",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Dubai",
+      "61678_azn": "612.08 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "26052026": "01.06.2026",
+      "svx": "TBZ",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tabriz",
+      "61678_azn": "288.11 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "26052026": "07.05.2026",
+      "svx": "TLV",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "61678_azn": "298.04 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "26052026": "27.05.2026",
+      "svx": "NQZ",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Astana",
+      "61678_azn": "385.06 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "26052026": "16.06.2026",
+      "svx": "COV",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Adana - Mersin",
+      "61678_azn": "364.10 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "26052026": "01.07.2026",
+      "svx": "MOW",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Moscow",
+      "61678_azn": "539.33 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "26052026": "13.05.2026",
+      "svx": "MIL",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Milan",
+      "61678_azn": "441.02 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "26052026": "10.05.2026",
+      "svx": "PAR",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Paris",
+      "61678_azn": "647.46 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "26052026": "06.05.2026",
+      "svx": "BOM",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Mumbai",
+      "61678_azn": "333.37 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "26052026": "06.05.2026",
+      "svx": "DEL",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "61678_azn": "343.60 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "26052026": "19.05.2026",
+      "svx": "MOW",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Moscow",
+      "61678_azn": "357.55 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "26052026": "20.06.2026",
+      "svx": "AYT",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "61678_azn": "364.10 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "26052026": "05.06.2026",
+      "svx": "BJS",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Beijing",
+      "61678_azn": "462.85 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Beijing"
+    },
+    {
+      "26052026": "12.05.2026",
+      "svx": "BCN",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Barcelona",
+      "61678_azn": "456.90 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "26052026": "12.05.2026",
+      "svx": "SVX",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Ekaterinburg",
+      "61678_azn": "504.44 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Ekaterinburg"
+    },
+    {
+      "26052026": "01.06.2026",
+      "svx": "THR",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tehran",
+      "61678_azn": "375.27 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "26052026": "07.05.2026",
+      "svx": "BER",
+      "bcn": "BAK",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Berlin",
+      "61678_azn": "372.64 AZN",
+      "barcelona": "Baku",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "26052026": "10.05.2026",
+      "svx": "BUS",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Batumi",
+      "61678_azn": "384.30 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "26052026": "20.05.2026",
+      "svx": "MSQ",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Minsk",
+      "61678_azn": "530.20 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "26052026": "20.05.2026",
+      "svx": "MIL",
+      "bcn": "SCO",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Milan",
+      "61678_azn": "414.10 AZN",
+      "barcelona": "Aktau",
+      "ekaterinburg": "Milan"
     }
   ]
 }
