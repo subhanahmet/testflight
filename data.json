@@ -10684,13 +10684,472 @@
       "sharm_el_sheikh": "Tivat"
     },
     {
-      "16062026": "",
+      "16062026": "07.07.2026",
       "ssh": "TZX",
-      "bcn": "",
-      "____barcelona__sharm_el_sheikh": "",
-      "147692_azn": "",
-      "barcelona": "",
-      "sharm_el_sheikh": ""
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - Trabzon",
+      "147692_azn": "568.78 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "16062026": "16.06.2026",
+      "ssh": "CIT",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Shymkent",
+      "147692_azn": "265.99 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "16062026": "01.07.2026",
+      "ssh": "RUH",
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - Riyadh",
+      "147692_azn": "644.08 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "16062026": "06.05.2026",
+      "ssh": "DEL",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "147692_azn": "343.60 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "16062026": "16.06.2026",
+      "ssh": "SSH",
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - Sharm El Sheikh",
+      "147692_azn": "1004.84 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "16062026": "18.05.2026",
+      "ssh": "PRG",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Prague",
+      "147692_azn": "434.50 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "16062026": "02.07.2026",
+      "ssh": "LON",
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - London",
+      "147692_azn": "662.52 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "16062026": "05.06.2026",
+      "ssh": "BJS",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Beijing",
+      "147692_azn": "462.85 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "16062026": "16.06.2026",
+      "ssh": "DOH",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Doha",
+      "147692_azn": "809.65 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "16062026": "16.06.2026",
+      "ssh": "COV",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
+      "147692_azn": "353.62 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "16062026": "09.06.2026",
+      "ssh": "SKD",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Samarkand",
+      "147692_azn": "360.42 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "16062026": "08.05.2026",
+      "ssh": "VIE",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "147692_azn": "444.99 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "16062026": "13.05.2026",
+      "ssh": "TLV",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Tel Aviv",
+      "147692_azn": "303.50 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "16062026": "19.05.2026",
+      "ssh": "VIE",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "147692_azn": "386.90 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "16062026": "03.07.2026",
+      "ssh": "VIE",
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - Vienna",
+      "147692_azn": "620.68 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "16062026": "30.06.2026",
+      "ssh": "CIT",
+      "bcn": "AYT",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Shymkent",
+      "147692_azn": "493.40 AZN",
+      "barcelona": "Antalya",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "16062026": "15.05.2026",
+      "ssh": "DXB",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Dubai",
+      "147692_azn": "612.08 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "16062026": "18.05.2026",
+      "ssh": "RMO",
+      "bcn": "AYT",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Chisinau",
+      "147692_azn": "667.40 AZN",
+      "barcelona": "Antalya",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "16062026": "07.06.2026",
+      "ssh": "DYU",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "147692_azn": "250.40 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "16062026": "10.05.2026",
+      "ssh": "DEL",
+      "bcn": "LON",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? London - New Delhi",
+      "147692_azn": "728.01 AZN",
+      "barcelona": "London",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "16062026": "10.05.2026",
+      "ssh": "PAR",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Paris",
+      "147692_azn": "587.50 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "16062026": "06.07.2026",
+      "ssh": "MIL",
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - Milan",
+      "147692_azn": "660.32 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "16062026": "13.05.2026",
+      "ssh": "IST",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Istanbul",
+      "147692_azn": "232.10 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "16062026": "01.07.2026",
+      "ssh": "MOW",
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - Moscow",
+      "147692_azn": "539.33 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "16062026": "16.06.2026",
+      "ssh": "IZM",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Izmir",
+      "147692_azn": "424.20 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "16062026": "16.06.2026",
+      "ssh": "RIX",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Riga",
+      "147692_azn": "555.38 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Riga"
+    },
+    {
+      "16062026": "07.05.2026",
+      "ssh": "ALA",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "147692_azn": "414.83 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "16062026": "10.05.2026",
+      "ssh": "BAK",
+      "bcn": "LON",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? London - Baku",
+      "147692_azn": "610.43 AZN",
+      "barcelona": "London",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "16062026": "27.05.2026",
+      "ssh": "NQZ",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Astana",
+      "147692_azn": "385.06 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "16062026": "12.05.2026",
+      "ssh": "RMO",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "147692_azn": "449.70 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "16062026": "25.05.2026",
+      "ssh": "AYT",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Antalya",
+      "147692_azn": "433.02 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "16062026": "19.05.2026",
+      "ssh": "GUW",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Atyrau",
+      "147692_azn": "361.27 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Atyrau"
+    },
+    {
+      "16062026": "15.05.2026",
+      "ssh": "BUS",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Batumi",
+      "147692_azn": "218.45 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "16062026": "07.05.2026",
+      "ssh": "BER",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Berlin",
+      "147692_azn": "372.64 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "16062026": "20.05.2026",
+      "ssh": "IST",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Istanbul",
+      "147692_azn": "343.51 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "16062026": "21.05.2026",
+      "ssh": "ANK",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Ankara",
+      "147692_azn": "295.87 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "16062026": "09.05.2026",
+      "ssh": "LED",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "147692_azn": "436.95 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "16062026": "27.06.2026",
+      "ssh": "HER",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "147692_azn": "895.43 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Heraklion"
+    },
+    {
+      "16062026": "20.05.2026",
+      "ssh": "TIV",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "147692_azn": "406.90 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "16062026": "10.05.2026",
+      "ssh": "BUS",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Batumi",
+      "147692_azn": "384.30 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "16062026": "13.05.2026",
+      "ssh": "TBS",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "147692_azn": "237.20 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "16062026": "19.05.2026",
+      "ssh": "BCN",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Barcelona",
+      "147692_azn": "470.20 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "16062026": "18.05.2026",
+      "ssh": "ANK",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "147692_azn": "365.60 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "16062026": "16.06.2026",
+      "ssh": "TBS",
+      "bcn": "AYT",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Tbilisi",
+      "147692_azn": "420.30 AZN",
+      "barcelona": "Antalya",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "16062026": "04.06.2026",
+      "ssh": "FRU",
+      "bcn": "LON",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? London - Bishkek",
+      "147692_azn": "988.95 AZN",
+      "barcelona": "London",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "16062026": "01.06.2026",
+      "ssh": "THR",
+      "bcn": "LON",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? London - Tehran",
+      "147692_azn": "970.58 AZN",
+      "barcelona": "London",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "16062026": "17.05.2026",
+      "ssh": "DYU",
+      "bcn": "LON",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? London - Dushanbe",
+      "147692_azn": "821.55 AZN",
+      "barcelona": "London",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "16062026": "10.06.2026",
+      "ssh": "LED",
+      "bcn": "DEL",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? New Delhi - St Petersburg",
+      "147692_azn": "626.49 AZN",
+      "barcelona": "New Delhi",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "16062026": "07.05.2026",
+      "ssh": "LON",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - London",
+      "147692_azn": "353.68 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "16062026": "07.06.2026",
+      "ssh": "TZX",
+      "bcn": "BAK",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "147692_azn": "307.78 AZN",
+      "barcelona": "Baku",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "16062026": "23.06.2026",
+      "ssh": "DLM",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "147692_azn": "506.60 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "16062026": "19.05.2026",
+      "ssh": "LED",
+      "bcn": "SCO",
+      "____barcelona__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "147692_azn": "417.10 AZN",
+      "barcelona": "Aktau",
+      "sharm_el_sheikh": "St Petersburg"
     }
   ]
 }
