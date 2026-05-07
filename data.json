@@ -2552,9 +2552,4815 @@
       "bcn": "DXB",
       "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Chisinau",
       "76753_azn": "687.03 AZN",
-      "barcelona": "",
-      "islamabad": "",
-      "09052026": ""
+      "barcelona": "Dubai",
+      "islamabad": "Chisinau",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "DXB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Berlin",
+      "76753_azn": "729.54 AZN",
+      "barcelona": "Dubai",
+      "islamabad": "Berlin",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "DXB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Astana",
+      "76753_azn": "838.46 AZN",
+      "barcelona": "Dubai",
+      "islamabad": "Astana",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Tashkent",
+      "76753_azn": "556.43 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Tashkent",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Sharm El Sheikh",
+      "76753_azn": "949.32 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "DXB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Dushanbe",
+      "76753_azn": "500.05 AZN",
+      "barcelona": "Dubai",
+      "islamabad": "Dushanbe",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "DXB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Istanbul",
+      "76753_azn": "536.48 AZN",
+      "barcelona": "Dubai",
+      "islamabad": "Istanbul",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "DXB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Aktau",
+      "76753_azn": "816.46 AZN",
+      "barcelona": "Dubai",
+      "islamabad": "Aktau",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "JED",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Jeddah",
+      "76753_azn": "1969.88 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Jeddah",
+      "09052026": "30.05.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Tabriz",
+      "76753_azn": "617.47 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Tabriz",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - London",
+      "76753_azn": "742.38 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "London",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Riyadh",
+      "76753_azn": "693.01 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Riyadh",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Shymkent",
+      "76753_azn": "730.88 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Shymkent",
+      "09052026": "09.07.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Bodrum",
+      "76753_azn": "702.51 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Bodrum",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "DXB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Samarkand",
+      "76753_azn": "548.50 AZN",
+      "barcelona": "Dubai",
+      "islamabad": "Samarkand",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Samarkand",
+      "76753_azn": "556.43 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Samarkand",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Moscow",
+      "76753_azn": "541.71 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Moscow",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Barcelona",
+      "76753_azn": "828.17 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Barcelona",
+      "09052026": "27.06.2026"
+    },
+    {
+      "isb": "MSQ",
+      "bcn": "DXB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dubai - Minsk",
+      "76753_azn": "709.30 AZN",
+      "barcelona": "Dubai",
+      "islamabad": "Minsk",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Tbilisi",
+      "76753_azn": "530.89 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Tbilisi",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Istanbul",
+      "76753_azn": "496.97 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Istanbul",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Ahmedabad",
+      "76753_azn": "731.20 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Ahmedabad",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Dushanbe",
+      "76753_azn": "623.45 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Dushanbe",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "MSQ",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Minsk",
+      "76753_azn": "791.07 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Minsk",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "MIL",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Milan - Baku",
+      "76753_azn": "429.91 AZN",
+      "barcelona": "Milan",
+      "islamabad": "Baku",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Paris",
+      "76753_azn": "810.22 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Paris",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Riyadh",
+      "76753_azn": "702.19 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Riyadh",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Sharm El Sheikh",
+      "76753_azn": "1245.79 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tivat",
+      "76753_azn": "486.92 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tivat",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Vienna",
+      "76753_azn": "696.50 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Vienna",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Paris",
+      "76753_azn": "724.29 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Paris",
+      "09052026": "20.06.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Shymkent",
+      "76753_azn": "452.64 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Shymkent",
+      "09052026": "19.06.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Dushanbe",
+      "76753_azn": "373.14 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Dushanbe",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Islamabad",
+      "76753_azn": "674.46 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Islamabad",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - St Petersburg",
+      "76753_azn": "498.89 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "St Petersburg",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Barcelona",
+      "76753_azn": "708.34 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Barcelona",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Dubai",
+      "76753_azn": "457.33 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Dubai",
+      "09052026": "03.07.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Tel Aviv",
+      "76753_azn": "415.12 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Tel Aviv",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Sharm El Sheikh",
+      "76753_azn": "1030.26 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "05.08.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Tivat",
+      "76753_azn": "457.46 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Tivat",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Chisinau",
+      "76753_azn": "762.27 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Chisinau",
+      "09052026": "28.07.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Dammam",
+      "76753_azn": "548.43 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Dammam",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Vienna",
+      "76753_azn": "796.19 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Vienna",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Lahore",
+      "76753_azn": "674.46 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Lahore",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Riyadh",
+      "76753_azn": "580.36 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Riyadh",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tabriz",
+      "76753_azn": "367.16 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tabriz",
+      "09052026": "11.06.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - New Delhi",
+      "76753_azn": "478.81 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "New Delhi",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Milan",
+      "76753_azn": "544.74 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Milan",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Izmir",
+      "76753_azn": "455.02 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Izmir",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Prague",
+      "76753_azn": "534.84 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Prague",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Moscow",
+      "76753_azn": "455.07 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Moscow",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Milan",
+      "76753_azn": "736.40 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Milan",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Prague",
+      "76753_azn": "514.81 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Prague",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Ahmedabad",
+      "76753_azn": "945.74 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Ahmedabad",
+      "09052026": "26.06.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Dubai",
+      "76753_azn": "391.58 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Dubai",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Bishkek",
+      "76753_azn": "486.92 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Bishkek",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Chisinau",
+      "76753_azn": "868.15 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Chisinau",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Izmir",
+      "76753_azn": "632.70 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Izmir",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Ankara",
+      "76753_azn": "612.71 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Ankara",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Samarkand",
+      "76753_azn": "443.78 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Samarkand",
+      "09052026": "09.06.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Berlin",
+      "76753_azn": "621.64 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Berlin",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - St Petersburg",
+      "76753_azn": "502.95 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "St Petersburg",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Ankara",
+      "76753_azn": "445.06 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Ankara",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tashkent",
+      "76753_azn": "443.78 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tashkent",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tel Aviv",
+      "76753_azn": "478.88 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tel Aviv",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Baku",
+      "76753_azn": "261.35 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Baku",
+      "09052026": "03.07.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Astana",
+      "76753_azn": "450.71 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Astana",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Aktau",
+      "76753_azn": "366.86 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Aktau",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Tivat",
+      "76753_azn": "494.97 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Tivat",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Batumi",
+      "76753_azn": "433.08 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Batumi",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Almaty",
+      "76753_azn": "512.56 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Almaty",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Ekaterinburg",
+      "76753_azn": "534.79 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Ekaterinburg",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tehran",
+      "76753_azn": "456.96 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tehran",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Bodrum",
+      "76753_azn": "544.84 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Bodrum",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Istanbul",
+      "76753_azn": "329.33 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Istanbul",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Dalaman",
+      "76753_azn": "626.57 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Dalaman",
+      "09052026": "03.07.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Moscow",
+      "76753_azn": "443.02 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Moscow",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Baku",
+      "76753_azn": "253.49 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Baku",
+      "09052026": "26.06.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Milan",
+      "76753_azn": "570.75 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Milan",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Ankara",
+      "76753_azn": "433.02 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Ankara",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - London",
+      "76753_azn": "576.74 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "London",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Barcelona",
+      "76753_azn": "1067.53 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Barcelona",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Chisinau",
+      "76753_azn": "682.55 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Chisinau",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Paris",
+      "76753_azn": "921.88 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Paris",
+      "09052026": "26.06.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Mumbai",
+      "76753_azn": "494.38 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Mumbai",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Vienna",
+      "76753_azn": "508.83 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Vienna",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Antalya",
+      "76753_azn": "468.91 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Antalya",
+      "09052026": "09.06.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Dalaman",
+      "76753_azn": "582.75 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Dalaman",
+      "09052026": "17.07.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Trabzon",
+      "76753_azn": "433.09 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Trabzon",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "MSQ",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Minsk",
+      "76753_azn": "688.39 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Minsk",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Istanbul",
+      "76753_azn": "293.34 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Istanbul",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Tbilisi",
+      "76753_azn": "331.32 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Tbilisi",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Bodrum",
+      "76753_azn": "598.63 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Bodrum",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Antalya",
+      "76753_azn": "419.10 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Antalya",
+      "09052026": "24.06.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Izmir",
+      "76753_azn": "475.04 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Izmir",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Sharm El Sheikh",
+      "76753_azn": "1064.10 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "DYU",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Dushanbe - Riyadh",
+      "76753_azn": "544.52 AZN",
+      "barcelona": "Dushanbe",
+      "islamabad": "Riyadh",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Ahmedabad",
+      "76753_azn": "730.74 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Ahmedabad",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Bishkek",
+      "76753_azn": "597.11 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Bishkek",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "JED",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Jeddah",
+      "76753_azn": "3874.74 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Jeddah",
+      "09052026": "30.05.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Tabriz",
+      "76753_azn": "477.35 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Tabriz",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Tehran",
+      "76753_azn": "568.25 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Tehran",
+      "09052026": "08.06.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Shymkent",
+      "76753_azn": "551.78 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Shymkent",
+      "09052026": "15.06.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Dalaman",
+      "76753_azn": "678.04 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Dalaman",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Tashkent",
+      "76753_azn": "679.82 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Tashkent",
+      "09052026": "07.06.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Paris",
+      "76753_azn": "837.62 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Paris",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Antalya",
+      "76753_azn": "498.21 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Antalya",
+      "09052026": "10.06.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Dubai",
+      "76753_azn": "876.78 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Dubai",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Batumi",
+      "76753_azn": "460.55 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Batumi",
+      "09052026": "29.05.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Ankara",
+      "76753_azn": "519.27 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Ankara",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Tbilisi",
+      "76753_azn": "503.44 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Tbilisi",
+      "09052026": "20.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Riyadh",
+      "76753_azn": "629.84 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Riyadh",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Milan",
+      "76753_azn": "506.21 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Milan",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Tel Aviv",
+      "76753_azn": "528.36 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Tel Aviv",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Istanbul",
+      "76753_azn": "366.53 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Istanbul",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Barcelona",
+      "76753_azn": "509.29 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Barcelona",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Paris",
+      "76753_azn": "1086.03 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Paris",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Sharm El Sheikh",
+      "76753_azn": "853.25 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Milan",
+      "76753_azn": "706.96 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Milan",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Samarkand",
+      "76753_azn": "486.15 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Samarkand",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Riyadh",
+      "76753_azn": "695.45 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Riyadh",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Tashkent",
+      "76753_azn": "486.15 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Tashkent",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BJS",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Beijing",
+      "76753_azn": "1090.02 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Beijing",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Dalaman",
+      "76753_azn": "900.36 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Dalaman",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Sharm El Sheikh",
+      "76753_azn": "781.27 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Vienna",
+      "76753_azn": "548.10 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Vienna",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Batumi",
+      "76753_azn": "589.25 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Batumi",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Almaty",
+      "76753_azn": "583.00 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Almaty",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Bodrum",
+      "76753_azn": "762.70 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Bodrum",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Almaty",
+      "76753_azn": "556.92 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Almaty",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - London",
+      "76753_azn": "447.44 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "London",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Aktau",
+      "76753_azn": "409.22 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Aktau",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Mumbai",
+      "76753_azn": "692.51 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Mumbai",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Tivat",
+      "76753_azn": "556.34 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Tivat",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Dushanbe",
+      "76753_azn": "419.49 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Dushanbe",
+      "09052026": "16.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - London",
+      "76753_azn": "698.98 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "London",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Bodrum",
+      "76753_azn": "628.17 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Bodrum",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Lahore",
+      "76753_azn": "611.08 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Lahore",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Trabzon",
+      "76753_azn": "479.37 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Trabzon",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Dammam",
+      "76753_azn": "543.83 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Dammam",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Prague",
+      "76753_azn": "700.97 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Prague",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Vienna",
+      "76753_azn": "650.41 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Vienna",
+      "09052026": "11.06.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Prague",
+      "76753_azn": "725.89 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Prague",
+      "09052026": "05.06.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Islamabad",
+      "76753_azn": "652.98 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Islamabad",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Mumbai",
+      "76753_azn": "391.10 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Mumbai",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Tel Aviv",
+      "76753_azn": "525.39 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Tel Aviv",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Astana",
+      "76753_azn": "493.07 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Astana",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - New Delhi",
+      "76753_azn": "453.34 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "New Delhi",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Baku",
+      "76753_azn": "405.67 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Baku",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Adana - Mersin",
+      "76753_azn": "597.06 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Adana - Mersin",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Barcelona",
+      "76753_azn": "790.75 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Barcelona",
+      "09052026": "16.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Berlin",
+      "76753_azn": "458.52 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Berlin",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Prague",
+      "76753_azn": "535.23 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Prague",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Paris",
+      "76753_azn": "589.10 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Paris",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Tbilisi",
+      "76753_azn": "407.52 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Tbilisi",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Izmir",
+      "76753_azn": "543.27 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Izmir",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Shymkent",
+      "76753_azn": "814.38 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Shymkent",
+      "09052026": "19.06.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "MSQ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Minsk - Dubai",
+      "76753_azn": "573.67 AZN",
+      "barcelona": "Minsk",
+      "islamabad": "Dubai",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Trabzon",
+      "76753_azn": "546.34 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Trabzon",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Tehran",
+      "76753_azn": "506.43 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Tehran",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "BJS",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Beijing",
+      "76753_azn": "734.74 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Beijing",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Tel Aviv",
+      "76753_azn": "535.21 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Tel Aviv",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Baku",
+      "76753_azn": "263.86 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Baku",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "MOW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Moscow - Chisinau",
+      "76753_azn": "1087.94 AZN",
+      "barcelona": "Moscow",
+      "islamabad": "Chisinau",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Antalya",
+      "76753_azn": "518.38 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Antalya",
+      "09052026": "29.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Barcelona",
+      "76753_azn": "917.42 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Barcelona",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Tbilisi",
+      "76753_azn": "406.66 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Tbilisi",
+      "09052026": "02.06.2026"
+    },
+    {
+      "isb": "MSQ",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Minsk",
+      "76753_azn": "785.75 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Minsk",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Bodrum",
+      "76753_azn": "1518.45 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Bodrum",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Sharm El Sheikh",
+      "76753_azn": "1129.54 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Bishkek",
+      "76753_azn": "524.90 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Bishkek",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "JED",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Jeddah",
+      "76753_azn": "1665.30 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Jeddah",
+      "09052026": "31.05.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Dubai",
+      "76753_azn": "498.84 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Dubai",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Dalaman",
+      "76753_azn": "573.00 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Dalaman",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - St Petersburg",
+      "76753_azn": "504.47 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "St Petersburg",
+      "09052026": "28.05.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Bodrum",
+      "76753_azn": "617.20 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Bodrum",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Baku",
+      "76753_azn": "383.30 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Baku",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Trabzon",
+      "76753_azn": "407.90 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Trabzon",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Vienna",
+      "76753_azn": "520.87 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Vienna",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Izmir",
+      "76753_azn": "415.19 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Izmir",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Paris",
+      "76753_azn": "592.10 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Paris",
+      "09052026": "04.06.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Prague",
+      "76753_azn": "598.68 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Prague",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Ekaterinburg",
+      "76753_azn": "530.89 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Ekaterinburg",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Islamabad",
+      "76753_azn": "698.47 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Islamabad",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Dushanbe",
+      "76753_azn": "331.32 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Dushanbe",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "MSQ",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Minsk",
+      "76753_azn": "909.92 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Minsk",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Milan",
+      "76753_azn": "644.57 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Milan",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Astana",
+      "76753_azn": "353.03 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Astana",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Antalya",
+      "76753_azn": "498.91 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Antalya",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Antalya",
+      "76753_azn": "370.80 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Antalya",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - St Petersburg",
+      "76753_azn": "564.80 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "St Petersburg",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Tbilisi",
+      "76753_azn": "279.80 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Tbilisi",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Tabriz",
+      "76753_azn": "1004.26 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Tabriz",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Dubai",
+      "76753_azn": "1169.66 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Dubai",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Tivat",
+      "76753_azn": "598.50 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Tivat",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "JED",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Jeddah",
+      "76753_azn": "1498.19 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Jeddah",
+      "09052026": "30.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Baku",
+      "76753_azn": "305.32 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Baku",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Tashkent",
+      "76753_azn": "417.93 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Tashkent",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - London",
+      "76753_azn": "650.56 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "London",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Barcelona",
+      "76753_azn": "736.34 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Barcelona",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Berlin",
+      "76753_azn": "593.80 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Berlin",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Shymkent",
+      "76753_azn": "1216.84 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Shymkent",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Sharm El Sheikh",
+      "76753_azn": "567.41 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Prague",
+      "76753_azn": "495.20 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Prague",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Tabriz",
+      "76753_azn": "416.63 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Tabriz",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Lahore",
+      "76753_azn": "698.47 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Lahore",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Chisinau",
+      "76753_azn": "676.09 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Chisinau",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Dammam",
+      "76753_azn": "1506.16 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Dammam",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Istanbul",
+      "76753_azn": "421.10 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Istanbul",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Berlin",
+      "76753_azn": "768.89 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Berlin",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Milan",
+      "76753_azn": "841.61 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Milan",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Ankara",
+      "76753_azn": "560.30 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Ankara",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Paris",
+      "76753_azn": "696.44 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Paris",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Dalaman",
+      "76753_azn": "1330.91 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Dalaman",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "BJS",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Beijing",
+      "76753_azn": "678.49 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Beijing",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Riyadh",
+      "76753_azn": "1533.09 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Riyadh",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Moscow",
+      "76753_azn": "445.10 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Moscow",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Ankara",
+      "76753_azn": "395.19 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Ankara",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Izmir",
+      "76753_azn": "574.32 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Izmir",
+      "09052026": "02.06.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Ahmedabad",
+      "76753_azn": "4560.94 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Ahmedabad",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - New Delhi",
+      "76753_azn": "482.88 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "New Delhi",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - London",
+      "76753_azn": "640.10 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "London",
+      "09052026": "28.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Moscow",
+      "76753_azn": "460.58 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Moscow",
+      "09052026": "26.05.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Istanbul",
+      "76753_azn": "444.57 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Istanbul",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Adana - Mersin",
+      "76753_azn": "518.38 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Adana - Mersin",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "TAS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tashkent - Vienna",
+      "76753_azn": "719.91 AZN",
+      "barcelona": "Tashkent",
+      "islamabad": "Vienna",
+      "09052026": "29.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Mumbai",
+      "76753_azn": "458.54 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Mumbai",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Adana - Mersin",
+      "76753_azn": "1464.53 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Adana - Mersin",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Samarkand",
+      "76753_azn": "417.93 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Samarkand",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Almaty",
+      "76753_azn": "486.70 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Almaty",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Aktau",
+      "76753_azn": "293.12 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Aktau",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Batumi",
+      "76753_azn": "389.20 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Batumi",
+      "09052026": "04.06.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Tivat",
+      "76753_azn": "556.82 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Tivat",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "TBS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tbilisi - Tel Aviv",
+      "76753_azn": "463.00 AZN",
+      "barcelona": "Tbilisi",
+      "islamabad": "Tel Aviv",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Samarkand",
+      "76753_azn": "625.45 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Samarkand",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Barcelona",
+      "76753_azn": "592.10 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Barcelona",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Baku",
+      "76753_azn": "241.60 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Baku",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Lahore",
+      "76753_azn": "842.16 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Lahore",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Milan",
+      "76753_azn": "525.80 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Milan",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Ekaterinburg",
+      "76753_azn": "604.74 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Ekaterinburg",
+      "09052026": "26.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Moscow",
+      "76753_azn": "630.68 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Moscow",
+      "09052026": "23.05.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Islamabad",
+      "76753_azn": "626.69 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Islamabad",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Antalya",
+      "76753_azn": "898.31 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Antalya",
+      "09052026": "25.05.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Aktau",
+      "76753_azn": "512.62 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Aktau",
+      "09052026": "26.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Sharm El Sheikh",
+      "76753_azn": "1415.40 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Tivat",
+      "76753_azn": "807.20 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Tivat",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Vienna",
+      "76753_azn": "983.60 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Vienna",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Dushanbe",
+      "76753_azn": "618.65 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Dushanbe",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Tivat",
+      "76753_azn": "967.10 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Tivat",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Tehran",
+      "76753_azn": "873.40 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Tehran",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Tbilisi",
+      "76753_azn": "880.50 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Tbilisi",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - St Petersburg",
+      "76753_azn": "943.30 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "St Petersburg",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Barcelona",
+      "76753_azn": "1101.80 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Barcelona",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Milan",
+      "76753_azn": "1050.80 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Milan",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Tbilisi",
+      "76753_azn": "548.83 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Tbilisi",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Riyadh",
+      "76753_azn": "975.70 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Riyadh",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Baku",
+      "76753_azn": "715.60 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Baku",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Moscow",
+      "76753_azn": "418.20 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Moscow",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Adana - Mersin",
+      "76753_azn": "489.80 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Adana - Mersin",
+      "09052026": "15.06.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Berlin",
+      "76753_azn": "489.50 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Berlin",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Chisinau",
+      "76753_azn": "719.60 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Chisinau",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - New Delhi",
+      "76753_azn": "500.88 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "New Delhi",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Ahmedabad",
+      "76753_azn": "702.46 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Ahmedabad",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Sharm El Sheikh",
+      "76753_azn": "942.52 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Baku",
+      "76753_azn": "365.26 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Baku",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Tel Aviv",
+      "76753_azn": "868.60 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Tel Aviv",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Bishkek",
+      "76753_azn": "732.43 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Bishkek",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "BJS",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Beijing",
+      "76753_azn": "663.10 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Beijing",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - London",
+      "76753_azn": "1042.30 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "London",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Mumbai",
+      "76753_azn": "574.29 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Mumbai",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Dalaman",
+      "76753_azn": "943.30 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Dalaman",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Dubai",
+      "76753_azn": "787.70 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Dubai",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Izmir",
+      "76753_azn": "907.30 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Izmir",
+      "09052026": "27.07.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Shymkent",
+      "76753_azn": "460.90 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Shymkent",
+      "09052026": "15.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - St Petersburg",
+      "76753_azn": "570.83 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "St Petersburg",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Tashkent",
+      "76753_azn": "370.40 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Tashkent",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Almaty",
+      "76753_azn": "626.39 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Almaty",
+      "09052026": "23.05.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Tabriz",
+      "76753_azn": "783.60 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Tabriz",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Moscow",
+      "76753_azn": "905.90 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Moscow",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Chisinau",
+      "76753_azn": "1051.61 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Chisinau",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Paris",
+      "76753_azn": "612.10 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Paris",
+      "09052026": "04.06.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Tashkent",
+      "76753_azn": "625.45 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Tashkent",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "TBZ",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tabriz - Izmir",
+      "76753_azn": "433.30 AZN",
+      "barcelona": "Tabriz",
+      "islamabad": "Izmir",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Prague",
+      "76753_azn": "976.00 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Prague",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Bodrum",
+      "76753_azn": "987.50 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Bodrum",
+      "09052026": "02.07.2026"
+    },
+    {
+      "isb": "JED",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Jeddah",
+      "76753_azn": "2636.71 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Jeddah",
+      "09052026": "31.05.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Trabzon",
+      "76753_azn": "890.40 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Trabzon",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Prague",
+      "76753_azn": "520.30 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Prague",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Adana - Mersin",
+      "76753_azn": "858.40 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Adana - Mersin",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "VIE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Vienna - Astana",
+      "76753_azn": "634.37 AZN",
+      "barcelona": "Vienna",
+      "islamabad": "Astana",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Paris",
+      "76753_azn": "1101.80 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Paris",
+      "09052026": "21.06.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Batumi",
+      "76753_azn": "870.00 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Batumi",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Berlin",
+      "76753_azn": "990.70 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Berlin",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Istanbul",
+      "76753_azn": "804.00 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Istanbul",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "ISB",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Islamabad - Ankara",
+      "76753_azn": "909.10 AZN",
+      "barcelona": "Islamabad",
+      "islamabad": "Ankara",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Bodrum",
+      "76753_azn": "637.20 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Bodrum",
+      "09052026": "08.07.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Lahore",
+      "76753_azn": "1138.28 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Lahore",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BJS",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Beijing",
+      "76753_azn": "576.61 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Beijing",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Berlin",
+      "76753_azn": "514.60 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Berlin",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Baku",
+      "76753_azn": "246.70 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Baku",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Adana - Mersin",
+      "76753_azn": "509.80 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Adana - Mersin",
+      "09052026": "13.06.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Dushanbe",
+      "76753_azn": "787.17 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Dushanbe",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Sharm El Sheikh",
+      "76753_azn": "633.51 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - St Petersburg",
+      "76753_azn": "811.17 AZN",
+      "barcelona": "Paris",
+      "islamabad": "St Petersburg",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Dubai",
+      "76753_azn": "865.38 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Dubai",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Dammam",
+      "76753_azn": "936.53 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Dammam",
+      "09052026": "12.06.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Astana",
+      "76753_azn": "802.89 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Astana",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Trabzon",
+      "76753_azn": "427.90 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Trabzon",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Ekaterinburg",
+      "76753_azn": "373.91 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Ekaterinburg",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Almaty",
+      "76753_azn": "362.10 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Almaty",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Tabriz",
+      "76753_azn": "781.19 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Tabriz",
+      "09052026": "07.06.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Shymkent",
+      "76753_azn": "874.65 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Shymkent",
+      "09052026": "19.06.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Baku",
+      "76753_azn": "306.31 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Baku",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Shymkent",
+      "76753_azn": "453.10 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Shymkent",
+      "09052026": "19.06.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Aktau",
+      "76753_azn": "273.71 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Aktau",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Islamabad",
+      "76753_azn": "1058.48 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Islamabad",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Tel Aviv",
+      "76753_azn": "705.37 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Tel Aviv",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Moscow",
+      "76753_azn": "433.60 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Moscow",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Izmir",
+      "76753_azn": "453.30 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Izmir",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Lahore",
+      "76753_azn": "535.41 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Lahore",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Tel Aviv",
+      "76753_azn": "336.61 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Tel Aviv",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Chisinau",
+      "76753_azn": "624.21 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Chisinau",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Tehran",
+      "76753_azn": "870.99 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Tehran",
+      "09052026": "07.06.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - New Delhi",
+      "76753_azn": "753.11 AZN",
+      "barcelona": "Paris",
+      "islamabad": "New Delhi",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Moscow",
+      "76753_azn": "765.28 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Moscow",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Barcelona",
+      "76753_azn": "612.10 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Barcelona",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Shymkent",
+      "76753_azn": "480.90 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Shymkent",
+      "09052026": "15.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - St Petersburg",
+      "76753_azn": "452.11 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "St Petersburg",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Bishkek",
+      "76753_azn": "474.21 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Bishkek",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Milan",
+      "76753_azn": "545.80 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Milan",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Tashkent",
+      "76753_azn": "341.71 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Tashkent",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Samarkand",
+      "76753_azn": "341.71 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Samarkand",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Samarkand",
+      "76753_azn": "708.18 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Samarkand",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Baku",
+      "76753_azn": "639.52 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Baku",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Mumbai",
+      "76753_azn": "379.81 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Mumbai",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Dushanbe",
+      "76753_azn": "370.61 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Dushanbe",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - New Delhi",
+      "76753_azn": "370.01 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "New Delhi",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Sharm El Sheikh",
+      "76753_azn": "1117.03 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Antalya",
+      "76753_azn": "390.80 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Antalya",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "THR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tehran - Chisinau",
+      "76753_azn": "739.60 AZN",
+      "barcelona": "Tehran",
+      "islamabad": "Chisinau",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Ahmedabad",
+      "76753_azn": "756.00 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Ahmedabad",
+      "09052026": "22.06.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Almaty",
+      "76753_azn": "407.91 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Almaty",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Tashkent",
+      "76753_azn": "708.18 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Tashkent",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Tbilisi",
+      "76753_azn": "813.11 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Tbilisi",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Astana",
+      "76753_azn": "350.11 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Astana",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Islamabad",
+      "76753_azn": "535.41 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Islamabad",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Tbilisi",
+      "76753_azn": "399.51 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Tbilisi",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Dubai",
+      "76753_azn": "449.51 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Dubai",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Moscow",
+      "76753_azn": "402.81 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Moscow",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Ekaterinburg",
+      "76753_azn": "739.34 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Ekaterinburg",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Ahmedabad",
+      "76753_azn": "1028.51 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Ahmedabad",
+      "09052026": "28.06.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Bishkek",
+      "76753_azn": "807.18 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Bishkek",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Batumi",
+      "76753_azn": "361.81 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Batumi",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "JED",
+      "bcn": "IST",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Istanbul - Jeddah",
+      "76753_azn": "1750.31 AZN",
+      "barcelona": "Istanbul",
+      "islamabad": "Jeddah",
+      "09052026": "30.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Mumbai",
+      "76753_azn": "766.67 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Mumbai",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Almaty",
+      "76753_azn": "770.97 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Almaty",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Tashkent",
+      "76753_azn": "502.87 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Tashkent",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Lahore",
+      "76753_azn": "683.66 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Lahore",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Baku",
+      "76753_azn": "374.35 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Baku",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Tel Aviv",
+      "76753_azn": "490.08 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Tel Aviv",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Shymkent",
+      "76753_azn": "697.27 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Shymkent",
+      "09052026": "19.06.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Tivat",
+      "76753_azn": "580.40 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Tivat",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Barcelona",
+      "76753_azn": "720.20 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Barcelona",
+      "09052026": "27.06.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Izmir",
+      "76753_azn": "532.50 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Izmir",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Sharm El Sheikh",
+      "76753_azn": "1418.47 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "12.06.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Ekaterinburg",
+      "76753_azn": "587.90 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Ekaterinburg",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Almaty",
+      "76753_azn": "555.68 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Almaty",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - New Delhi",
+      "76753_azn": "492.01 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "New Delhi",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Berlin",
+      "76753_azn": "615.90 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Berlin",
+      "09052026": "27.06.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Bodrum",
+      "76753_azn": "595.70 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Bodrum",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Ankara",
+      "76753_azn": "536.00 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Ankara",
+      "09052026": "01.07.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Baku",
+      "76753_azn": "196.30 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Baku",
+      "09052026": "01.07.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Prague",
+      "76753_azn": "525.41 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Prague",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Istanbul",
+      "76753_azn": "412.20 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Istanbul",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Adana - Mersin",
+      "76753_azn": "475.10 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Adana - Mersin",
+      "09052026": "27.06.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Milan",
+      "76753_azn": "667.50 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Milan",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Chisinau",
+      "76753_azn": "819.36 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Chisinau",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Tel Aviv",
+      "76753_azn": "541.40 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Tel Aviv",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Bishkek",
+      "76753_azn": "647.75 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Bishkek",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Riyadh",
+      "76753_azn": "850.92 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Riyadh",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Islamabad",
+      "76753_azn": "683.66 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Islamabad",
+      "09052026": "27.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Mumbai",
+      "76753_azn": "507.57 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Mumbai",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Prague",
+      "76753_azn": "601.20 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Prague",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - London",
+      "76753_azn": "641.73 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "London",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Batumi",
+      "76753_azn": "488.40 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Batumi",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Samarkand",
+      "76753_azn": "604.62 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Samarkand",
+      "09052026": "30.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Riyadh",
+      "76753_azn": "487.00 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Riyadh",
+      "09052026": "01.07.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Astana",
+      "76753_azn": "503.81 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Astana",
+      "09052026": "27.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - London",
+      "76753_azn": "594.40 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "London",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Moscow",
+      "76753_azn": "527.70 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Moscow",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Tivat",
+      "76753_azn": "502.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Tivat",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Tehran",
+      "76753_azn": "737.49 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Tehran",
+      "09052026": "19.06.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Aktau",
+      "76753_azn": "477.82 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Aktau",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Tabriz",
+      "76753_azn": "647.69 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Tabriz",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Sharm El Sheikh",
+      "76753_azn": "1057.60 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Barcelona",
+      "76753_azn": "799.34 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Barcelona",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Trabzon",
+      "76753_azn": "515.60 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Trabzon",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "MSQ",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Minsk",
+      "76753_azn": "790.50 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Minsk",
+      "09052026": "27.06.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Paris",
+      "76753_azn": "785.51 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Paris",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Dalaman",
+      "76753_azn": "619.50 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Dalaman",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Dubai",
+      "76753_azn": "455.40 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Dubai",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Paris",
+      "76753_azn": "871.16 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Paris",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "PAR",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Paris - Aktau",
+      "76753_azn": "647.22 AZN",
+      "barcelona": "Paris",
+      "islamabad": "Aktau",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Ahmedabad",
+      "76753_azn": "1120.54 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Ahmedabad",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Moscow",
+      "76753_azn": "597.87 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Moscow",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Antalya",
+      "76753_azn": "475.10 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Antalya",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Tbilisi",
+      "76753_azn": "533.97 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Tbilisi",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Tbilisi",
+      "76753_azn": "430.90 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Tbilisi",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Dammam",
+      "76753_azn": "819.00 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Dammam",
+      "09052026": "17.06.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Dalaman",
+      "76753_azn": "718.00 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Dalaman",
+      "09052026": "20.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - St Petersburg",
+      "76753_azn": "601.86 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "St Petersburg",
+      "09052026": "27.05.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Dubai",
+      "76753_azn": "618.17 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Dubai",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Tehran",
+      "76753_azn": "541.10 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Tehran",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Chisinau",
+      "76753_azn": "759.30 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Chisinau",
+      "09052026": "29.07.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Dushanbe",
+      "76753_azn": "533.97 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Dushanbe",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Paris",
+      "76753_azn": "791.60 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Paris",
+      "09052026": "27.06.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - Tabriz",
+      "76753_azn": "451.30 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "Tabriz",
+      "09052026": "01.07.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "TIV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tivat - Berlin",
+      "76753_azn": "604.92 AZN",
+      "barcelona": "Tivat",
+      "islamabad": "Berlin",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "CIT",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Shymkent - St Petersburg",
+      "76753_azn": "577.00 AZN",
+      "barcelona": "Shymkent",
+      "islamabad": "St Petersburg",
+      "09052026": "01.07.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Antalya",
+      "76753_azn": "616.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Antalya",
+      "09052026": "21.05.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Ahmedabad",
+      "76753_azn": "648.70 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Ahmedabad",
+      "09052026": "20.06.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Islamabad",
+      "76753_azn": "570.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Islamabad",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - London",
+      "76753_azn": "477.81 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "London",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Mumbai",
+      "76753_azn": "417.01 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Mumbai",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - St Petersburg",
+      "76753_azn": "572.61 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "St Petersburg",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Dammam",
+      "76753_azn": "523.31 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Dammam",
+      "09052026": "05.06.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Tashkent",
+      "76753_azn": "407.81 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Tashkent",
+      "09052026": "20.05.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Bishkek",
+      "76753_azn": "1028.21 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Bishkek",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Dushanbe",
+      "76753_azn": "380.51 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Dushanbe",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Shymkent",
+      "76753_azn": "604.20 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Shymkent",
+      "09052026": "20.06.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - New Delhi",
+      "76753_azn": "476.81 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "New Delhi",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Tel Aviv",
+      "76753_azn": "591.10 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Tel Aviv",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Tbilisi",
+      "76753_azn": "479.71 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Tbilisi",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Vienna",
+      "76753_azn": "520.31 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Vienna",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "RIX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Riga - Baku",
+      "76753_azn": "531.62 AZN",
+      "barcelona": "Riga",
+      "islamabad": "Baku",
+      "09052026": "24.05.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Ekaterinburg",
+      "76753_azn": "530.90 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Ekaterinburg",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Islamabad",
+      "76753_azn": "652.41 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Islamabad",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - New Delhi",
+      "76753_azn": "543.21 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "New Delhi",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BOM",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Mumbai",
+      "76753_azn": "491.71 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Mumbai",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "JED",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Jeddah",
+      "76753_azn": "1539.21 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Jeddah",
+      "09052026": "30.05.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Istanbul",
+      "76753_azn": "384.01 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Istanbul",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Sharm El Sheikh",
+      "76753_azn": "1037.00 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Chisinau",
+      "76753_azn": "720.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Chisinau",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Almaty",
+      "76753_azn": "509.61 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Almaty",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Bishkek",
+      "76753_azn": "484.11 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Bishkek",
+      "09052026": "29.05.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Milan",
+      "76753_azn": "482.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Milan",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Ahmedabad",
+      "76753_azn": "1478.20 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Ahmedabad",
+      "09052026": "23.06.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Riyadh",
+      "76753_azn": "577.71 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Riyadh",
+      "09052026": "04.06.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Baku",
+      "76753_azn": "276.40 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Baku",
+      "09052026": "03.08.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Trabzon",
+      "76753_azn": "480.61 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Trabzon",
+      "09052026": "13.05.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Bodrum",
+      "76753_azn": "666.11 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Bodrum",
+      "09052026": "13.06.2026"
+    },
+    {
+      "isb": "MSQ",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Minsk",
+      "76753_azn": "614.41 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Minsk",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Samarkand",
+      "76753_azn": "407.81 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Samarkand",
+      "09052026": "16.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Almaty",
+      "76753_azn": "734.11 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Almaty",
+      "09052026": "17.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Izmir",
+      "76753_azn": "541.71 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Izmir",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Lahore",
+      "76753_azn": "570.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Lahore",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "BJS",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Beijing",
+      "76753_azn": "1594.71 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Beijing",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Berlin",
+      "76753_azn": "443.21 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Berlin",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Moscow",
+      "76753_azn": "460.41 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Moscow",
+      "09052026": "16.05.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Astana",
+      "76753_azn": "468.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Astana",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Shymkent",
+      "76753_azn": "456.20 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Shymkent",
+      "09052026": "19.06.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Moscow",
+      "76753_azn": "513.01 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Moscow",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Aktau",
+      "76753_azn": "392.51 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Aktau",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Baku",
+      "76753_azn": "300.71 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Baku",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Ekaterinburg",
+      "76753_azn": "900.71 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Ekaterinburg",
+      "09052026": "19.05.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Dushanbe",
+      "76753_azn": "360.21 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Dushanbe",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Batumi",
+      "76753_azn": "480.61 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Batumi",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Barcelona",
+      "76753_azn": "488.01 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Barcelona",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Tbilisi",
+      "76753_azn": "433.31 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Tbilisi",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Ankara",
+      "76753_azn": "519.71 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Ankara",
+      "09052026": "15.05.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "TLV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Tel Aviv - Adana - Mersin",
+      "76753_azn": "565.91 AZN",
+      "barcelona": "Tel Aviv",
+      "islamabad": "Adana - Mersin",
+      "09052026": "13.06.2026"
+    },
+    {
+      "isb": "TBS",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Tbilisi",
+      "76753_azn": "380.51 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Tbilisi",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "GUW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Atyrau - Tel Aviv",
+      "76753_azn": "1729.50 AZN",
+      "barcelona": "Atyrau",
+      "islamabad": "Tel Aviv",
+      "09052026": "12.05.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Tehran",
+      "76753_azn": "465.21 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Tehran",
+      "09052026": "02.06.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Tel Aviv",
+      "76753_azn": "475.71 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Tel Aviv",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Astana",
+      "76753_azn": "453.51 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Astana",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Tashkent",
+      "76753_azn": "446.81 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Tashkent",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "GUW",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Atyrau - Baku",
+      "76753_azn": "284.50 AZN",
+      "barcelona": "Atyrau",
+      "islamabad": "Baku",
+      "09052026": "06.06.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Tabriz",
+      "76753_azn": "375.41 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Tabriz",
+      "09052026": "04.06.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Bishkek",
+      "76753_azn": "536.60 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Bishkek",
+      "09052026": "30.06.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Lahore",
+      "76753_azn": "652.41 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Lahore",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Aktau",
+      "76753_azn": "375.41 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Aktau",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Riyadh",
+      "76753_azn": "635.30 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Riyadh",
+      "09052026": "18.06.2026"
+    },
+    {
+      "isb": "LED",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - St Petersburg",
+      "76753_azn": "557.21 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "St Petersburg",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "IZM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Izmir - Samarkand",
+      "76753_azn": "446.81 AZN",
+      "barcelona": "Izmir",
+      "islamabad": "Samarkand",
+      "09052026": "02.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Sharm El Sheikh",
+      "76753_azn": "1090.30 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "AMD",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Ahmedabad",
+      "76753_azn": "1435.72 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Ahmedabad",
+      "09052026": "19.07.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Shymkent",
+      "76753_azn": "494.20 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Shymkent",
+      "09052026": "30.06.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - New Delhi",
+      "76753_azn": "5161.80 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "New Delhi",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "SVX",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Ekaterinburg",
+      "76753_azn": "639.72 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Ekaterinburg",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "ISB",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Islamabad",
+      "76753_azn": "773.39 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Islamabad",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "TLV",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Tel Aviv",
+      "76753_azn": "577.82 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Tel Aviv",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Barcelona",
+      "76753_azn": "809.27 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Barcelona",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Dalaman",
+      "76753_azn": "710.30 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Dalaman",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "FRU",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Bishkek",
+      "76753_azn": "833.24 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Bishkek",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "TIV",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Tivat",
+      "76753_azn": "519.01 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Tivat",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Moscow",
+      "76753_azn": "657.30 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Moscow",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Paris",
+      "76753_azn": "881.09 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Paris",
+      "09052026": "18.05.2026"
+    },
+    {
+      "isb": "LON",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - London",
+      "76753_azn": "741.43 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "London",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "BER",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Berlin",
+      "76753_azn": "694.65 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Berlin",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Antalya",
+      "76753_azn": "541.21 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Antalya",
+      "09052026": "29.05.2026"
+    },
+    {
+      "isb": "RUH",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Riyadh",
+      "76753_azn": "650.01 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Riyadh",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Astana",
+      "76753_azn": "549.64 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Astana",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "TZX",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Trabzon",
+      "76753_azn": "501.81 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Trabzon",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "ANK",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Ankara",
+      "76753_azn": "611.75 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Ankara",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Dammam",
+      "76753_azn": "910.73 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Dammam",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Baku",
+      "76753_azn": "377.71 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Baku",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Astana",
+      "76753_azn": "499.20 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Astana",
+      "09052026": "25.06.2026"
+    },
+    {
+      "isb": "DEL",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - New Delhi",
+      "76753_azn": "565.78 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "New Delhi",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "CIT",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Shymkent",
+      "76753_azn": "814.93 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Shymkent",
+      "09052026": "14.07.2026"
+    },
+    {
+      "isb": "MOW",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Moscow",
+      "76753_azn": "649.69 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Moscow",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "DOH",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Doha",
+      "76753_azn": "1225.40 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Doha",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Tehran",
+      "76753_azn": "539.21 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Tehran",
+      "09052026": "01.06.2026"
+    },
+    {
+      "isb": "PAR",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Paris",
+      "76753_azn": "706.41 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Paris",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Dalaman",
+      "76753_azn": "948.95 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Dalaman",
+      "09052026": "13.07.2026"
+    },
+    {
+      "isb": "DYU",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Dushanbe",
+      "76753_azn": "723.46 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Dushanbe",
+      "09052026": "22.05.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Sharm El Sheikh",
+      "76753_azn": "841.83 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "08.05.2026"
+    },
+    {
+      "isb": "DXB",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Dubai",
+      "76753_azn": "562.26 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Dubai",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Almaty",
+      "76753_azn": "613.49 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Almaty",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "IZM",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Izmir",
+      "76753_azn": "623.78 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Izmir",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "BJV",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Bodrum",
+      "76753_azn": "641.41 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Bodrum",
+      "09052026": "14.06.2026"
+    },
+    {
+      "isb": "SCO",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Aktau",
+      "76753_azn": "422.80 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Aktau",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Prague",
+      "76753_azn": "699.54 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Prague",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "AYT",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Antalya",
+      "76753_azn": "811.24 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Antalya",
+      "09052026": "24.05.2026"
+    },
+    {
+      "isb": "TBZ",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Tabriz",
+      "76753_azn": "715.48 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Tabriz",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "COV",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Adana - Mersin - Samarkand",
+      "76753_azn": "499.30 AZN",
+      "barcelona": "Adana - Mersin",
+      "islamabad": "Samarkand",
+      "09052026": "16.06.2026"
+    },
+    {
+      "isb": "LHE",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Lahore",
+      "76753_azn": "773.39 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Lahore",
+      "09052026": "11.05.2026"
+    },
+    {
+      "isb": "TAS",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Tashkent",
+      "76753_azn": "544.72 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Tashkent",
+      "09052026": "14.05.2026"
+    },
+    {
+      "isb": "THR",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Tehran",
+      "76753_azn": "805.28 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Tehran",
+      "09052026": "02.06.2026"
+    },
+    {
+      "isb": "SKD",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Samarkand",
+      "76753_azn": "674.40 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Samarkand",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "DMM",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Dammam",
+      "76753_azn": "541.21 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Dammam",
+      "09052026": "03.06.2026"
+    },
+    {
+      "isb": "SSH",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Sharm El Sheikh",
+      "76753_azn": "719.11 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Sharm El Sheikh",
+      "09052026": "09.05.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Istanbul",
+      "76753_azn": "496.02 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Istanbul",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "BAK",
+      "bcn": "RMO",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Chisinau - Baku",
+      "76753_azn": "406.23 AZN",
+      "barcelona": "Chisinau",
+      "islamabad": "Baku",
+      "09052026": "10.05.2026"
+    },
+    {
+      "isb": "BUS",
+      "bcn": "ALA",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Almaty - Batumi",
+      "76753_azn": "501.81 AZN",
+      "barcelona": "Almaty",
+      "islamabad": "Batumi",
+      "09052026": "17.05.2026"
     }
   ]
 }
