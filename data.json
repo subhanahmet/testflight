@@ -8713,11 +8713,515 @@
       "tashkent": "Berlin"
     },
     {
-      "21052026": "",
+      "21052026": "11.05.2026",
       "tas": "LHE",
       "bcn": "PRG",
       "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Lahore",
       "58870_azn": "580.72 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Lahore"
+    },
+    {
+      "21052026": "19.06.2026",
+      "tas": "AMD",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Ahmedabad",
+      "58870_azn": "710.10 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Ahmedabad"
+    },
+    {
+      "21052026": "16.05.2026",
+      "tas": "TLV",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Tel Aviv",
+      "58870_azn": "691.67 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Tel Aviv"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "PRG",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Prague",
+      "58870_azn": "1612.65 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Prague"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "IST",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Istanbul",
+      "58870_azn": "1748.79 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Istanbul"
+    },
+    {
+      "21052026": "18.05.2026",
+      "tas": "VIE",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Vienna",
+      "58870_azn": "1695.56 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Vienna"
+    },
+    {
+      "21052026": "15.05.2026",
+      "tas": "LED",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - St Petersburg",
+      "58870_azn": "627.91 AZN",
+      "barcelona": "Prague",
+      "tashkent": "St Petersburg"
+    },
+    {
+      "21052026": "04.06.2026",
+      "tas": "BCN",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Barcelona",
+      "58870_azn": "811.40 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Barcelona"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "BOM",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Mumbai",
+      "58870_azn": "5422.96 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Mumbai"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "DEL",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - New Delhi",
+      "58870_azn": "5161.77 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "New Delhi"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "LED",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - St Petersburg",
+      "58870_azn": "1793.11 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "St Petersburg"
+    },
+    {
+      "21052026": "04.06.2026",
+      "tas": "RUH",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Riyadh",
+      "58870_azn": "792.15 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Riyadh"
+    },
+    {
+      "21052026": "14.07.2026",
+      "tas": "RMO",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Chisinau",
+      "58870_azn": "878.96 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Chisinau"
+    },
+    {
+      "21052026": "16.05.2026",
+      "tas": "TAS",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Tashkent",
+      "58870_azn": "660.15 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Tashkent"
+    },
+    {
+      "21052026": "25.06.2026",
+      "tas": "AYT",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Antalya",
+      "58870_azn": "599.70 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Antalya"
+    },
+    {
+      "21052026": "04.06.2026",
+      "tas": "BOM",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Mumbai",
+      "58870_azn": "625.22 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Mumbai"
+    },
+    {
+      "21052026": "05.06.2026",
+      "tas": "BUS",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Batumi",
+      "58870_azn": "606.85 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Batumi"
+    },
+    {
+      "21052026": "18.06.2026",
+      "tas": "SVX",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Ekaterinburg",
+      "58870_azn": "740.09 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Ekaterinburg"
+    },
+    {
+      "21052026": "09.06.2026",
+      "tas": "MIL",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Milan",
+      "58870_azn": "584.54 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Milan"
+    },
+    {
+      "21052026": "18.05.2026",
+      "tas": "PAR",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Paris",
+      "58870_azn": "1809.44 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Paris"
+    },
+    {
+      "21052026": "18.05.2026",
+      "tas": "BCN",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Barcelona",
+      "58870_azn": "1809.44 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Barcelona"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "TZX",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Trabzon",
+      "58870_azn": "1629.49 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Trabzon"
+    },
+    {
+      "21052026": "05.06.2026",
+      "tas": "DYU",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Dushanbe",
+      "58870_azn": "648.09 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Dushanbe"
+    },
+    {
+      "21052026": "05.06.2026",
+      "tas": "DYU",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Dushanbe",
+      "58870_azn": "504.30 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Dushanbe"
+    },
+    {
+      "21052026": "04.06.2026",
+      "tas": "ANK",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Ankara",
+      "58870_azn": "636.92 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Ankara"
+    },
+    {
+      "21052026": "19.05.2026",
+      "tas": "SKD",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Samarkand",
+      "58870_azn": "1535.10 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Samarkand"
+    },
+    {
+      "21052026": "18.05.2026",
+      "tas": "IZM",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Izmir",
+      "58870_azn": "1666.07 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Izmir"
+    },
+    {
+      "21052026": "15.05.2026",
+      "tas": "SSH",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Sharm El Sheikh",
+      "58870_azn": "890.87 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Sharm El Sheikh"
+    },
+    {
+      "21052026": "16.06.2026",
+      "tas": "LON",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - London",
+      "58870_azn": "710.00 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "London"
+    },
+    {
+      "21052026": "04.06.2026",
+      "tas": "ALA",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Almaty",
+      "58870_azn": "632.32 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Almaty"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "NQZ",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Astana",
+      "58870_azn": "1565.22 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Astana"
+    },
+    {
+      "21052026": "02.08.2026",
+      "tas": "BAK",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Baku",
+      "58870_azn": "229.95 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Baku"
+    },
+    {
+      "21052026": "04.06.2026",
+      "tas": "THR",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Tehran",
+      "58870_azn": "704.82 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Tehran"
+    },
+    {
+      "21052026": "04.08.2026",
+      "tas": "CIT",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Shymkent",
+      "58870_azn": "396.86 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Shymkent"
+    },
+    {
+      "21052026": "05.06.2026",
+      "tas": "DMM",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Dammam",
+      "58870_azn": "738.15 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Dammam"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "ALA",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Almaty",
+      "58870_azn": "1621.25 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Almaty"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "AYT",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Antalya",
+      "58870_azn": "1709.16 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Antalya"
+    },
+    {
+      "21052026": "04.06.2026",
+      "tas": "IZM",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Izmir",
+      "58870_azn": "651.18 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Izmir"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "TBS",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Tbilisi",
+      "58870_azn": "1455.87 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Tbilisi"
+    },
+    {
+      "21052026": "16.05.2026",
+      "tas": "ISB",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Islamabad",
+      "58870_azn": "795.66 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Islamabad"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "BAK",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Baku",
+      "58870_azn": "980.34 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Baku"
+    },
+    {
+      "21052026": "11.05.2026",
+      "tas": "BOM",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Mumbai",
+      "58870_azn": "479.18 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Mumbai"
+    },
+    {
+      "21052026": "18.05.2026",
+      "tas": "BER",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Berlin",
+      "58870_azn": "1696.66 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Berlin"
+    },
+    {
+      "21052026": "11.05.2026",
+      "tas": "DEL",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - New Delhi",
+      "58870_azn": "469.71 AZN",
+      "barcelona": "Prague",
+      "tashkent": "New Delhi"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "SCO",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Aktau",
+      "58870_azn": "1393.80 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Aktau"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "TAS",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Tashkent",
+      "58870_azn": "1535.10 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Tashkent"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "RMO",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Chisinau",
+      "58870_azn": "1658.60 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Chisinau"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "LHE",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Lahore",
+      "58870_azn": "2612.63 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Lahore"
+    },
+    {
+      "21052026": "05.06.2026",
+      "tas": "FRU",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Bishkek",
+      "58870_azn": "699.72 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Bishkek"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "SVX",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Ekaterinburg",
+      "58870_azn": "1644.60 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Ekaterinburg"
+    },
+    {
+      "21052026": "18.05.2026",
+      "tas": "TBS",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Tbilisi",
+      "58870_azn": "589.66 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Tbilisi"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "ISB",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Islamabad",
+      "58870_azn": "2612.63 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Islamabad"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "MIL",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Milan",
+      "58870_azn": "1803.07 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Milan"
+    },
+    {
+      "21052026": "16.06.2026",
+      "tas": "COV",
+      "bcn": "RUH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Riyadh - Adana - Mersin",
+      "58870_azn": "599.70 AZN",
+      "barcelona": "Riyadh",
+      "tashkent": "Adana - Mersin"
+    },
+    {
+      "21052026": "17.05.2026",
+      "tas": "DYU",
+      "bcn": "JED",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Jeddah - Dushanbe",
+      "58870_azn": "1454.51 AZN",
+      "barcelona": "Jeddah",
+      "tashkent": "Dushanbe"
+    },
+    {
+      "21052026": "30.05.2026",
+      "tas": "JED",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Prague - Jeddah",
+      "58870_azn": "1702.77 AZN",
+      "barcelona": "Prague",
+      "tashkent": "Jeddah"
+    },
+    {
+      "21052026": "",
+      "tas": "SCO",
+      "bcn": "PRG",
+      "____barcelona__tashkent": "",
+      "58870_azn": "",
       "barcelona": "",
       "tashkent": ""
     }
