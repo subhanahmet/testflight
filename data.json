@@ -11152,13 +11152,94 @@
       "bishkek": "Islamabad"
     },
     {
-      "23052026": "",
+      "23052026": "18.06.2026",
       "fru": "COV",
       "bcn": "BAK",
       "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
-      "76550_azn": "",
-      "barcelona": "",
-      "bishkek": ""
+      "76550_azn": "355.31 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Adana - Mersin"
+    },
+    {
+      "23052026": "11.05.2026",
+      "fru": "PRG",
+      "bcn": "BAK",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Prague",
+      "76550_azn": "369.29 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Prague"
+    },
+    {
+      "23052026": "13.05.2026",
+      "fru": "SSH",
+      "bcn": "BAK",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Sharm El Sheikh",
+      "76550_azn": "531.53 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Sharm El Sheikh"
+    },
+    {
+      "23052026": "14.05.2026",
+      "fru": "RMO",
+      "bcn": "SCO",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "76550_azn": "396.40 AZN",
+      "barcelona": "Aktau",
+      "bishkek": "Chisinau"
+    },
+    {
+      "23052026": "07.06.2026",
+      "fru": "DYU",
+      "bcn": "BAK",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "76550_azn": "251.57 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Dushanbe"
+    },
+    {
+      "23052026": "17.05.2026",
+      "fru": "ALA",
+      "bcn": "BAK",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "76550_azn": "416.91 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Almaty"
+    },
+    {
+      "23052026": "10.06.2026",
+      "fru": "TZX",
+      "bcn": "BAK",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "76550_azn": "309.33 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Trabzon"
+    },
+    {
+      "23052026": "18.06.2026",
+      "fru": "AMD",
+      "bcn": "BAK",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Ahmedabad",
+      "76550_azn": "259.57 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Ahmedabad"
+    },
+    {
+      "23052026": "15.05.2026",
+      "fru": "VIE",
+      "bcn": "BAK",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "76550_azn": "365.30 AZN",
+      "barcelona": "Baku",
+      "bishkek": "Vienna"
+    },
+    {
+      "23052026": "18.05.2026",
+      "fru": "MOW",
+      "bcn": "SCO",
+      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Aktau - Moscow",
+      "76550_azn": "368.80 AZN",
+      "barcelona": "Aktau",
+      "bishkek": "Moscow"
     }
   ]
 }
