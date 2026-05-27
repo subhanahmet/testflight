@@ -779,8 +779,26 @@
       "bcn": "DLM",
       "____barcelona__lahore": "???????? ?????? ?? ??????????? Dalaman - Sharm El Sheikh",
       "90188_azn": "1154.40 AZN",
-      "barcelona": "",
-      "lahore": "",
+      "barcelona": "Dalaman",
+      "lahore": "Sharm El Sheikh",
+      "04062026": "28.06.2026"
+    },
+    {
+      "lhe": "TZX",
+      "bcn": "DMM",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Dammam - Trabzon",
+      "90188_azn": "717.90 AZN",
+      "barcelona": "Dammam",
+      "lahore": "Trabzon",
+      "04062026": "09.07.2026"
+    },
+    {
+      "lhe": "CIT",
+      "bcn": "DLM",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Dalaman - Shymkent",
+      "90188_azn": "567.00 AZN",
+      "barcelona": "Dalaman",
+      "lahore": "Shymkent",
       "04062026": ""
     }
   ]
