@@ -10646,6 +10646,60 @@
       "barcelona": "New Delhi",
       "aktau": "St Petersburg",
       "04062026": "02.06.2026"
+    },
+    {
+      "sco": "TBZ",
+      "bcn": "DEL",
+      "____barcelona__aktau": "???????? ?????? ?? ??????????? New Delhi - Tabriz",
+      "52113_azn": "594.31 AZN",
+      "barcelona": "New Delhi",
+      "aktau": "Tabriz",
+      "04062026": "01.07.2026"
+    },
+    {
+      "sco": "VIE",
+      "bcn": "DEL",
+      "____barcelona__aktau": "???????? ?????? ?? ??????????? New Delhi - Vienna",
+      "52113_azn": "533.34 AZN",
+      "barcelona": "New Delhi",
+      "aktau": "Vienna",
+      "04062026": "09.06.2026"
+    },
+    {
+      "sco": "MOW",
+      "bcn": "DEL",
+      "____barcelona__aktau": "???????? ?????? ?? ??????????? New Delhi - Moscow",
+      "52113_azn": "587.89 AZN",
+      "barcelona": "New Delhi",
+      "aktau": "Moscow",
+      "04062026": "02.06.2026"
+    },
+    {
+      "sco": "FRU",
+      "bcn": "BAK",
+      "____barcelona__aktau": "???????? ?????? ?? ??????????? Baku - Bishkek",
+      "52113_azn": "425.33 AZN",
+      "barcelona": "Baku",
+      "aktau": "Bishkek",
+      "04062026": "05.06.2026"
+    },
+    {
+      "sco": "DEL",
+      "bcn": "BAK",
+      "____barcelona__aktau": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "52113_azn": "342.26 AZN",
+      "barcelona": "Baku",
+      "aktau": "New Delhi",
+      "04062026": "07.06.2026"
+    },
+    {
+      "sco": "DLM",
+      "bcn": "SCO",
+      "____barcelona__aktau": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "52113_azn": "446.50 AZN",
+      "barcelona": "Aktau",
+      "aktau": "Dalaman",
+      "04062026": "17.06.2026"
     }
   ]
 }
