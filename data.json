@@ -10010,12 +10010,57 @@
     },
     {
       "fru": "LHE",
-      "ber": "",
-      "____berlin__bishkek": "",
-      "64334_azn": "",
-      "berlin": "",
-      "bishkek": "",
-      "09062026": ""
+      "ber": "BAK",
+      "____berlin__bishkek": "???????? ?????? ?? ??????????? Baku - Lahore",
+      "64334_azn": "489.65 AZN",
+      "berlin": "Baku",
+      "bishkek": "Lahore",
+      "09062026": "18.06.2026"
+    },
+    {
+      "fru": "TBZ",
+      "ber": "BAK",
+      "____berlin__bishkek": "???????? ?????? ?? ??????????? Baku - Tabriz",
+      "64334_azn": "325.84 AZN",
+      "berlin": "Baku",
+      "bishkek": "Tabriz",
+      "09062026": "01.07.2026"
+    },
+    {
+      "fru": "TLV",
+      "ber": "BAK",
+      "____berlin__bishkek": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "64334_azn": "371.24 AZN",
+      "berlin": "Baku",
+      "bishkek": "Tel Aviv",
+      "09062026": "17.06.2026"
+    },
+    {
+      "fru": "DLM",
+      "ber": "SCO",
+      "____berlin__bishkek": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "64334_azn": "446.20 AZN",
+      "berlin": "Aktau",
+      "bishkek": "Dalaman",
+      "09062026": "21.06.2026"
+    },
+    {
+      "fru": "AYT",
+      "ber": "SCO",
+      "____berlin__bishkek": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "64334_azn": "363.30 AZN",
+      "berlin": "Aktau",
+      "bishkek": "Antalya",
+      "09062026": "01.09.2026"
+    },
+    {
+      "fru": "MSQ",
+      "ber": "SCO",
+      "____berlin__bishkek": "???????? ?????? ?? ??????????? Aktau - Minsk",
+      "64334_azn": "650.90 AZN",
+      "berlin": "Aktau",
+      "bishkek": "Minsk",
+      "09062026": "08.08.2026"
     }
   ]
 }
