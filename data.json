@@ -8125,7 +8125,2194 @@
       "78715_azn": "798.80 AZN",
       "barcelona": "Lahore",
       "tel_aviv": "Tel Aviv",
-      "09062026": ""
+      "09062026": "26.06.2026"
+    },
+    {
+      "tlv": "VIE",
+      "bcn": "LHE",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Lahore - Vienna",
+      "78715_azn": "841.10 AZN",
+      "barcelona": "Lahore",
+      "tel_aviv": "Vienna",
+      "09062026": "27.06.2026"
+    },
+    {
+      "tlv": "DLM",
+      "bcn": "RUH",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Riyadh - Dalaman",
+      "78715_azn": "689.30 AZN",
+      "barcelona": "Riyadh",
+      "tel_aviv": "Dalaman",
+      "09062026": "07.07.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Tel Aviv",
+      "78715_azn": "647.10 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "THR",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Tehran",
+      "78715_azn": "657.90 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Tehran",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "DEL",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - New Delhi",
+      "78715_azn": "676.07 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "New Delhi",
+      "09062026": "13.07.2026"
+    },
+    {
+      "tlv": "BOM",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Mumbai",
+      "78715_azn": "691.36 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Mumbai",
+      "09062026": "13.07.2026"
+    },
+    {
+      "tlv": "SVX",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Ekaterinburg",
+      "78715_azn": "559.43 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Ekaterinburg",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Moscow",
+      "78715_azn": "583.17 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Moscow",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Baku",
+      "78715_azn": "318.30 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Baku",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "SKD",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Samarkand",
+      "78715_azn": "655.30 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Samarkand",
+      "09062026": "13.06.2026"
+    },
+    {
+      "tlv": "ISB",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Islamabad",
+      "78715_azn": "666.50 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Islamabad",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "SKD",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Samarkand",
+      "78715_azn": "449.20 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Samarkand",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "AYT",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Antalya",
+      "78715_azn": "597.00 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Antalya",
+      "09062026": "31.08.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Tel Aviv",
+      "78715_azn": "596.20 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "BJV",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Bodrum",
+      "78715_azn": "593.30 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Bodrum",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "DMM",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Dammam",
+      "78715_azn": "585.10 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Dammam",
+      "09062026": "02.09.2026"
+    },
+    {
+      "tlv": "TZX",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Trabzon",
+      "78715_azn": "524.40 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Trabzon",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "TBZ",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Tabriz",
+      "78715_azn": "569.00 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Tabriz",
+      "09062026": "03.09.2026"
+    },
+    {
+      "tlv": "ISB",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Islamabad",
+      "78715_azn": "940.30 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Islamabad",
+      "09062026": "07.06.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Baku",
+      "78715_azn": "449.60 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Baku",
+      "09062026": "08.07.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Riyadh",
+      "78715_azn": "1125.25 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Riyadh",
+      "09062026": "17.08.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Baku",
+      "78715_azn": "348.50 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Baku",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "TBZ",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Tabriz",
+      "78715_azn": "1055.48 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Tabriz",
+      "09062026": "02.09.2026"
+    },
+    {
+      "tlv": "CIT",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Shymkent",
+      "78715_azn": "492.50 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Shymkent",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "SCO",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Aktau",
+      "78715_azn": "356.50 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Aktau",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Baku",
+      "78715_azn": "510.11 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Baku",
+      "09062026": "08.06.2026"
+    },
+    {
+      "tlv": "PAR",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Paris",
+      "78715_azn": "1005.60 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Paris",
+      "09062026": "25.06.2026"
+    },
+    {
+      "tlv": "THR",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Tehran",
+      "78715_azn": "893.78 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Tehran",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "FRU",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Bishkek",
+      "78715_azn": "628.70 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Bishkek",
+      "09062026": "12.06.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "HER",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Heraklion - Baku",
+      "78715_azn": "691.95 AZN",
+      "barcelona": "Heraklion",
+      "tel_aviv": "Baku",
+      "09062026": "27.06.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Sharm El Sheikh",
+      "78715_azn": "1041.60 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "MIL",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Milan",
+      "78715_azn": "841.60 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Milan",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "ALA",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Almaty",
+      "78715_azn": "459.90 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Almaty",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "LHE",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Lahore",
+      "78715_azn": "940.30 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Lahore",
+      "09062026": "08.06.2026"
+    },
+    {
+      "tlv": "SVX",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Ekaterinburg",
+      "78715_azn": "863.56 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Ekaterinburg",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "AMD",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Ahmedabad",
+      "78715_azn": "750.60 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Ahmedabad",
+      "09062026": "16.07.2026"
+    },
+    {
+      "tlv": "FRU",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Bishkek",
+      "78715_azn": "486.30 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Bishkek",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Sharm El Sheikh",
+      "78715_azn": "985.60 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "19.06.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Baku",
+      "78715_azn": "188.50 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Baku",
+      "09062026": "02.09.2026"
+    },
+    {
+      "tlv": "TAS",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Tashkent",
+      "78715_azn": "412.60 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Tashkent",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "LHE",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Lahore",
+      "78715_azn": "575.50 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Lahore",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "BOM",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Mumbai",
+      "78715_azn": "662.70 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Mumbai",
+      "09062026": "01.08.2026"
+    },
+    {
+      "tlv": "NQZ",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Astana",
+      "78715_azn": "497.30 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Astana",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "SCO",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Aktau",
+      "78715_azn": "523.67 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Aktau",
+      "09062026": "08.06.2026"
+    },
+    {
+      "tlv": "SVX",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Ekaterinburg",
+      "78715_azn": "518.60 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Ekaterinburg",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Riyadh",
+      "78715_azn": "584.30 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Riyadh",
+      "09062026": "03.09.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - St Petersburg",
+      "78715_azn": "559.40 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "St Petersburg",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "IZM",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Izmir",
+      "78715_azn": "644.80 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Izmir",
+      "09062026": "02.09.2026"
+    },
+    {
+      "tlv": "ANK",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Ankara",
+      "78715_azn": "543.10 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Ankara",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "AMD",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Ahmedabad",
+      "78715_azn": "375.00 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Ahmedabad",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "DYU",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Dushanbe",
+      "78715_azn": "395.60 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Dushanbe",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Moscow",
+      "78715_azn": "369.80 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Moscow",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - St Petersburg",
+      "78715_azn": "664.08 AZN",
+      "barcelona": "London",
+      "tel_aviv": "St Petersburg",
+      "09062026": "10.06.2026"
+    },
+    {
+      "tlv": "ALA",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Almaty",
+      "78715_azn": "818.72 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Almaty",
+      "09062026": "08.06.2026"
+    },
+    {
+      "tlv": "TAS",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Tashkent",
+      "78715_azn": "732.10 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Tashkent",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "SCO",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Aktau",
+      "78715_azn": "371.00 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Aktau",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "LON",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - London",
+      "78715_azn": "763.40 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "London",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "COV",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Adana - Mersin",
+      "78715_azn": "479.70 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Adana - Mersin",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "BER",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Berlin",
+      "78715_azn": "774.70 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Berlin",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "BJS",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Beijing",
+      "78715_azn": "825.50 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Beijing",
+      "09062026": "05.09.2026"
+    },
+    {
+      "tlv": "AMD",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Ahmedabad",
+      "78715_azn": "653.13 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Ahmedabad",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Riyadh",
+      "78715_azn": "798.69 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Riyadh",
+      "09062026": "06.07.2026"
+    },
+    {
+      "tlv": "DMM",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Dammam",
+      "78715_azn": "750.15 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Dammam",
+      "09062026": "06.07.2026"
+    },
+    {
+      "tlv": "AMD",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Ahmedabad",
+      "78715_azn": "610.50 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Ahmedabad",
+      "09062026": "12.07.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Tel Aviv",
+      "78715_azn": "481.50 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "DEL",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - New Delhi",
+      "78715_azn": "606.10 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "New Delhi",
+      "09062026": "05.08.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - St Petersburg",
+      "78715_azn": "532.10 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "St Petersburg",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "THR",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Tehran",
+      "78715_azn": "1144.38 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Tehran",
+      "09062026": "04.09.2026"
+    },
+    {
+      "tlv": "BOM",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Mumbai",
+      "78715_azn": "1014.78 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Mumbai",
+      "09062026": "14.08.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Sharm El Sheikh",
+      "78715_azn": "1652.63 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "07.06.2026"
+    },
+    {
+      "tlv": "DEL",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - New Delhi",
+      "78715_azn": "999.10 AZN",
+      "barcelona": "London",
+      "tel_aviv": "New Delhi",
+      "09062026": "14.08.2026"
+    },
+    {
+      "tlv": "NQZ",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Astana",
+      "78715_azn": "768.50 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Astana",
+      "09062026": "10.06.2026"
+    },
+    {
+      "tlv": "LHE",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Lahore",
+      "78715_azn": "895.00 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Lahore",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "ISB",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Islamabad",
+      "78715_azn": "815.51 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Islamabad",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "MSQ",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Minsk",
+      "78715_azn": "831.65 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Minsk",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "CIT",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Shymkent",
+      "78715_azn": "610.70 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Shymkent",
+      "09062026": "22.06.2026"
+    },
+    {
+      "tlv": "PRG",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Prague",
+      "78715_azn": "707.30 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Prague",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "TBZ",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Tabriz",
+      "78715_azn": "522.20 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Tabriz",
+      "09062026": "05.07.2026"
+    },
+    {
+      "tlv": "ALA",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Almaty",
+      "78715_azn": "532.50 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Almaty",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "SVX",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Ekaterinburg",
+      "78715_azn": "488.80 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Ekaterinburg",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "TAS",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Tashkent",
+      "78715_azn": "449.20 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Tashkent",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Riyadh",
+      "78715_azn": "632.70 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Riyadh",
+      "09062026": "03.09.2026"
+    },
+    {
+      "tlv": "DYU",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Dushanbe",
+      "78715_azn": "389.70 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Dushanbe",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "SKD",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Samarkand",
+      "78715_azn": "497.60 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Samarkand",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "BOM",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Mumbai",
+      "78715_azn": "619.40 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Mumbai",
+      "09062026": "05.08.2026"
+    },
+    {
+      "tlv": "BUS",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Batumi",
+      "78715_azn": "458.10 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Batumi",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "DEL",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - New Delhi",
+      "78715_azn": "647.70 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "New Delhi",
+      "09062026": "08.08.2026"
+    },
+    {
+      "tlv": "DYU",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Dushanbe",
+      "78715_azn": "843.17 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Dushanbe",
+      "09062026": "07.06.2026"
+    },
+    {
+      "tlv": "AMD",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Ahmedabad",
+      "78715_azn": "525.14 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Ahmedabad",
+      "09062026": "04.09.2026"
+    },
+    {
+      "tlv": "DYU",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Dushanbe",
+      "78715_azn": "589.60 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Dushanbe",
+      "09062026": "12.06.2026"
+    },
+    {
+      "tlv": "LHE",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Lahore",
+      "78715_azn": "666.50 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Lahore",
+      "09062026": "25.06.2026"
+    },
+    {
+      "tlv": "TBS",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Tbilisi",
+      "78715_azn": "585.20 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Tbilisi",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "TBZ",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Tabriz",
+      "78715_azn": "728.36 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Tabriz",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "THR",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Tehran",
+      "78715_azn": "592.50 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Tehran",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Moscow",
+      "78715_azn": "617.20 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Moscow",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "TBZ",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Tabriz",
+      "78715_azn": "503.60 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Tabriz",
+      "09062026": "02.09.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Tel Aviv",
+      "78715_azn": "452.50 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "TBS",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Tbilisi",
+      "78715_azn": "394.70 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Tbilisi",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Riyadh",
+      "78715_azn": "601.20 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Riyadh",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Moscow",
+      "78715_azn": "489.60 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Moscow",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "IST",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Istanbul",
+      "78715_azn": "376.00 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Istanbul",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "RMO",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Chisinau",
+      "78715_azn": "743.20 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Chisinau",
+      "09062026": "13.08.2026"
+    },
+    {
+      "tlv": "VIE",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Vienna",
+      "78715_azn": "771.90 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Vienna",
+      "09062026": "19.06.2026"
+    },
+    {
+      "tlv": "TAS",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Tashkent",
+      "78715_azn": "843.12 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Tashkent",
+      "09062026": "07.06.2026"
+    },
+    {
+      "tlv": "FRU",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Bishkek",
+      "78715_azn": "534.70 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Bishkek",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Tel Aviv",
+      "78715_azn": "943.62 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "26.06.2026"
+    },
+    {
+      "tlv": "ISB",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Islamabad",
+      "78715_azn": "861.10 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Islamabad",
+      "09062026": "01.08.2026"
+    },
+    {
+      "tlv": "SCO",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Aktau",
+      "78715_azn": "707.89 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Aktau",
+      "09062026": "10.06.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "AYT",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Antalya - Sharm El Sheikh",
+      "78715_azn": "1088.40 AZN",
+      "barcelona": "Antalya",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "DYU",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Dushanbe",
+      "78715_azn": "669.20 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Dushanbe",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "PAR",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Paris",
+      "78715_azn": "955.50 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Paris",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "DLM",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Dalaman",
+      "78715_azn": "562.70 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Dalaman",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "DBB",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - El Alamein",
+      "78715_azn": "1253.11 AZN",
+      "barcelona": "London",
+      "tel_aviv": "El Alamein",
+      "09062026": "19.08.2026"
+    },
+    {
+      "tlv": "BJS",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Beijing",
+      "78715_azn": "1214.75 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Beijing",
+      "09062026": "08.06.2026"
+    },
+    {
+      "tlv": "SVX",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Ekaterinburg",
+      "78715_azn": "767.50 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Ekaterinburg",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "CIT",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Shymkent",
+      "78715_azn": "444.10 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Shymkent",
+      "09062026": "26.06.2026"
+    },
+    {
+      "tlv": "BCN",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Barcelona",
+      "78715_azn": "850.10 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Barcelona",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Moscow",
+      "78715_azn": "622.99 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Moscow",
+      "09062026": "10.06.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Sharm El Sheikh",
+      "78715_azn": "1273.14 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "19.06.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - St Petersburg",
+      "78715_azn": "704.90 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "St Petersburg",
+      "09062026": "08.06.2026"
+    },
+    {
+      "tlv": "NQZ",
+      "bcn": "PRG",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Prague - Astana",
+      "78715_azn": "504.52 AZN",
+      "barcelona": "Prague",
+      "tel_aviv": "Astana",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "DMM",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Dammam",
+      "78715_azn": "536.70 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Dammam",
+      "09062026": "02.09.2026"
+    },
+    {
+      "tlv": "ALA",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Almaty",
+      "78715_azn": "523.70 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Almaty",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "NQZ",
+      "bcn": "TZX",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Trabzon - Astana",
+      "78715_azn": "448.90 AZN",
+      "barcelona": "Trabzon",
+      "tel_aviv": "Astana",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "TIV",
+      "bcn": "NQZ",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Astana - Tivat",
+      "78715_azn": "579.70 AZN",
+      "barcelona": "Astana",
+      "tel_aviv": "Tivat",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "FRU",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Bishkek",
+      "78715_azn": "878.66 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Bishkek",
+      "09062026": "12.06.2026"
+    },
+    {
+      "tlv": "TBS",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Tbilisi",
+      "78715_azn": "840.88 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Tbilisi",
+      "09062026": "10.06.2026"
+    },
+    {
+      "tlv": "DMM",
+      "bcn": "LON",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? London - Dammam",
+      "78715_azn": "1027.96 AZN",
+      "barcelona": "London",
+      "tel_aviv": "Dammam",
+      "09062026": "30.06.2026"
+    },
+    {
+      "tlv": "BOM",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Mumbai",
+      "78715_azn": "756.10 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Mumbai",
+      "09062026": "20.08.2026"
+    },
+    {
+      "tlv": "MSQ",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Minsk",
+      "78715_azn": "956.90 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Minsk",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "MIL",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Milan",
+      "78715_azn": "956.30 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Milan",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "TBS",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Tbilisi",
+      "78715_azn": "521.55 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Tbilisi",
+      "09062026": "14.06.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - St Petersburg",
+      "78715_azn": "581.79 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "St Petersburg",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "AYT",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Antalya",
+      "78715_azn": "614.23 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Antalya",
+      "09062026": "19.08.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "78715_azn": "459.90 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "St Petersburg",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "MIL",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Milan",
+      "78715_azn": "545.00 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Milan",
+      "09062026": "21.06.2026"
+    },
+    {
+      "tlv": "IZM",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Izmir",
+      "78715_azn": "579.29 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Izmir",
+      "09062026": "14.06.2026"
+    },
+    {
+      "tlv": "MED",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Medina",
+      "78715_azn": "955.76 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Medina",
+      "09062026": "07.06.2026"
+    },
+    {
+      "tlv": "PAR",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Paris",
+      "78715_azn": "590.90 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Paris",
+      "09062026": "21.06.2026"
+    },
+    {
+      "tlv": "COV",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Adana - Mersin",
+      "78715_azn": "363.30 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Adana - Mersin",
+      "09062026": "30.06.2026"
+    },
+    {
+      "tlv": "BCN",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Barcelona",
+      "78715_azn": "590.90 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Barcelona",
+      "09062026": "21.06.2026"
+    },
+    {
+      "tlv": "BUS",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Batumi",
+      "78715_azn": "534.08 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Batumi",
+      "09062026": "14.06.2026"
+    },
+    {
+      "tlv": "SCO",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Aktau",
+      "78715_azn": "601.20 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Aktau",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Moscow",
+      "78715_azn": "612.17 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Moscow",
+      "09062026": "29.06.2026"
+    },
+    {
+      "tlv": "DEL",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - New Delhi",
+      "78715_azn": "741.10 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "New Delhi",
+      "09062026": "16.07.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Sharm El Sheikh",
+      "78715_azn": "1000.74 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "TBZ",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Tabriz",
+      "78715_azn": "594.75 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Tabriz",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "BUS",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Batumi",
+      "78715_azn": "183.78 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Batumi",
+      "09062026": "23.06.2026"
+    },
+    {
+      "tlv": "TAS",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Tashkent",
+      "78715_azn": "376.17 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Tashkent",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "DEL",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "78715_azn": "582.52 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "New Delhi",
+      "09062026": "03.07.2026"
+    },
+    {
+      "tlv": "SKD",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Samarkand",
+      "78715_azn": "358.41 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Samarkand",
+      "09062026": "13.06.2026"
+    },
+    {
+      "tlv": "LON",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - London",
+      "78715_azn": "539.90 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "London",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "VIE",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "78715_azn": "497.40 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Vienna",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "RMO",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "78715_azn": "621.70 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Chisinau",
+      "09062026": "13.08.2026"
+    },
+    {
+      "tlv": "MIL",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Milan",
+      "78715_azn": "651.02 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Milan",
+      "09062026": "28.06.2026"
+    },
+    {
+      "tlv": "BEG",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Belgrade",
+      "78715_azn": "340.33 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Belgrade",
+      "09062026": "13.08.2026"
+    },
+    {
+      "tlv": "TIV",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Tivat",
+      "78715_azn": "393.15 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Tivat",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "NQZ",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Astana",
+      "78715_azn": "682.50 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Astana",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "PAR",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Paris",
+      "78715_azn": "712.76 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Paris",
+      "09062026": "22.06.2026"
+    },
+    {
+      "tlv": "TBS",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Tbilisi",
+      "78715_azn": "626.70 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Tbilisi",
+      "09062026": "20.08.2026"
+    },
+    {
+      "tlv": "TIV",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "78715_azn": "461.60 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Tivat",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "BCN",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Barcelona",
+      "78715_azn": "329.88 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Barcelona",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "LHE",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Lahore",
+      "78715_azn": "489.91 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Lahore",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "TBS",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Tbilisi",
+      "78715_azn": "165.96 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Tbilisi",
+      "09062026": "24.06.2026"
+    },
+    {
+      "tlv": "IZM",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Izmir",
+      "78715_azn": "533.50 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Izmir",
+      "09062026": "02.09.2026"
+    },
+    {
+      "tlv": "CIT",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Shymkent",
+      "78715_azn": "727.00 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Shymkent",
+      "09062026": "09.07.2026"
+    },
+    {
+      "tlv": "ANK",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Ankara",
+      "78715_azn": "941.70 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Ankara",
+      "09062026": "20.08.2026"
+    },
+    {
+      "tlv": "AYT",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Antalya",
+      "78715_azn": "609.52 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Antalya",
+      "09062026": "18.08.2026"
+    },
+    {
+      "tlv": "ISB",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Islamabad",
+      "78715_azn": "561.00 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Islamabad",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "BER",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Berlin",
+      "78715_azn": "348.76 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Berlin",
+      "09062026": "09.06.2026"
+    },
+    {
+      "tlv": "HER",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "78715_azn": "693.19 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Heraklion",
+      "09062026": "27.06.2026"
+    },
+    {
+      "tlv": "ANK",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "78715_azn": "425.00 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Ankara",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Moscow",
+      "78715_azn": "799.80 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Moscow",
+      "09062026": "20.08.2026"
+    },
+    {
+      "tlv": "DLM",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Dalaman",
+      "78715_azn": "567.43 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Dalaman",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "LON",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - London",
+      "78715_azn": "657.52 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "London",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "RIX",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Riga",
+      "78715_azn": "649.29 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Riga",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "FRU",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Bishkek",
+      "78715_azn": "424.75 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Bishkek",
+      "09062026": "12.06.2026"
+    },
+    {
+      "tlv": "SVX",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Ekaterinburg",
+      "78715_azn": "410.92 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Ekaterinburg",
+      "09062026": "12.06.2026"
+    },
+    {
+      "tlv": "ALA",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "78715_azn": "390.90 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Almaty",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "AMD",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Ahmedabad",
+      "78715_azn": "256.82 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Ahmedabad",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "CIT",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Shymkent",
+      "78715_azn": "264.44 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Shymkent",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Tel Aviv",
+      "78715_azn": "382.00 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "BUS",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Batumi",
+      "78715_azn": "384.20 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Batumi",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Tel Aviv",
+      "78715_azn": "450.90 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "IST",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Istanbul",
+      "78715_azn": "451.93 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Istanbul",
+      "09062026": "14.06.2026"
+    },
+    {
+      "tlv": "RMO",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Chisinau",
+      "78715_azn": "507.76 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Chisinau",
+      "09062026": "13.08.2026"
+    },
+    {
+      "tlv": "PRG",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Prague",
+      "78715_azn": "365.44 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Prague",
+      "09062026": "08.06.2026"
+    },
+    {
+      "tlv": "VIE",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "78715_azn": "300.26 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Vienna",
+      "09062026": "09.06.2026"
+    },
+    {
+      "tlv": "SCO",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Aktau",
+      "78715_azn": "163.73 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Aktau",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "MSQ",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Minsk",
+      "78715_azn": "651.00 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Minsk",
+      "09062026": "25.07.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Baku",
+      "78715_azn": "156.40 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Baku",
+      "09062026": "26.07.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Riyadh",
+      "78715_azn": "642.03 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Riyadh",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "COV",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Adana - Mersin",
+      "78715_azn": "5278.79 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Adana - Mersin",
+      "09062026": "14.06.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Baku",
+      "78715_azn": "358.79 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Baku",
+      "09062026": "28.06.2026"
+    },
+    {
+      "tlv": "DOH",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Doha",
+      "78715_azn": "805.37 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Doha",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "BOM",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Mumbai",
+      "78715_azn": "546.68 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Mumbai",
+      "09062026": "03.07.2026"
+    },
+    {
+      "tlv": "NQZ",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Astana",
+      "78715_azn": "452.12 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Astana",
+      "09062026": "10.06.2026"
+    },
+    {
+      "tlv": "AYT",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "78715_azn": "363.30 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Antalya",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "IST",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Istanbul",
+      "78715_azn": "305.50 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Istanbul",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "BAK",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Baku",
+      "78715_azn": "555.80 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Baku",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "BJS",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Beijing",
+      "78715_azn": "353.58 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Beijing",
+      "09062026": "26.06.2026"
+    },
+    {
+      "tlv": "DMM",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Dammam",
+      "78715_azn": "595.53 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Dammam",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "TZX",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Trabzon",
+      "78715_azn": "566.22 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Trabzon",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "GUW",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Atyrau",
+      "78715_azn": "359.22 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Atyrau",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "PAR",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Paris",
+      "78715_azn": "643.86 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Paris",
+      "09062026": "23.06.2026"
+    },
+    {
+      "tlv": "ANK",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Ankara",
+      "78715_azn": "217.35 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Ankara",
+      "09062026": "03.09.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "78715_azn": "403.03 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "St Petersburg",
+      "09062026": "10.06.2026"
+    },
+    {
+      "tlv": "BJV",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Bodrum",
+      "78715_azn": "476.90 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Bodrum",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "BJV",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Bodrum",
+      "78715_azn": "541.25 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Bodrum",
+      "09062026": "24.06.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Moscow",
+      "78715_azn": "359.58 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Moscow",
+      "09062026": "12.06.2026"
+    },
+    {
+      "tlv": "TBS",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "78715_azn": "298.70 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Tbilisi",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Sharm El Sheikh",
+      "78715_azn": "867.40 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "LON",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - London",
+      "78715_azn": "286.44 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "London",
+      "09062026": "09.06.2026"
+    },
+    {
+      "tlv": "MIL",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Milan",
+      "78715_azn": "410.85 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Milan",
+      "09062026": "09.06.2026"
+    },
+    {
+      "tlv": "DYU",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "78715_azn": "223.24 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Dushanbe",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "DMM",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Dammam",
+      "78715_azn": "290.16 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Dammam",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "TZX",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Trabzon",
+      "78715_azn": "406.30 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Trabzon",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "BER",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Berlin",
+      "78715_azn": "498.50 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Berlin",
+      "09062026": "21.06.2026"
+    },
+    {
+      "tlv": "LED",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - St Petersburg",
+      "78715_azn": "847.40 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "St Petersburg",
+      "09062026": "20.08.2026"
+    },
+    {
+      "tlv": "ALA",
+      "bcn": "DBB",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? El Alamein - Almaty",
+      "78715_azn": "742.00 AZN",
+      "barcelona": "El Alamein",
+      "tel_aviv": "Almaty",
+      "09062026": "11.06.2026"
+    },
+    {
+      "tlv": "THR",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Tehran",
+      "78715_azn": "661.36 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Tehran",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "PRG",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Prague",
+      "78715_azn": "560.08 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Prague",
+      "09062026": "18.06.2026"
+    },
+    {
+      "tlv": "THR",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Tehran",
+      "78715_azn": "373.35 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Tehran",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Riyadh",
+      "78715_azn": "254.61 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Riyadh",
+      "09062026": "05.09.2026"
+    },
+    {
+      "tlv": "COV",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
+      "78715_azn": "256.81 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Adana - Mersin",
+      "09062026": "21.07.2026"
+    },
+    {
+      "tlv": "TBZ",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Tabriz",
+      "78715_azn": "325.93 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Tabriz",
+      "09062026": "01.07.2026"
+    },
+    {
+      "tlv": "DLM",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Dalaman",
+      "78715_azn": "327.98 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Dalaman",
+      "09062026": "14.06.2026"
+    },
+    {
+      "tlv": "TLV",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "78715_azn": "371.35 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Tel Aviv",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "PRG",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Prague",
+      "78715_azn": "483.80 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Prague",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "DOH",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Doha",
+      "78715_azn": "717.67 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Doha",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "VIE",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Vienna",
+      "78715_azn": "553.37 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Vienna",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "ANK",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Ankara",
+      "78715_azn": "582.98 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Ankara",
+      "09062026": "16.06.2026"
+    },
+    {
+      "tlv": "IZM",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Izmir",
+      "78715_azn": "446.49 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Izmir",
+      "09062026": "04.09.2026"
+    },
+    {
+      "tlv": "IST",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Istanbul",
+      "78715_azn": "351.60 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Istanbul",
+      "09062026": "01.09.2026"
+    },
+    {
+      "tlv": "MOW",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Moscow",
+      "78715_azn": "414.00 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Moscow",
+      "09062026": "20.06.2026"
+    },
+    {
+      "tlv": "RMO",
+      "bcn": "DEL",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? New Delhi - Chisinau",
+      "78715_azn": "735.84 AZN",
+      "barcelona": "New Delhi",
+      "tel_aviv": "Chisinau",
+      "09062026": "13.08.2026"
+    },
+    {
+      "tlv": "MSQ",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Minsk",
+      "78715_azn": "531.35 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Minsk",
+      "09062026": "11.07.2026"
+    },
+    {
+      "tlv": "DBB",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - El Alamein",
+      "78715_azn": "486.61 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "El Alamein",
+      "09062026": "27.08.2026"
+    },
+    {
+      "tlv": "TZX",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "78715_azn": "233.14 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Trabzon",
+      "09062026": "21.06.2026"
+    },
+    {
+      "tlv": "SSH",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Sharm El Sheikh",
+      "78715_azn": "794.66 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Sharm El Sheikh",
+      "09062026": "17.06.2026"
+    },
+    {
+      "tlv": "FRA",
+      "bcn": "BAK",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Baku - Frankfurt",
+      "78715_azn": "570.75 AZN",
+      "barcelona": "Baku",
+      "tel_aviv": "Frankfurt",
+      "09062026": "06.07.2026"
+    },
+    {
+      "tlv": "DLM",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "78715_azn": "446.30 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Dalaman",
+      "09062026": "21.06.2026"
+    },
+    {
+      "tlv": "RUH",
+      "bcn": "SCO",
+      "____barcelona__tel_aviv": "???????? ?????? ?? ??????????? Aktau - Riyadh",
+      "78715_azn": "483.10 AZN",
+      "barcelona": "Aktau",
+      "tel_aviv": "Riyadh",
+      "09062026": "01.07.2026"
     }
   ]
 }
