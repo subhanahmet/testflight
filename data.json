@@ -8992,13 +8992,1390 @@
       "ekaterinburg": "Istanbul"
     },
     {
-      "14062026": "",
+      "14062026": "23.06.2026",
       "svx": "BCN",
       "ber": "NQZ",
       "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - Barcelona",
-      "57436_azn": "",
-      "berlin": "",
-      "ekaterinburg": ""
+      "57436_azn": "848.80 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "14062026": "19.08.2026",
+      "svx": "DBB",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - El Alamein",
+      "57436_azn": "1249.91 AZN",
+      "berlin": "London",
+      "ekaterinburg": "El Alamein"
+    },
+    {
+      "14062026": "04.09.2026",
+      "svx": "THR",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Tehran",
+      "57436_azn": "1144.38 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "14062026": "19.06.2026",
+      "svx": "TLV",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Tel Aviv",
+      "57436_azn": "943.62 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "14062026": "30.06.2026",
+      "svx": "DMM",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Dammam",
+      "57436_azn": "1023.86 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "14062026": "20.06.2026",
+      "svx": "ANK",
+      "ber": "NQZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - Ankara",
+      "57436_azn": "487.00 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "14062026": "20.06.2026",
+      "svx": "LON",
+      "ber": "NQZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - London",
+      "57436_azn": "762.10 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "London"
+    },
+    {
+      "14062026": "19.08.2026",
+      "svx": "DBB",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - El Alamein",
+      "57436_azn": "764.00 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "El Alamein"
+    },
+    {
+      "14062026": "01.08.2026",
+      "svx": "ISB",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - Islamabad",
+      "57436_azn": "859.70 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "SKD",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - Samarkand",
+      "57436_azn": "496.40 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "14062026": "17.06.2026",
+      "svx": "AMD",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Ahmedabad",
+      "57436_azn": "649.83 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Ahmedabad"
+    },
+    {
+      "14062026": "02.09.2026",
+      "svx": "DMM",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - Dammam",
+      "57436_azn": "583.20 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "ISB",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Islamabad",
+      "57436_azn": "940.30 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "14062026": "17.08.2026",
+      "svx": "RUH",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Riyadh",
+      "57436_azn": "1125.25 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "14062026": "17.08.2026",
+      "svx": "DEL",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - New Delhi",
+      "57436_azn": "1065.31 AZN",
+      "berlin": "London",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "BAK",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Baku",
+      "57436_azn": "507.31 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "CIT",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - Shymkent",
+      "57436_azn": "491.30 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "THR",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - Tehran",
+      "57436_azn": "656.00 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "LHE",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Lahore",
+      "57436_azn": "1001.50 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "14062026": "03.09.2026",
+      "svx": "TBZ",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - Tabriz",
+      "57436_azn": "567.80 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "14062026": "12.06.2026",
+      "svx": "SSH",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Sharm El Sheikh",
+      "57436_azn": "1652.63 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "RUH",
+      "ber": "NQZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - Riyadh",
+      "57436_azn": "599.50 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "14062026": "17.06.2026",
+      "svx": "SSH",
+      "ber": "NQZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - Sharm El Sheikh",
+      "57436_azn": "1040.40 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "14062026": "05.07.2026",
+      "svx": "TBZ",
+      "ber": "NQZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - Tabriz",
+      "57436_azn": "521.20 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "14062026": "03.09.2026",
+      "svx": "RUH",
+      "ber": "AYT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Antalya - Riyadh",
+      "57436_azn": "630.80 AZN",
+      "berlin": "Antalya",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "14062026": "20.06.2026",
+      "svx": "LED",
+      "ber": "NQZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - St Petersburg",
+      "57436_azn": "530.90 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "14062026": "20.06.2026",
+      "svx": "MOW",
+      "ber": "NQZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Astana - Moscow",
+      "57436_azn": "488.40 AZN",
+      "berlin": "Astana",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "BOM",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Mumbai",
+      "57436_azn": "770.50 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "LHE",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Lahore",
+      "57436_azn": "893.60 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "BCN",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Barcelona",
+      "57436_azn": "328.68 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "SCO",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Aktau",
+      "57436_azn": "707.89 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "MOW",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Moscow",
+      "57436_azn": "622.99 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "ALA",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Almaty",
+      "57436_azn": "742.00 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "TZX",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Trabzon",
+      "57436_azn": "566.22 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "RUH",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Riyadh",
+      "57436_azn": "642.03 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "14062026": "20.06.2026",
+      "svx": "MIL",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Milan",
+      "57436_azn": "657.32 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "BJV",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Bodrum",
+      "57436_azn": "540.15 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "14062026": "20.08.2026",
+      "svx": "BOM",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Mumbai",
+      "57436_azn": "756.10 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "PAR",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Paris",
+      "57436_azn": "1004.10 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "TAS",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Tashkent",
+      "57436_azn": "674.80 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "PAR",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Paris",
+      "57436_azn": "712.76 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "14062026": "12.07.2026",
+      "svx": "BJS",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Beijing",
+      "57436_azn": "419.52 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Beijing"
+    },
+    {
+      "14062026": "13.06.2026",
+      "svx": "BUS",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Batumi",
+      "57436_azn": "534.08 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "DMM",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Dammam",
+      "57436_azn": "595.53 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "SSH",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Sharm El Sheikh",
+      "57436_azn": "1000.74 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "14062026": "13.06.2026",
+      "svx": "LON",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - London",
+      "57436_azn": "637.45 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "London"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "GUW",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Atyrau",
+      "57436_azn": "358.32 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Atyrau"
+    },
+    {
+      "14062026": "13.06.2026",
+      "svx": "MOW",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Moscow",
+      "57436_azn": "588.37 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "14062026": "09.07.2026",
+      "svx": "AMD",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Ahmedabad",
+      "57436_azn": "749.10 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Ahmedabad"
+    },
+    {
+      "14062026": "25.06.2026",
+      "svx": "ALA",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Almaty",
+      "57436_azn": "879.92 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "14062026": "23.07.2026",
+      "svx": "MIL",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Milan",
+      "57436_azn": "954.80 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "NQZ",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Astana",
+      "57436_azn": "682.50 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "14062026": "09.07.2026",
+      "svx": "MSQ",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Minsk",
+      "57436_azn": "956.90 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "14062026": "02.07.2026",
+      "svx": "DEL",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - New Delhi",
+      "57436_azn": "741.10 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "14062026": "18.08.2026",
+      "svx": "AYT",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Antalya",
+      "57436_azn": "609.52 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "14062026": "13.06.2026",
+      "svx": "TBS",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Tbilisi",
+      "57436_azn": "521.55 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "14062026": "12.06.2026",
+      "svx": "LED",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - St Petersburg",
+      "57436_azn": "571.13 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "VIE",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Vienna",
+      "57436_azn": "553.37 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "14062026": "23.06.2026",
+      "svx": "RMO",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Chisinau",
+      "57436_azn": "650.52 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "IST",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Istanbul",
+      "57436_azn": "464.37 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "NQZ",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Astana",
+      "57436_azn": "847.48 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "BAK",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Baku",
+      "57436_azn": "554.80 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "14062026": "19.08.2026",
+      "svx": "AYT",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Antalya",
+      "57436_azn": "613.33 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "DOH",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Doha",
+      "57436_azn": "803.57 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Doha"
+    },
+    {
+      "14062026": "17.06.2026",
+      "svx": "FRU",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Bishkek",
+      "57436_azn": "409.82 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "14062026": "07.09.2026",
+      "svx": "TBZ",
+      "ber": "LON",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? London - Tabriz",
+      "57436_azn": "1055.48 AZN",
+      "berlin": "London",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "SVX",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Ekaterinburg",
+      "57436_azn": "766.10 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Ekaterinburg"
+    },
+    {
+      "14062026": "20.08.2026",
+      "svx": "LED",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - St Petersburg",
+      "57436_azn": "847.40 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "14062026": "17.06.2026",
+      "svx": "DOH",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Doha",
+      "57436_azn": "717.67 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Doha"
+    },
+    {
+      "14062026": "14.06.2026",
+      "svx": "COV",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Adana - Mersin",
+      "57436_azn": "5278.79 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "14062026": "20.08.2026",
+      "svx": "MOW",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Moscow",
+      "57436_azn": "799.80 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "14062026": "20.08.2026",
+      "svx": "TBS",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Tbilisi",
+      "57436_azn": "626.70 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "14062026": "09.07.2026",
+      "svx": "CIT",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Shymkent",
+      "57436_azn": "727.00 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "SCO",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Aktau",
+      "57436_azn": "601.20 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "DLM",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Dalaman",
+      "57436_azn": "567.43 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "TBZ",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Tabriz",
+      "57436_azn": "594.75 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "ANK",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Ankara",
+      "57436_azn": "582.98 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "LON",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - London",
+      "57436_azn": "285.24 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "London"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "DYU",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Dushanbe",
+      "57436_azn": "669.20 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "14062026": "13.06.2026",
+      "svx": "PRG",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Prague",
+      "57436_azn": "538.50 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "TLV",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Tel Aviv",
+      "57436_azn": "450.90 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "14062026": "21.06.2026",
+      "svx": "BAK",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Baku",
+      "57436_azn": "357.99 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "14062026": "27.06.2026",
+      "svx": "RIX",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Riga",
+      "57436_azn": "647.79 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Riga"
+    },
+    {
+      "14062026": "27.08.2026",
+      "svx": "ANK",
+      "ber": "DBB",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? El Alamein - Ankara",
+      "57436_azn": "856.50 AZN",
+      "berlin": "El Alamein",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "THR",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Tehran",
+      "57436_azn": "661.36 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "14062026": "14.06.2026",
+      "svx": "IZM",
+      "ber": "DEL",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Izmir",
+      "57436_azn": "579.29 AZN",
+      "berlin": "New Delhi",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "MIL",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Milan",
+      "57436_azn": "429.40 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "14062026": "27.08.2026",
+      "svx": "DBB",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - El Alamein",
+      "57436_azn": "485.51 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "El Alamein"
+    },
+    {
+      "14062026": "23.06.2026",
+      "svx": "TIV",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tivat",
+      "57436_azn": "423.64 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "TAS",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tashkent",
+      "57436_azn": "375.27 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "BER",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Berlin",
+      "57436_azn": "329.78 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "14062026": "23.06.2026",
+      "svx": "RMO",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Chisinau",
+      "57436_azn": "447.32 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "PRG",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Prague",
+      "57436_azn": "364.24 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "14062026": "12.06.2026",
+      "svx": "VIE",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "57436_azn": "299.06 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "14062026": "24.07.2026",
+      "svx": "MIL",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Milan",
+      "57436_azn": "543.90 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "14062026": "02.09.2026",
+      "svx": "IZM",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Izmir",
+      "57436_azn": "531.80 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "14062026": "12.06.2026",
+      "svx": "SVX",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Ekaterinburg",
+      "57436_azn": "409.82 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Ekaterinburg"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "AMD",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Ahmedabad",
+      "57436_azn": "255.62 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Ahmedabad"
+    },
+    {
+      "14062026": "11.06.2026",
+      "svx": "BOM",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Mumbai",
+      "57436_azn": "330.24 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "LED",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "57436_azn": "458.90 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "14062026": "22.06.2026",
+      "svx": "SSH",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Sharm El Sheikh",
+      "57436_azn": "866.40 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "14062026": "07.07.2026",
+      "svx": "BCN",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Barcelona",
+      "57436_azn": "589.80 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "14062026": "02.07.2026",
+      "svx": "LON",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - London",
+      "57436_azn": "538.80 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "London"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "ANK",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "57436_azn": "423.50 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "14062026": "04.07.2026",
+      "svx": "DLM",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "57436_azn": "445.30 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "14062026": "02.07.2026",
+      "svx": "MSQ",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Minsk",
+      "57436_azn": "539.93 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "14062026": "21.07.2026",
+      "svx": "COV",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
+      "57436_azn": "255.91 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "14062026": "02.07.2026",
+      "svx": "DBB",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - El Alamein",
+      "57436_azn": "541.70 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "El Alamein"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "BJV",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Bodrum",
+      "57436_azn": "475.90 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "14062026": "21.06.2026",
+      "svx": "PAR",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Paris",
+      "57436_azn": "387.93 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "14062026": "17.06.2026",
+      "svx": "ISB",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Islamabad",
+      "57436_azn": "488.81 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "14062026": "21.06.2026",
+      "svx": "ALA",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "57436_azn": "389.80 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "14062026": "05.09.2026",
+      "svx": "IZM",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Izmir",
+      "57436_azn": "445.19 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "DYU",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "57436_azn": "222.34 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "THR",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tehran",
+      "57436_azn": "372.25 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "14062026": "27.06.2026",
+      "svx": "TBS",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tbilisi",
+      "57436_azn": "165.56 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "14062026": "24.06.2026",
+      "svx": "TLV",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "57436_azn": "370.45 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "DMM",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Dammam",
+      "57436_azn": "289.06 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "14062026": "17.06.2026",
+      "svx": "MOW",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Moscow",
+      "57436_azn": "382.17 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "14062026": "27.06.2026",
+      "svx": "HER",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "57436_azn": "692.69 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Heraklion"
+    },
+    {
+      "14062026": "26.07.2026",
+      "svx": "PAR",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Paris",
+      "57436_azn": "810.80 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "14062026": "03.07.2026",
+      "svx": "VIE",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "57436_azn": "496.30 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "14062026": "11.08.2026",
+      "svx": "RMO",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "57436_azn": "620.60 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "14062026": "03.07.2026",
+      "svx": "DEL",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "57436_azn": "581.32 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "14062026": "19.06.2026",
+      "svx": "NQZ",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Astana",
+      "57436_azn": "411.52 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "ANK",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Ankara",
+      "57436_azn": "253.76 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "14062026": "19.06.2026",
+      "svx": "DLM",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Dalaman",
+      "57436_azn": "386.12 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "14062026": "17.06.2026",
+      "svx": "SSH",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Sharm El Sheikh",
+      "57436_azn": "793.56 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "14062026": "10.06.2026",
+      "svx": "LED",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "57436_azn": "401.93 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "IST",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Istanbul",
+      "57436_azn": "304.70 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "14062026": "14.07.2026",
+      "svx": "TIV",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "57436_azn": "460.60 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "SKD",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Samarkand",
+      "57436_azn": "383.17 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "BUS",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Batumi",
+      "57436_azn": "382.70 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "14062026": "06.07.2026",
+      "svx": "FRA",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Frankfurt",
+      "57436_azn": "569.25 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Frankfurt"
+    },
+    {
+      "14062026": "08.08.2026",
+      "svx": "MSQ",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Minsk",
+      "57436_azn": "649.80 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "14062026": "05.09.2026",
+      "svx": "TLV",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Tel Aviv",
+      "57436_azn": "496.80 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "RUH",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Riyadh",
+      "57436_azn": "481.60 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "14062026": "02.07.2026",
+      "svx": "COV",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Adana - Mersin",
+      "57436_azn": "362.50 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "14062026": "14.07.2026",
+      "svx": "BAK",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Baku",
+      "57436_azn": "186.40 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "14062026": "30.07.2026",
+      "svx": "BEG",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Belgrade",
+      "57436_azn": "338.73 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Belgrade"
+    },
+    {
+      "14062026": "18.06.2026",
+      "svx": "LHE",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Lahore",
+      "57436_azn": "488.81 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "14062026": "23.06.2026",
+      "svx": "BUS",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Batumi",
+      "57436_azn": "182.68 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "14062026": "22.06.2026",
+      "svx": "IST",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Istanbul",
+      "57436_azn": "350.70 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "14062026": "23.06.2026",
+      "svx": "CIT",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Shymkent",
+      "57436_azn": "263.54 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "TBS",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "57436_azn": "297.90 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "14062026": "19.06.2026",
+      "svx": "TZX",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "57436_azn": "232.04 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "TBZ",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Tabriz",
+      "57436_azn": "325.03 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "14062026": "05.09.2026",
+      "svx": "RUH",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Riyadh",
+      "57436_azn": "253.51 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "14062026": "02.07.2026",
+      "svx": "PRG",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Prague",
+      "57436_azn": "482.70 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "TZX",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Trabzon",
+      "57436_azn": "404.80 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "14062026": "05.07.2026",
+      "svx": "BER",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Berlin",
+      "57436_azn": "497.40 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "14062026": "01.07.2026",
+      "svx": "MOW",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Moscow",
+      "57436_azn": "413.00 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "14062026": "16.06.2026",
+      "svx": "SCO",
+      "ber": "BAK",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Baku - Aktau",
+      "57436_azn": "162.83 AZN",
+      "berlin": "Baku",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "14062026": "01.09.2026",
+      "svx": "AYT",
+      "ber": "SCO",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "57436_azn": "362.50 AZN",
+      "berlin": "Aktau",
+      "ekaterinburg": "Antalya"
     }
   ]
 }
