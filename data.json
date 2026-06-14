@@ -604,12 +604,57 @@
       "dushanbe": "Chisinau"
     },
     {
-      "16062026": "",
+      "16062026": "21.06.2026",
       "dyu": "SSH",
-      "bcn": "",
-      "____barcelona__dushanbe": "",
-      "131746_azn": "",
-      "barcelona": "",
+      "bcn": "DLM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dalaman - Sharm El Sheikh",
+      "131746_azn": "1153.30 AZN",
+      "barcelona": "Dalaman",
+      "dushanbe": "Sharm El Sheikh"
+    },
+    {
+      "16062026": "15.06.2026",
+      "dyu": "ALA",
+      "bcn": "DLM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dalaman - Almaty",
+      "131746_azn": "594.50 AZN",
+      "barcelona": "Dalaman",
+      "dushanbe": "Almaty"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "LON",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - London",
+      "131746_azn": "641.70 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "London"
+    },
+    {
+      "16062026": "02.08.2026",
+      "dyu": "TBZ",
+      "bcn": "DLM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dalaman - Tabriz",
+      "131746_azn": "1288.60 AZN",
+      "barcelona": "Dalaman",
+      "dushanbe": "Tabriz"
+    },
+    {
+      "16062026": "08.09.2026",
+      "dyu": "BCN",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Barcelona",
+      "131746_azn": "780.26 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Barcelona"
+    },
+    {
+      "16062026": "",
+      "dyu": "LED",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - St Petersburg",
+      "131746_azn": "568.89 AZN",
+      "barcelona": "Samarkand",
       "dushanbe": ""
     }
   ]
