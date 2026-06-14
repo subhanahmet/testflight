@@ -649,12 +649,1065 @@
       "dushanbe": "Barcelona"
     },
     {
-      "16062026": "",
+      "16062026": "24.06.2026",
       "dyu": "LED",
       "bcn": "SKD",
       "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - St Petersburg",
       "131746_azn": "568.89 AZN",
       "barcelona": "Samarkand",
+      "dushanbe": "St Petersburg"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "ALA",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Almaty",
+      "131746_azn": "610.31 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Almaty"
+    },
+    {
+      "16062026": "19.07.2026",
+      "dyu": "COV",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Adana - Mersin",
+      "131746_azn": "521.71 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Adana - Mersin"
+    },
+    {
+      "16062026": "21.06.2026",
+      "dyu": "BAK",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Baku",
+      "131746_azn": "405.59 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Baku"
+    },
+    {
+      "16062026": "01.09.2026",
+      "dyu": "TZX",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Trabzon",
+      "131746_azn": "592.65 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Trabzon"
+    },
+    {
+      "16062026": "15.06.2026",
+      "dyu": "NQZ",
+      "bcn": "DLM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dalaman - Astana",
+      "131746_azn": "538.40 AZN",
+      "barcelona": "Dalaman",
+      "dushanbe": "Astana"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "MOW",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Moscow",
+      "131746_azn": "521.67 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Moscow"
+    },
+    {
+      "16062026": "08.09.2026",
+      "dyu": "PAR",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Paris",
+      "131746_azn": "780.26 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Paris"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "ANK",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Ankara",
+      "131746_azn": "513.82 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Ankara"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "BUS",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Batumi",
+      "131746_azn": "568.38 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Batumi"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "BAK",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Baku",
+      "131746_azn": "261.05 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Baku"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "SVX",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Ekaterinburg",
+      "131746_azn": "605.86 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Ekaterinburg"
+    },
+    {
+      "16062026": "01.09.2026",
+      "dyu": "ANK",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Ankara",
+      "131746_azn": "611.42 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Ankara"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "BOM",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Mumbai",
+      "131746_azn": "594.84 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Mumbai"
+    },
+    {
+      "16062026": "21.06.2026",
+      "dyu": "TIV",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Tivat",
+      "131746_azn": "627.91 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Tivat"
+    },
+    {
+      "16062026": "06.09.2026",
+      "dyu": "BAK",
+      "bcn": "FRA",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Frankfurt - Baku",
+      "131746_azn": "539.06 AZN",
+      "barcelona": "Frankfurt",
+      "dushanbe": "Baku"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "TBS",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Tbilisi",
+      "131746_azn": "529.19 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Tbilisi"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "LON",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - London",
+      "131746_azn": "727.61 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "London"
+    },
+    {
+      "16062026": "01.09.2026",
+      "dyu": "BER",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Berlin",
+      "131746_azn": "685.67 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Berlin"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "MOW",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Moscow",
+      "131746_azn": "600.13 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Moscow"
+    },
+    {
+      "16062026": "21.06.2026",
+      "dyu": "PAR",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Paris",
+      "131746_azn": "769.58 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Paris"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "MIL",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Milan",
+      "131746_azn": "631.87 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Milan"
+    },
+    {
+      "16062026": "19.08.2026",
+      "dyu": "RMO",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Chisinau",
+      "131746_azn": "793.19 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Chisinau"
+    },
+    {
+      "16062026": "16.06.2026",
+      "dyu": "SKD",
+      "bcn": "DLM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dalaman - Samarkand",
+      "131746_azn": "530.40 AZN",
+      "barcelona": "Dalaman",
+      "dushanbe": "Samarkand"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "DLM",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Dalaman",
+      "131746_azn": "632.88 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Dalaman"
+    },
+    {
+      "16062026": "12.09.2026",
+      "dyu": "IZM",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Izmir",
+      "131746_azn": "612.97 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Izmir"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "TZX",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Trabzon",
+      "131746_azn": "500.05 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Trabzon"
+    },
+    {
+      "16062026": "28.06.2026",
+      "dyu": "BCN",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Barcelona",
+      "131746_azn": "769.58 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Barcelona"
+    },
+    {
+      "16062026": "20.08.2026",
+      "dyu": "RMO",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Chisinau",
+      "131746_azn": "853.61 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Chisinau"
+    },
+    {
+      "16062026": "13.08.2026",
+      "dyu": "PRG",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Prague",
+      "131746_azn": "671.30 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Prague"
+    },
+    {
+      "16062026": "15.06.2026",
+      "dyu": "LED",
+      "bcn": "DLM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dalaman - St Petersburg",
+      "131746_azn": "565.60 AZN",
+      "barcelona": "Dalaman",
+      "dushanbe": "St Petersburg"
+    },
+    {
+      "16062026": "01.09.2026",
+      "dyu": "AYT",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Antalya",
+      "131746_azn": "548.77 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Antalya"
+    },
+    {
+      "16062026": "10.09.2026",
+      "dyu": "MIL",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Milan",
+      "131746_azn": "732.64 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Milan"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "DLM",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Dalaman",
+      "131746_azn": "610.20 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Dalaman"
+    },
+    {
+      "16062026": "19.08.2026",
+      "dyu": "AYT",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Antalya",
+      "131746_azn": "645.65 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Antalya"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "SSH",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Sharm El Sheikh",
+      "131746_azn": "1114.50 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Sharm El Sheikh"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "BUS",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Batumi",
+      "131746_azn": "478.41 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Batumi"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "IST",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Istanbul",
+      "131746_azn": "399.74 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Istanbul"
+    },
+    {
+      "16062026": "09.09.2026",
+      "dyu": "IZM",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Izmir",
+      "131746_azn": "639.78 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Izmir"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "BJS",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Beijing",
+      "131746_azn": "891.51 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Beijing"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "LED",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - St Petersburg",
+      "131746_azn": "646.61 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "St Petersburg"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "COV",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Adana - Mersin",
+      "131746_azn": "442.34 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Adana - Mersin"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "PRG",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Prague",
+      "131746_azn": "600.39 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Prague"
+    },
+    {
+      "16062026": "28.06.2026",
+      "dyu": "BJV",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Bodrum",
+      "131746_azn": "643.65 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Bodrum"
+    },
+    {
+      "16062026": "28.06.2026",
+      "dyu": "TLV",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Tel Aviv",
+      "131746_azn": "462.70 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Tel Aviv"
+    },
+    {
+      "16062026": "17.06.2026",
+      "dyu": "MOW",
+      "bcn": "DLM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dalaman - Moscow",
+      "131746_azn": "419.40 AZN",
+      "barcelona": "Dalaman",
+      "dushanbe": "Moscow"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "TAS",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Tashkent",
+      "131746_azn": "535.67 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Tashkent"
+    },
+    {
+      "16062026": "03.09.2026",
+      "dyu": "BJV",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Bodrum",
+      "131746_azn": "663.55 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Bodrum"
+    },
+    {
+      "16062026": "04.08.2026",
+      "dyu": "AMD",
+      "bcn": "DMM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Dammam - Ahmedabad",
+      "131746_azn": "475.35 AZN",
+      "barcelona": "Dammam",
+      "dushanbe": "Ahmedabad"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "TBS",
+      "bcn": "SKD",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Samarkand - Tbilisi",
+      "131746_azn": "415.48 AZN",
+      "barcelona": "Samarkand",
+      "dushanbe": "Tbilisi"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "DBB",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - El Alamein",
+      "131746_azn": "766.41 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "El Alamein"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "PRG",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Prague",
+      "131746_azn": "791.35 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Prague"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "TIV",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Tivat",
+      "131746_azn": "665.42 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Tivat"
+    },
+    {
+      "16062026": "05.09.2026",
+      "dyu": "IZM",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Izmir",
+      "131746_azn": "677.29 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Izmir"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "TBS",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Tbilisi",
+      "131746_azn": "519.88 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Tbilisi"
+    },
+    {
+      "16062026": "20.06.2026",
+      "dyu": "LON",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - London",
+      "131746_azn": "1073.88 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "London"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "TZX",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Trabzon",
+      "131746_azn": "598.54 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Trabzon"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "BCN",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Barcelona",
+      "131746_azn": "834.63 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Barcelona"
+    },
+    {
+      "16062026": "17.06.2026",
+      "dyu": "PRG",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Prague",
+      "131746_azn": "913.05 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Prague"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "MOW",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Moscow",
+      "131746_azn": "614.27 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Moscow"
+    },
+    {
+      "16062026": "19.08.2026",
+      "dyu": "RMO",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Chisinau",
+      "131746_azn": "848.40 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Chisinau"
+    },
+    {
+      "16062026": "31.08.2026",
+      "dyu": "AYT",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Antalya",
+      "131746_azn": "860.82 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Antalya"
+    },
+    {
+      "16062026": "20.06.2026",
+      "dyu": "VIE",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Vienna",
+      "131746_azn": "1026.13 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Vienna"
+    },
+    {
+      "16062026": "03.09.2026",
+      "dyu": "RUH",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Riyadh",
+      "131746_azn": "738.20 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Riyadh"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "TBS",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Tbilisi",
+      "131746_azn": "549.10 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Tbilisi"
+    },
+    {
+      "16062026": "25.06.2026",
+      "dyu": "BJV",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Bodrum",
+      "131746_azn": "683.12 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Bodrum"
+    },
+    {
+      "16062026": "20.06.2026",
+      "dyu": "VIE",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Vienna",
+      "131746_azn": "799.22 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Vienna"
+    },
+    {
+      "16062026": "03.08.2026",
+      "dyu": "DMM",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Dammam",
+      "131746_azn": "930.41 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Dammam"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "TLV",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Tel Aviv",
+      "131746_azn": "576.30 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Tel Aviv"
+    },
+    {
+      "16062026": "02.07.2026",
+      "dyu": "BOM",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Mumbai",
+      "131746_azn": "787.10 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Mumbai"
+    },
+    {
+      "16062026": "18.07.2026",
+      "dyu": "DOH",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Doha",
+      "131746_azn": "1207.62 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Doha"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "IST",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Istanbul",
+      "131746_azn": "687.43 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Istanbul"
+    },
+    {
+      "16062026": "17.06.2026",
+      "dyu": "BUS",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Batumi",
+      "131746_azn": "768.39 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Batumi"
+    },
+    {
+      "16062026": "01.07.2026",
+      "dyu": "RUH",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Riyadh",
+      "131746_azn": "983.18 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Riyadh"
+    },
+    {
+      "16062026": "18.07.2026",
+      "dyu": "BAK",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Baku",
+      "131746_azn": "596.89 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Baku"
+    },
+    {
+      "16062026": "02.09.2026",
+      "dyu": "FRU",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Bishkek",
+      "131746_azn": "640.40 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Bishkek"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "LED",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - St Petersburg",
+      "131746_azn": "715.20 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "St Petersburg"
+    },
+    {
+      "16062026": "26.08.2026",
+      "dyu": "IZM",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Izmir",
+      "131746_azn": "1114.26 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Izmir"
+    },
+    {
+      "16062026": "01.08.2026",
+      "dyu": "THR",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Tehran",
+      "131746_azn": "2281.21 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Tehran"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "TBS",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Tbilisi",
+      "131746_azn": "637.17 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Tbilisi"
+    },
+    {
+      "16062026": "20.07.2026",
+      "dyu": "SSH",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Sharm El Sheikh",
+      "131746_azn": "1535.38 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Sharm El Sheikh"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "DLM",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Dalaman",
+      "131746_azn": "647.71 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Dalaman"
+    },
+    {
+      "16062026": "01.08.2026",
+      "dyu": "THR",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Tehran",
+      "131746_azn": "1403.17 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Tehran"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "BUS",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Batumi",
+      "131746_azn": "572.96 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Batumi"
+    },
+    {
+      "16062026": "17.06.2026",
+      "dyu": "TZX",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Trabzon",
+      "131746_azn": "788.49 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Trabzon"
+    },
+    {
+      "16062026": "20.06.2026",
+      "dyu": "TLV",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Tel Aviv",
+      "131746_azn": "578.89 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Tel Aviv"
+    },
+    {
+      "16062026": "01.07.2026",
+      "dyu": "AYT",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Antalya",
+      "131746_azn": "773.66 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Antalya"
+    },
+    {
+      "16062026": "01.07.2026",
+      "dyu": "RUH",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Riyadh",
+      "131746_azn": "682.90 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Riyadh"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "LED",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - St Petersburg",
+      "131746_azn": "663.45 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "St Petersburg"
+    },
+    {
+      "16062026": "20.06.2026",
+      "dyu": "SSH",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Sharm El Sheikh",
+      "131746_azn": "1181.51 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Sharm El Sheikh"
+    },
+    {
+      "16062026": "02.09.2026",
+      "dyu": "BJV",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Bodrum",
+      "131746_azn": "982.94 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Bodrum"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "TLV",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Tel Aviv",
+      "131746_azn": "654.76 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Tel Aviv"
+    },
+    {
+      "16062026": "02.09.2026",
+      "dyu": "RMO",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Chisinau",
+      "131746_azn": "1124.91 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Chisinau"
+    },
+    {
+      "16062026": "02.09.2026",
+      "dyu": "DMM",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Dammam",
+      "131746_azn": "690.60 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Dammam"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "BER",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Berlin",
+      "131746_azn": "794.42 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Berlin"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "TAS",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Tashkent",
+      "131746_azn": "545.70 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Tashkent"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "ANK",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Ankara",
+      "131746_azn": "620.18 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Ankara"
+    },
+    {
+      "16062026": "19.06.2026",
+      "dyu": "SSH",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Sharm El Sheikh",
+      "131746_azn": "1217.90 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Sharm El Sheikh"
+    },
+    {
+      "16062026": "01.08.2026",
+      "dyu": "THR",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Tehran",
+      "131746_azn": "1489.30 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Tehran"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "DYU",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Dushanbe",
+      "131746_azn": "494.70 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Dushanbe"
+    },
+    {
+      "16062026": "16.07.2026",
+      "dyu": "COV",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Adana - Mersin",
+      "131746_azn": "559.22 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Adana - Mersin"
+    },
+    {
+      "16062026": "17.06.2026",
+      "dyu": "LED",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - St Petersburg",
+      "131746_azn": "862.32 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "St Petersburg"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "BAK",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Baku",
+      "131746_azn": "458.84 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Baku"
+    },
+    {
+      "16062026": "17.06.2026",
+      "dyu": "MOW",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Moscow",
+      "131746_azn": "812.06 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Moscow"
+    },
+    {
+      "16062026": "02.08.2026",
+      "dyu": "TBZ",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Tabriz",
+      "131746_azn": "1314.67 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Tabriz"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "MIL",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Milan",
+      "131746_azn": "816.92 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Milan"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "LHE",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Lahore",
+      "131746_azn": "749.20 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Lahore"
+    },
+    {
+      "16062026": "08.09.2026",
+      "dyu": "AMD",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Ahmedabad",
+      "131746_azn": "460.30 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Ahmedabad"
+    },
+    {
+      "16062026": "17.06.2026",
+      "dyu": "TIV",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Tivat",
+      "131746_azn": "987.97 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Tivat"
+    },
+    {
+      "16062026": "20.06.2026",
+      "dyu": "ISB",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Islamabad",
+      "131746_azn": "885.20 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Islamabad"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "IST",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Istanbul",
+      "131746_azn": "496.27 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Istanbul"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "SVX",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - Ekaterinburg",
+      "131746_azn": "586.00 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "Ekaterinburg"
+    },
+    {
+      "16062026": "08.07.2026",
+      "dyu": "DEL",
+      "bcn": "BJV",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bodrum - New Delhi",
+      "131746_azn": "772.10 AZN",
+      "barcelona": "Bodrum",
+      "dushanbe": "New Delhi"
+    },
+    {
+      "16062026": "28.06.2026",
+      "dyu": "PAR",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - Paris",
+      "131746_azn": "777.58 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "Paris"
+    },
+    {
+      "16062026": "18.06.2026",
+      "dyu": "LON",
+      "bcn": "FRU",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Bishkek - London",
+      "131746_azn": "877.91 AZN",
+      "barcelona": "Bishkek",
+      "dushanbe": "London"
+    },
+    {
+      "16062026": "24.06.2026",
+      "dyu": "ANK",
+      "bcn": "BJS",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Beijing - Ankara",
+      "131746_azn": "803.57 AZN",
+      "barcelona": "Beijing",
+      "dushanbe": "Ankara"
+    },
+    {
+      "16062026": "18.08.2026",
+      "dyu": "AYT",
+      "bcn": "BOM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Mumbai - Antalya",
+      "131746_azn": "626.97 AZN",
+      "barcelona": "Mumbai",
+      "dushanbe": "Antalya"
+    },
+    {
+      "16062026": "",
+      "dyu": "IST",
+      "bcn": "BOM",
+      "____barcelona__dushanbe": "???????? ?????? ?? ??????????? Mumbai - Istanbul",
+      "131746_azn": "424.92 AZN",
+      "barcelona": "Mumbai",
       "dushanbe": ""
     }
   ]
