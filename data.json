@@ -6904,13 +6904,3973 @@
       "sharm_el_sheikh": "Chisinau"
     },
     {
-      "21062026": "",
+      "21062026": "24.06.2026",
       "ssh": "DBB",
-      "ber": "",
-      "____berlin__sharm_el_sheikh": "",
-      "140692_azn": "",
-      "berlin": "",
-      "sharm_el_sheikh": ""
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - El Alamein",
+      "140692_azn": "786.79 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "20.07.2026",
+      "ssh": "TAS",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Tashkent",
+      "140692_azn": "399.61 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "LED",
+      "ber": "MIL",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Milan - St Petersburg",
+      "140692_azn": "764.78 AZN",
+      "berlin": "Milan",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TIV",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - Tivat",
+      "140692_azn": "449.05 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "BJV",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - Bodrum",
+      "140692_azn": "537.63 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "SCO",
+      "ber": "DXB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dubai - Aktau",
+      "140692_azn": "713.64 AZN",
+      "berlin": "Dubai",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "DOH",
+      "ber": "MIL",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Milan - Doha",
+      "140692_azn": "779.53 AZN",
+      "berlin": "Milan",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "THR",
+      "ber": "MIL",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Milan - Tehran",
+      "140692_azn": "829.81 AZN",
+      "berlin": "Milan",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "01.07.2026",
+      "ssh": "TBS",
+      "ber": "MIL",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Milan - Tbilisi",
+      "140692_azn": "648.69 AZN",
+      "berlin": "Milan",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "MSQ",
+      "ber": "MIL",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Milan - Minsk",
+      "140692_azn": "843.60 AZN",
+      "berlin": "Milan",
+      "sharm_el_sheikh": "Minsk"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "TBS",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - Tbilisi",
+      "140692_azn": "354.61 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "11.07.2026",
+      "ssh": "BCN",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - Barcelona",
+      "140692_azn": "830.95 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "PAR",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Paris",
+      "140692_azn": "815.67 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "DBB",
+      "ber": "MIL",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Milan - El Alamein",
+      "140692_azn": "897.34 AZN",
+      "berlin": "Milan",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "01.07.2026",
+      "ssh": "LON",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - London",
+      "140692_azn": "683.31 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "IST",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - Istanbul",
+      "140692_azn": "350.68 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BAK",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - Baku",
+      "140692_azn": "171.42 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "ANK",
+      "ber": "DYU",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Dushanbe - Ankara",
+      "140692_azn": "474.71 AZN",
+      "berlin": "Dushanbe",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "MIL",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Milan",
+      "140692_azn": "673.93 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BAK",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Baku",
+      "140692_azn": "429.02 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "LHE",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Lahore",
+      "140692_azn": "734.95 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "06.07.2026",
+      "ssh": "TAS",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Tashkent",
+      "140692_azn": "775.44 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "SSH",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Sharm El Sheikh",
+      "140692_azn": "1378.82 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "BJS",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Beijing",
+      "140692_azn": "841.26 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TZX",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Trabzon",
+      "140692_azn": "526.36 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "BJV",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Bodrum",
+      "140692_azn": "638.49 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "IST",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Istanbul",
+      "140692_azn": "414.14 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "SCO",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Aktau",
+      "140692_azn": "431.58 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "26.08.2026",
+      "ssh": "DBB",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - El Alamein",
+      "140692_azn": "1011.38 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "TAS",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Tashkent",
+      "140692_azn": "526.74 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "TBS",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Tbilisi",
+      "140692_azn": "563.25 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DXB",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Dubai",
+      "140692_azn": "910.63 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "DOH",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Doha",
+      "140692_azn": "742.13 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "07.09.2026",
+      "ssh": "PAR",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Paris",
+      "140692_azn": "1284.35 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "26.06.2026",
+      "ssh": "DYU",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Dushanbe",
+      "140692_azn": "440.66 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "FRU",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Bishkek",
+      "140692_azn": "683.27 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "TBS",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Tbilisi",
+      "140692_azn": "414.14 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "SVX",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Ekaterinburg",
+      "140692_azn": "677.37 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Ekaterinburg"
+    },
+    {
+      "21062026": "16.07.2026",
+      "ssh": "ALA",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Almaty",
+      "140692_azn": "450.79 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "DYU",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Dushanbe",
+      "140692_azn": "559.31 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "19.07.2026",
+      "ssh": "SSH",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Sharm El Sheikh",
+      "140692_azn": "1222.01 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "06.07.2026",
+      "ssh": "LON",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - London",
+      "140692_azn": "806.00 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BER",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Berlin",
+      "140692_azn": "448.82 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "SKD",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Samarkand",
+      "140692_azn": "640.91 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "21062026": "02.08.2026",
+      "ssh": "AMD",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Ahmedabad",
+      "140692_azn": "420.00 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Ahmedabad"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BOM",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Mumbai",
+      "140692_azn": "581.94 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "ISB",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Islamabad",
+      "140692_azn": "750.70 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DMM",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Dammam",
+      "140692_azn": "493.62 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "ISB",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Islamabad",
+      "140692_azn": "856.50 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RUH",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Riyadh",
+      "140692_azn": "644.23 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "31.08.2026",
+      "ssh": "AYT",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Antalya",
+      "140692_azn": "614.92 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "IZM",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Izmir",
+      "140692_azn": "849.04 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "06.09.2026",
+      "ssh": "BOM",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Mumbai",
+      "140692_azn": "888.27 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "LON",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - London",
+      "140692_azn": "620.78 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "20.07.2026",
+      "ssh": "COV",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Adana - Mersin",
+      "140692_azn": "614.92 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "21062026": "06.09.2026",
+      "ssh": "BAK",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Baku",
+      "140692_azn": "477.18 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DXB",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Dubai",
+      "140692_azn": "692.00 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "21062026": "09.09.2026",
+      "ssh": "CIT",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Shymkent",
+      "140692_azn": "847.11 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "LHE",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Lahore",
+      "140692_azn": "767.92 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "06.09.2026",
+      "ssh": "ALA",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Almaty",
+      "140692_azn": "764.38 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "BAK",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Baku",
+      "140692_azn": "337.45 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "DOH",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Doha",
+      "140692_azn": "535.44 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "THR",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Tehran",
+      "140692_azn": "657.38 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "SSH",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Sharm El Sheikh",
+      "140692_azn": "1265.14 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "06.07.2026",
+      "ssh": "BUS",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Batumi",
+      "140692_azn": "664.33 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "06.07.2026",
+      "ssh": "BCN",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Barcelona",
+      "140692_azn": "861.12 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "06.07.2026",
+      "ssh": "MIL",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Milan",
+      "140692_azn": "800.10 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "BOM",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Mumbai",
+      "140692_azn": "659.25 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBZ",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Tabriz",
+      "140692_azn": "491.84 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "CIT",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Shymkent",
+      "140692_azn": "502.45 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RMO",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Chisinau",
+      "140692_azn": "1386.54 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "NQZ",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Astana",
+      "140692_azn": "514.21 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "11.09.2026",
+      "ssh": "TLV",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Tel Aviv",
+      "140692_azn": "711.56 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "06.07.2026",
+      "ssh": "TBS",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Tbilisi",
+      "140692_azn": "540.30 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "LED",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - St Petersburg",
+      "140692_azn": "762.01 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "27.06.2026",
+      "ssh": "TLV",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Tel Aviv",
+      "140692_azn": "752.72 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "SKD",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Samarkand",
+      "140692_azn": "507.55 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BCN",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Barcelona",
+      "140692_azn": "923.93 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "VIE",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Vienna",
+      "140692_azn": "902.28 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "21062026": "07.07.2026",
+      "ssh": "DEL",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - New Delhi",
+      "140692_azn": "718.71 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DEL",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - New Delhi",
+      "140692_azn": "645.33 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "21062026": "21.07.2026",
+      "ssh": "GUW",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Atyrau",
+      "140692_azn": "1236.22 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Atyrau"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "FRU",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Bishkek",
+      "140692_azn": "603.06 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "ANK",
+      "ber": "MOW",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Moscow - Ankara",
+      "140692_azn": "563.76 AZN",
+      "berlin": "Moscow",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "07.07.2026",
+      "ssh": "PRG",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Prague",
+      "140692_azn": "772.54 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "24.08.2026",
+      "ssh": "BJS",
+      "ber": "MSQ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Minsk - Beijing",
+      "140692_azn": "1250.88 AZN",
+      "berlin": "Minsk",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "21062026": "09.07.2026",
+      "ssh": "MSQ",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Minsk",
+      "140692_azn": "685.04 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Minsk"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TIV",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Tivat",
+      "140692_azn": "807.90 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "PAR",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Paris",
+      "140692_azn": "1008.60 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "PRG",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Prague",
+      "140692_azn": "845.40 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "THR",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Tehran",
+      "140692_azn": "869.80 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RUH",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Riyadh",
+      "140692_azn": "832.70 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "ALA",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Almaty",
+      "140692_azn": "457.20 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "MIL",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Milan",
+      "140692_azn": "876.00 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "AMD",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Ahmedabad",
+      "140692_azn": "1474.70 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Ahmedabad"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "MOW",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Moscow",
+      "140692_azn": "770.50 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "IZM",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Izmir",
+      "140692_azn": "967.80 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "SVX",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Ekaterinburg",
+      "140692_azn": "435.10 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Ekaterinburg"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "TAS",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Tashkent",
+      "140692_azn": "394.80 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BAK",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Baku",
+      "140692_azn": "265.20 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "ISB",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Islamabad",
+      "140692_azn": "596.60 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DEL",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - New Delhi",
+      "140692_azn": "438.60 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "MOW",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Moscow",
+      "140692_azn": "458.90 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BAK",
+      "ber": "RIX",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riga - Baku",
+      "140692_azn": "448.82 AZN",
+      "berlin": "Riga",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "ISB",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Islamabad",
+      "140692_azn": "740.20 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "BJV",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Bodrum",
+      "140692_azn": "892.90 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "CIT",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Shymkent",
+      "140692_azn": "389.70 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "10.09.2026",
+      "ssh": "TLV",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Tel Aviv",
+      "140692_azn": "611.50 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "SCO",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Aktau",
+      "140692_azn": "529.51 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "MOW",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Moscow",
+      "140692_azn": "681.30 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "AYT",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Antalya",
+      "140692_azn": "922.30 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "VIE",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Vienna",
+      "140692_azn": "782.00 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "TBS",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Tbilisi",
+      "140692_azn": "357.60 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "TAS",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Tashkent",
+      "140692_azn": "309.40 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "NQZ",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Astana",
+      "140692_azn": "401.10 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "FRU",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Bishkek",
+      "140692_azn": "431.70 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "LED",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - St Petersburg",
+      "140692_azn": "504.80 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "01.08.2026",
+      "ssh": "THR",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Tehran",
+      "140692_azn": "1285.40 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "SSH",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Sharm El Sheikh",
+      "140692_azn": "1412.60 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "16.07.2026",
+      "ssh": "COV",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Adana - Mersin",
+      "140692_azn": "779.50 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "21062026": "27.06.2026",
+      "ssh": "TLV",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Tel Aviv",
+      "140692_azn": "423.70 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "25.06.2026",
+      "ssh": "LHE",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Lahore",
+      "140692_azn": "740.20 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "TLV",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Tel Aviv",
+      "140692_azn": "733.60 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "SCO",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Aktau",
+      "140692_azn": "323.40 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "FRU",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Bishkek",
+      "140692_azn": "560.00 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "DOH",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Doha",
+      "140692_azn": "222.70 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "ALA",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Almaty",
+      "140692_azn": "549.22 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "TZX",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Trabzon",
+      "140692_azn": "757.60 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "21062026": "02.07.2026",
+      "ssh": "BCN",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Barcelona",
+      "140692_azn": "1008.60 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "TBS",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Tbilisi",
+      "140692_azn": "726.80 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "DLM",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Dalaman",
+      "140692_azn": "862.30 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "IST",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Istanbul",
+      "140692_azn": "657.10 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "BUS",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Batumi",
+      "140692_azn": "738.90 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "25.06.2026",
+      "ssh": "SVX",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Ekaterinburg",
+      "140692_azn": "592.30 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Ekaterinburg"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "AMD",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Ahmedabad",
+      "140692_azn": "261.80 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Ahmedabad"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "DMM",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Dammam",
+      "140692_azn": "470.80 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "LED",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - St Petersburg",
+      "140692_azn": "875.90 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "LHE",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Lahore",
+      "140692_azn": "596.60 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "BJS",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Beijing",
+      "140692_azn": "683.40 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "DYU",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Dushanbe",
+      "140692_azn": "328.50 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "SSH",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Sharm El Sheikh",
+      "140692_azn": "907.80 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "02.07.2026",
+      "ssh": "LON",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - London",
+      "140692_azn": "1022.20 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "BER",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Berlin",
+      "140692_azn": "914.50 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "02.08.2026",
+      "ssh": "TBZ",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Tabriz",
+      "140692_azn": "1942.30 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "ANK",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Ankara",
+      "140692_azn": "769.50 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "20.08.2026",
+      "ssh": "RMO",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Chisinau",
+      "140692_azn": "1075.00 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "NQZ",
+      "ber": "VIE",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Vienna - Astana",
+      "140692_azn": "623.95 AZN",
+      "berlin": "Vienna",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BAK",
+      "ber": "ISB",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Islamabad - Baku",
+      "140692_azn": "611.70 AZN",
+      "berlin": "Islamabad",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "DBB",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - El Alamein",
+      "140692_azn": "591.00 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "DOH",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Doha",
+      "140692_azn": "484.50 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BOM",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Mumbai",
+      "140692_azn": "453.90 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "SKD",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Samarkand",
+      "140692_azn": "394.80 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RMO",
+      "ber": "IST",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Istanbul - Chisinau",
+      "140692_azn": "701.30 AZN",
+      "berlin": "Istanbul",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BOM",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Mumbai",
+      "140692_azn": "782.36 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "04.09.2026",
+      "ssh": "TBS",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Tbilisi",
+      "140692_azn": "461.90 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "SKD",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Samarkand",
+      "140692_azn": "523.10 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "SSH",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Sharm El Sheikh",
+      "140692_azn": "1033.80 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "05.09.2026",
+      "ssh": "CIT",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Shymkent",
+      "140692_azn": "572.40 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "09.09.2026",
+      "ssh": "RUH",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Riyadh",
+      "140692_azn": "656.20 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TAS",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Tashkent",
+      "140692_azn": "551.18 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "SCO",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Aktau",
+      "140692_azn": "444.90 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "SSH",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Sharm El Sheikh",
+      "140692_azn": "1247.98 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "IZM",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Izmir",
+      "140692_azn": "782.67 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "PRG",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Prague",
+      "140692_azn": "589.00 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "BJV",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Bodrum",
+      "140692_azn": "565.10 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "04.09.2026",
+      "ssh": "DEL",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - New Delhi",
+      "140692_azn": "628.90 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "BJV",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Bodrum",
+      "140692_azn": "1174.49 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "AMD",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Ahmedabad",
+      "140692_azn": "1310.32 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Ahmedabad"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "SVX",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Ekaterinburg",
+      "140692_azn": "885.12 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Ekaterinburg"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "BER",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Berlin",
+      "140692_azn": "1175.60 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "ISB",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Islamabad",
+      "140692_azn": "1005.19 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "ANK",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Ankara",
+      "140692_azn": "806.45 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "BAK",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Baku",
+      "140692_azn": "509.06 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "AYT",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Antalya",
+      "140692_azn": "575.80 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBZ",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Tabriz",
+      "140692_azn": "666.67 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "TIV",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Tivat",
+      "140692_azn": "553.20 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "16.07.2026",
+      "ssh": "DOH",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Doha",
+      "140692_azn": "1220.40 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "LED",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - St Petersburg",
+      "140692_azn": "633.10 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "25.06.2026",
+      "ssh": "ALA",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Almaty",
+      "140692_azn": "367.20 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "BAK",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Baku",
+      "140692_azn": "414.30 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "02.08.2026",
+      "ssh": "TBZ",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Tabriz",
+      "140692_azn": "1198.00 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "NQZ",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Astana",
+      "140692_azn": "522.60 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "MIL",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Milan",
+      "140692_azn": "983.55 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "TLV",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Tel Aviv",
+      "140692_azn": "434.70 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "12.09.2026",
+      "ssh": "ALA",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Almaty",
+      "140692_azn": "710.63 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "BUS",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Batumi",
+      "140692_azn": "460.40 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "MOW",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Moscow",
+      "140692_azn": "1168.58 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "PAR",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Paris",
+      "140692_azn": "718.20 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "02.07.2026",
+      "ssh": "DBB",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - El Alamein",
+      "140692_azn": "744.80 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "25.06.2026",
+      "ssh": "DYU",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Dushanbe",
+      "140692_azn": "463.60 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "PRG",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Prague",
+      "140692_azn": "875.28 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "PAR",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Paris",
+      "140692_azn": "1298.51 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "04.09.2026",
+      "ssh": "BOM",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Mumbai",
+      "140692_azn": "643.80 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "MOW",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Moscow",
+      "140692_azn": "624.60 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "09.09.2026",
+      "ssh": "DMM",
+      "ber": "IZM",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Izmir - Dammam",
+      "140692_azn": "610.30 AZN",
+      "berlin": "Izmir",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "GUW",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Atyrau",
+      "140692_azn": "563.00 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Atyrau"
+    },
+    {
+      "21062026": "31.08.2026",
+      "ssh": "AYT",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Antalya",
+      "140692_azn": "912.73 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "LED",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - St Petersburg",
+      "140692_azn": "867.40 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "CIT",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Shymkent",
+      "140692_azn": "786.48 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "01.08.2026",
+      "ssh": "THR",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Tehran",
+      "140692_azn": "1489.52 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "DYU",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Dushanbe",
+      "140692_azn": "739.50 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBS",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Tbilisi",
+      "140692_azn": "625.33 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "LON",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - London",
+      "140692_azn": "1030.79 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "03.09.2026",
+      "ssh": "DLM",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Dalaman",
+      "140692_azn": "1001.26 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "11.09.2026",
+      "ssh": "LHE",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Lahore",
+      "140692_azn": "1068.19 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "08.09.2026",
+      "ssh": "DOH",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Doha",
+      "140692_azn": "775.59 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TLV",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Tel Aviv",
+      "140692_azn": "782.81 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RUH",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Riyadh",
+      "140692_azn": "871.17 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "05.09.2026",
+      "ssh": "SKD",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Samarkand",
+      "140692_azn": "874.25 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "TZX",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Trabzon",
+      "140692_azn": "467.20 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DMM",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Dammam",
+      "140692_azn": "859.36 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DEL",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - New Delhi",
+      "140692_azn": "767.01 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "21062026": "11.09.2026",
+      "ssh": "BCN",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Barcelona",
+      "140692_azn": "1109.53 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "THR",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Tehran",
+      "140692_azn": "637.90 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "NQZ",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Astana",
+      "140692_azn": "729.34 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "SCO",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Aktau",
+      "140692_azn": "625.06 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "FRU",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Bishkek",
+      "140692_azn": "782.75 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "IST",
+      "ber": "RMO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Chisinau - Istanbul",
+      "140692_azn": "729.65 AZN",
+      "berlin": "Chisinau",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "DLM",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Dalaman",
+      "140692_azn": "541.30 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "14.07.2026",
+      "ssh": "COV",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Adana - Mersin",
+      "140692_azn": "557.10 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "MIL",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Milan",
+      "140692_azn": "638.30 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "LON",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - London",
+      "140692_azn": "657.00 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "IST",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Istanbul",
+      "140692_azn": "407.50 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BER",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Berlin",
+      "140692_azn": "615.60 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DMM",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Dammam",
+      "140692_azn": "496.60 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "SSH",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Sharm El Sheikh",
+      "140692_azn": "1135.80 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RUH",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Riyadh",
+      "140692_azn": "562.70 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "BAK",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Baku",
+      "140692_azn": "319.90 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TIV",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Tivat",
+      "140692_azn": "888.35 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "05.08.2026",
+      "ssh": "BAK",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Baku",
+      "140692_azn": "242.19 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "DBB",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - El Alamein",
+      "140692_azn": "677.90 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "SSH",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Sharm El Sheikh",
+      "140692_azn": "1057.00 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "BJS",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Beijing",
+      "140692_azn": "707.40 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BAK",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Baku",
+      "140692_azn": "221.50 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DXB",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Dubai",
+      "140692_azn": "470.30 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "21062026": "05.08.2026",
+      "ssh": "LED",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - St Petersburg",
+      "140692_azn": "461.91 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "03.08.2026",
+      "ssh": "TBS",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Tbilisi",
+      "140692_azn": "320.72 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TAS",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Tashkent",
+      "140692_azn": "282.20 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "BUS",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Batumi",
+      "140692_azn": "454.70 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "MOW",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Moscow",
+      "140692_azn": "481.20 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "TAS",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Tashkent",
+      "140692_azn": "356.86 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "PRG",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Prague",
+      "140692_azn": "487.39 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "03.08.2026",
+      "ssh": "BUS",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Batumi",
+      "140692_azn": "548.43 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "03.08.2026",
+      "ssh": "MOW",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Moscow",
+      "140692_azn": "422.30 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RUH",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Riyadh",
+      "140692_azn": "561.74 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "BCN",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Barcelona",
+      "140692_azn": "668.90 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "08.08.2026",
+      "ssh": "IZM",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Izmir",
+      "140692_azn": "1749.86 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "VIE",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Vienna",
+      "140692_azn": "609.40 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "MOW",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Moscow",
+      "140692_azn": "468.20 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "09.09.2026",
+      "ssh": "BJV",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Bodrum",
+      "140692_azn": "471.45 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DXB",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Dubai",
+      "140692_azn": "498.81 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "21062026": "12.07.2026",
+      "ssh": "TIV",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Tivat",
+      "140692_azn": "703.94 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "PAR",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Paris",
+      "140692_azn": "776.03 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "11.08.2026",
+      "ssh": "RMO",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Chisinau",
+      "140692_azn": "703.00 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "11.09.2026",
+      "ssh": "MIL",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Milan",
+      "140692_azn": "510.70 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "MSQ",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Minsk",
+      "140692_azn": "713.70 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Minsk"
+    },
+    {
+      "21062026": "11.09.2026",
+      "ssh": "PAR",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Paris",
+      "140692_azn": "575.38 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBZ",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Tabriz",
+      "140692_azn": "390.50 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BJS",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Beijing",
+      "140692_azn": "856.69 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "CIT",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Shymkent",
+      "140692_azn": "412.00 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "TBS",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Tbilisi",
+      "140692_azn": "400.70 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "07.09.2026",
+      "ssh": "VIE",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Vienna",
+      "140692_azn": "486.46 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "21062026": "21.08.2026",
+      "ssh": "RMO",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Chisinau",
+      "140692_azn": "1221.75 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "ALA",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Almaty",
+      "140692_azn": "340.00 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "23.07.2026",
+      "ssh": "PRG",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Prague",
+      "140692_azn": "726.80 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "ANK",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Ankara",
+      "140692_azn": "484.20 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TLV",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Tel Aviv",
+      "140692_azn": "583.06 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "27.06.2026",
+      "ssh": "TLV",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Tel Aviv",
+      "140692_azn": "447.70 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "16.07.2026",
+      "ssh": "LHE",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Lahore",
+      "140692_azn": "809.22 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "09.09.2026",
+      "ssh": "DLM",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Dalaman",
+      "140692_azn": "449.48 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RMO",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Chisinau",
+      "140692_azn": "687.10 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "05.09.2026",
+      "ssh": "AYT",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Antalya",
+      "140692_azn": "380.02 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBZ",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Tabriz",
+      "140692_azn": "454.07 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "ANK",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Ankara",
+      "140692_azn": "464.82 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "TBS",
+      "ber": "ANK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ankara - Tbilisi",
+      "140692_azn": "321.90 AZN",
+      "berlin": "Ankara",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DMM",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Dammam",
+      "140692_azn": "518.50 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "30.06.2026",
+      "ssh": "LED",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - St Petersburg",
+      "140692_azn": "502.20 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "29.06.2026",
+      "ssh": "IZM",
+      "ber": "ALA",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Almaty - Izmir",
+      "140692_azn": "636.60 AZN",
+      "berlin": "Almaty",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "THR",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Tehran",
+      "140692_azn": "695.78 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "09.09.2026",
+      "ssh": "LON",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - London",
+      "140692_azn": "523.13 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "IST",
+      "ber": "AMD",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Ahmedabad - Istanbul",
+      "140692_azn": "355.84 AZN",
+      "berlin": "Ahmedabad",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "12.07.2026",
+      "ssh": "DLM",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Dalaman",
+      "140692_azn": "687.99 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "AYT",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Antalya",
+      "140692_azn": "800.83 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "TZX",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Trabzon",
+      "140692_azn": "648.34 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "21062026": "23.07.2026",
+      "ssh": "PRG",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Prague",
+      "140692_azn": "732.70 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "BJV",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Bodrum",
+      "140692_azn": "593.10 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "BUS",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Batumi",
+      "140692_azn": "458.00 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "SSH",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Sharm El Sheikh",
+      "140692_azn": "1041.40 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "LON",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - London",
+      "140692_azn": "600.10 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "01.08.2026",
+      "ssh": "BOM",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Mumbai",
+      "140692_azn": "662.80 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBZ",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Tabriz",
+      "140692_azn": "522.10 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "NQZ",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Astana",
+      "140692_azn": "541.11 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "25.06.2026",
+      "ssh": "DBB",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - El Alamein",
+      "140692_azn": "664.00 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "31.08.2026",
+      "ssh": "AYT",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Antalya",
+      "140692_azn": "596.90 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "14.07.2026",
+      "ssh": "LED",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - St Petersburg",
+      "140692_azn": "702.12 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "IZM",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Izmir",
+      "140692_azn": "644.50 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "23.07.2026",
+      "ssh": "BAK",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Baku",
+      "140692_azn": "449.50 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BCN",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Barcelona",
+      "140692_azn": "663.00 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "03.09.2026",
+      "ssh": "BJV",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Bodrum",
+      "140692_azn": "718.98 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "12.07.2026",
+      "ssh": "ISB",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Islamabad",
+      "140692_azn": "809.22 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "TBS",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Tbilisi",
+      "140692_azn": "438.51 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "11.08.2026",
+      "ssh": "RMO",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Chisinau",
+      "140692_azn": "870.42 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "AMD",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Ahmedabad",
+      "140692_azn": "373.50 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Ahmedabad"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "FRU",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Bishkek",
+      "140692_azn": "534.60 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TLV",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Tel Aviv",
+      "140692_azn": "676.10 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "TLV",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Tel Aviv",
+      "140692_azn": "500.00 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DXB",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Dubai",
+      "140692_azn": "801.10 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "21062026": "01.08.2026",
+      "ssh": "ISB",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Islamabad",
+      "140692_azn": "861.00 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "AMD",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Ahmedabad",
+      "140692_azn": "454.72 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Ahmedabad"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "LON",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - London",
+      "140692_azn": "714.50 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "MOW",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Moscow",
+      "140692_azn": "602.31 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "12.07.2026",
+      "ssh": "BOM",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Mumbai",
+      "140692_azn": "653.00 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "02.07.2026",
+      "ssh": "RUH",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Riyadh",
+      "140692_azn": "601.10 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "DYU",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Dushanbe",
+      "140692_azn": "469.50 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BER",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Berlin",
+      "140692_azn": "560.40 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "BAK",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Baku",
+      "140692_azn": "265.86 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "ANK",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Ankara",
+      "140692_azn": "488.60 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "TBS",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Tbilisi",
+      "140692_azn": "333.40 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "LHE",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Lahore",
+      "140692_azn": "723.30 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "IST",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Istanbul",
+      "140692_azn": "375.90 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "05.09.2026",
+      "ssh": "BJS",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Beijing",
+      "140692_azn": "825.50 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "VIE",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Vienna",
+      "140692_azn": "559.30 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "TAS",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Tashkent",
+      "140692_azn": "447.10 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "COV",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Adana - Mersin",
+      "140692_azn": "520.09 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "ANK",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Ankara",
+      "140692_azn": "600.94 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "TZX",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Trabzon",
+      "140692_azn": "478.40 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "LED",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - St Petersburg",
+      "140692_azn": "577.80 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "19.07.2026",
+      "ssh": "COV",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Adana - Mersin",
+      "140692_azn": "479.60 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "THR",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Tehran",
+      "140692_azn": "657.70 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "11.09.2026",
+      "ssh": "IZM",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Izmir",
+      "140692_azn": "679.87 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "DLM",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Dalaman",
+      "140692_azn": "562.50 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "12.07.2026",
+      "ssh": "BUS",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Batumi",
+      "140692_azn": "624.19 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "14.07.2026",
+      "ssh": "SVX",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Ekaterinburg",
+      "140692_azn": "660.64 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Ekaterinburg"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "TIV",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Tivat",
+      "140692_azn": "579.50 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "PAR",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Paris",
+      "140692_azn": "663.00 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "SVX",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Ekaterinburg",
+      "140692_azn": "602.60 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Ekaterinburg"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BER",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Berlin",
+      "140692_azn": "672.76 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "MIL",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Milan",
+      "140692_azn": "549.06 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "MOW",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Moscow",
+      "140692_azn": "489.40 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BCN",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Barcelona",
+      "140692_azn": "776.03 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "03.09.2026",
+      "ssh": "ALA",
+      "ber": "RUH",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Riyadh - Almaty",
+      "140692_azn": "321.76 AZN",
+      "berlin": "Riyadh",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "MIL",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Milan",
+      "140692_azn": "595.00 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RMO",
+      "ber": "NQZ",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Astana - Chisinau",
+      "140692_azn": "678.40 AZN",
+      "berlin": "Astana",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "05.08.2026",
+      "ssh": "DBB",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - El Alamein",
+      "140692_azn": "765.30 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "BCN",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Barcelona",
+      "140692_azn": "705.47 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "DMM",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Dammam",
+      "140692_azn": "585.10 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "09.07.2026",
+      "ssh": "GUW",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Atyrau",
+      "140692_azn": "358.59 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Atyrau"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "LED",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - St Petersburg",
+      "140692_azn": "540.60 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "DYU",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Dushanbe",
+      "140692_azn": "439.80 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "TZX",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "140692_azn": "207.32 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "21062026": "09.09.2026",
+      "ssh": "IZM",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Izmir",
+      "140692_azn": "386.40 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "10.09.2026",
+      "ssh": "BEG",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Belgrade",
+      "140692_azn": "318.94 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Belgrade"
+    },
+    {
+      "21062026": "28.07.2026",
+      "ssh": "COV",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
+      "140692_azn": "256.50 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "LED",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "140692_azn": "425.84 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "MOW",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Moscow",
+      "140692_azn": "382.53 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "PAR",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Paris",
+      "140692_azn": "546.70 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "04.07.2026",
+      "ssh": "DLM",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "140692_azn": "446.20 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "TLV",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "140692_azn": "256.50 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "25.06.2026",
+      "ssh": "DBB",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - El Alamein",
+      "140692_azn": "389.10 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "PRG",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Prague",
+      "140692_azn": "370.83 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "ANK",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Ankara",
+      "140692_azn": "254.56 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "NQZ",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Astana",
+      "140692_azn": "455.09 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "SCO",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Aktau",
+      "140692_azn": "163.71 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "ALA",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Almaty",
+      "140692_azn": "520.20 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "15.08.2026",
+      "ssh": "GUW",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Atyrau",
+      "140692_azn": "562.70 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Atyrau"
+    },
+    {
+      "21062026": "01.08.2026",
+      "ssh": "SKD",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Samarkand",
+      "140692_azn": "620.00 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "LON",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - London",
+      "140692_azn": "349.17 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "SSH",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Sharm El Sheikh",
+      "140692_azn": "1088.30 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "03.09.2026",
+      "ssh": "RUH",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Riyadh",
+      "140692_azn": "632.70 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "12.07.2026",
+      "ssh": "BJS",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Beijing",
+      "140692_azn": "500.75 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Beijing"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DXB",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Dubai",
+      "140692_azn": "615.20 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "21062026": "31.07.2026",
+      "ssh": "MIL",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Milan",
+      "140692_azn": "526.34 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "19.06.2026",
+      "ssh": "LHE",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Lahore",
+      "140692_azn": "488.83 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Lahore"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "THR",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Tehran",
+      "140692_azn": "372.67 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Tehran"
+    },
+    {
+      "21062026": "02.08.2026",
+      "ssh": "AMD",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Ahmedabad",
+      "140692_azn": "256.65 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Ahmedabad"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBZ",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Tabriz",
+      "140692_azn": "205.32 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "27.06.2026",
+      "ssh": "ISB",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Islamabad",
+      "140692_azn": "488.83 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Islamabad"
+    },
+    {
+      "21062026": "10.08.2026",
+      "ssh": "RMO",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Chisinau",
+      "140692_azn": "793.30 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "SCO",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Aktau",
+      "140692_azn": "421.10 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Aktau"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "IST",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Istanbul",
+      "140692_azn": "301.80 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Istanbul"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "CIT",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Shymkent",
+      "140692_azn": "264.10 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "CIT",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Shymkent",
+      "140692_azn": "492.50 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Shymkent"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RIX",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Riga",
+      "140692_azn": "541.72 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Riga"
+    },
+    {
+      "21062026": "13.08.2026",
+      "ssh": "BJV",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Bodrum",
+      "140692_azn": "540.01 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "21.06.2026",
+      "ssh": "BUS",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Batumi",
+      "140692_azn": "205.35 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "TAS",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Tashkent",
+      "140692_azn": "375.50 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Tashkent"
+    },
+    {
+      "21062026": "28.06.2026",
+      "ssh": "DLM",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Dalaman",
+      "140692_azn": "455.36 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Dalaman"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DEL",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "140692_azn": "390.51 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "21062026": "03.09.2026",
+      "ssh": "MSQ",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Minsk",
+      "140692_azn": "540.08 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Minsk"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "NQZ",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Astana",
+      "140692_azn": "497.20 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Astana"
+    },
+    {
+      "21062026": "03.07.2026",
+      "ssh": "TIV",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Tivat",
+      "140692_azn": "423.87 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "DYU",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "140692_azn": "223.03 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Dushanbe"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "DMM",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Dammam",
+      "140692_azn": "289.76 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Dammam"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "BOM",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Mumbai",
+      "140692_azn": "368.55 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Mumbai"
+    },
+    {
+      "21062026": "06.07.2026",
+      "ssh": "FRA",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Frankfurt",
+      "140692_azn": "569.71 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Frankfurt"
+    },
+    {
+      "21062026": "12.09.2026",
+      "ssh": "HER",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "140692_azn": "691.30 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Heraklion"
+    },
+    {
+      "21062026": "03.07.2026",
+      "ssh": "TIV",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "140692_azn": "461.50 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Tivat"
+    },
+    {
+      "21062026": "05.08.2026",
+      "ssh": "DEL",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - New Delhi",
+      "140692_azn": "647.80 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "New Delhi"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "TBZ",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Tabriz",
+      "140692_azn": "569.50 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Tabriz"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "MOW",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Moscow",
+      "140692_azn": "502.30 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "FRU",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Bishkek",
+      "140692_azn": "410.09 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Bishkek"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "SVX",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Ekaterinburg",
+      "140692_azn": "498.67 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Ekaterinburg"
+    },
+    {
+      "21062026": "20.06.2026",
+      "ssh": "SSH",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Sharm El Sheikh",
+      "140692_azn": "792.64 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "22.06.2026",
+      "ssh": "VIE",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "140692_azn": "299.96 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "21062026": "05.09.2026",
+      "ssh": "RUH",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Riyadh",
+      "140692_azn": "254.32 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "23.07.2026",
+      "ssh": "ALA",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "140692_azn": "179.14 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Almaty"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "DOH",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Doha",
+      "140692_azn": "803.60 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Doha"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "BUS",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Batumi",
+      "140692_azn": "277.10 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "18.06.2026",
+      "ssh": "BAK",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Baku",
+      "140692_azn": "435.20 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "02.07.2026",
+      "ssh": "BER",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Berlin",
+      "140692_azn": "610.12 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "TBS",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Tbilisi",
+      "140692_azn": "165.66 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "01.07.2026",
+      "ssh": "PRG",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Prague",
+      "140692_azn": "483.80 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Prague"
+    },
+    {
+      "21062026": "27.06.2026",
+      "ssh": "SKD",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Samarkand",
+      "140692_azn": "383.38 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Samarkand"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "TBS",
+      "ber": "AYT",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Antalya - Tbilisi",
+      "140692_azn": "321.30 AZN",
+      "berlin": "Antalya",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "24.06.2026",
+      "ssh": "AYT",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Antalya",
+      "140692_azn": "612.80 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "11.08.2026",
+      "ssh": "RMO",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Chisinau",
+      "140692_azn": "506.66 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "23.06.2026",
+      "ssh": "PAR",
+      "ber": "BAK",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Baku - Paris",
+      "140692_azn": "642.48 AZN",
+      "berlin": "Baku",
+      "sharm_el_sheikh": "Paris"
+    },
+    {
+      "21062026": "01.07.2026",
+      "ssh": "LED",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "140692_azn": "459.80 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "St Petersburg"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "BJV",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Bodrum",
+      "140692_azn": "476.80 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Bodrum"
+    },
+    {
+      "21062026": "11.09.2026",
+      "ssh": "TLV",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Tel Aviv",
+      "140692_azn": "497.60 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Tel Aviv"
+    },
+    {
+      "21062026": "02.07.2026",
+      "ssh": "DBB",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - El Alamein",
+      "140692_azn": "542.60 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "El Alamein"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BCN",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Barcelona",
+      "140692_azn": "546.70 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Barcelona"
+    },
+    {
+      "21062026": "08.08.2026",
+      "ssh": "MSQ",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Minsk",
+      "140692_azn": "650.90 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Minsk"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "AYT",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "140692_azn": "363.30 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Antalya"
+    },
+    {
+      "21062026": "01.07.2026",
+      "ssh": "BUS",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Batumi",
+      "140692_azn": "384.20 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Batumi"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "MOW",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Moscow",
+      "140692_azn": "373.10 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Moscow"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "BER",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Berlin",
+      "140692_azn": "444.10 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Berlin"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "DXB",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Dubai",
+      "140692_azn": "754.80 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Dubai"
+    },
+    {
+      "21062026": "01.07.2026",
+      "ssh": "RUH",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Riyadh",
+      "140692_azn": "483.10 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Riyadh"
+    },
+    {
+      "21062026": "02.09.2026",
+      "ssh": "IZM",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Izmir",
+      "140692_azn": "533.30 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Izmir"
+    },
+    {
+      "21062026": "16.09.2026",
+      "ssh": "RMO",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "140692_azn": "555.30 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Chisinau"
+    },
+    {
+      "21062026": "01.09.2026",
+      "ssh": "TZX",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Trabzon",
+      "140692_azn": "406.30 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Trabzon"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "TBS",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "140692_azn": "251.10 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Tbilisi"
+    },
+    {
+      "21062026": "04.07.2026",
+      "ssh": "SSH",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Sharm El Sheikh",
+      "140692_azn": "867.30 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Sharm El Sheikh"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "MIL",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Milan",
+      "140692_azn": "480.40 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Milan"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "VIE",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "140692_azn": "442.40 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Vienna"
+    },
+    {
+      "21062026": "25.07.2026",
+      "ssh": "BAK",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Baku",
+      "140692_azn": "187.00 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Baku"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "LON",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - London",
+      "140692_azn": "485.50 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "London"
+    },
+    {
+      "21062026": "14.07.2026",
+      "ssh": "COV",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Adana - Mersin",
+      "140692_azn": "363.30 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Adana - Mersin"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "ANK",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "140692_azn": "372.30 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Ankara"
+    },
+    {
+      "21062026": "15.09.2026",
+      "ssh": "IST",
+      "ber": "SCO",
+      "____berlin__sharm_el_sheikh": "???????? ?????? ?? ??????????? Aktau - Istanbul",
+      "140692_azn": "259.60 AZN",
+      "berlin": "Aktau",
+      "sharm_el_sheikh": "Istanbul"
     }
   ]
 }
