@@ -7300,12 +7300,516 @@
       "lahore": "Adana - Mersin"
     },
     {
-      "17092026": "",
+      "17092026": "07.07.2026",
       "lhe": "PRG",
       "bcn": "MSQ",
       "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - Prague",
       "93190_azn": "768.72 AZN",
       "barcelona": "Minsk",
+      "lahore": "Prague"
+    },
+    {
+      "17092026": "01.09.2026",
+      "lhe": "TLV",
+      "bcn": "MSQ",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - Tel Aviv",
+      "93190_azn": "781.49 AZN",
+      "barcelona": "Minsk",
+      "lahore": "Tel Aviv"
+    },
+    {
+      "17092026": "21.06.2026",
+      "lhe": "TAS",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Tashkent",
+      "93190_azn": "505.12 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Tashkent"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "BCN",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Barcelona",
+      "93190_azn": "909.67 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Barcelona"
+    },
+    {
+      "17092026": "05.09.2026",
+      "lhe": "BJS",
+      "bcn": "MSQ",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - Beijing",
+      "93190_azn": "1244.74 AZN",
+      "barcelona": "Minsk",
+      "lahore": "Beijing"
+    },
+    {
+      "17092026": "19.07.2026",
+      "lhe": "SSH",
+      "bcn": "MSQ",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - Sharm El Sheikh",
+      "93190_azn": "1216.10 AZN",
+      "barcelona": "Minsk",
+      "lahore": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "08.07.2026",
+      "lhe": "BCN",
+      "bcn": "MSQ",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - Barcelona",
+      "93190_azn": "856.88 AZN",
+      "barcelona": "Minsk",
+      "lahore": "Barcelona"
+    },
+    {
+      "17092026": "03.07.2026",
+      "lhe": "LON",
+      "bcn": "DYU",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Dushanbe - London",
+      "93190_azn": "679.84 AZN",
+      "barcelona": "Dushanbe",
+      "lahore": "London"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "IST",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Istanbul",
+      "93190_azn": "412.13 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Istanbul"
+    },
+    {
+      "17092026": "04.07.2026",
+      "lhe": "BCN",
+      "bcn": "DYU",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Dushanbe - Barcelona",
+      "93190_azn": "826.76 AZN",
+      "barcelona": "Dushanbe",
+      "lahore": "Barcelona"
+    },
+    {
+      "17092026": "17.09.2026",
+      "lhe": "VIE",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Vienna",
+      "93190_azn": "756.88 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Vienna"
+    },
+    {
+      "17092026": "24.06.2026",
+      "lhe": "DBB",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - El Alamein",
+      "93190_azn": "783.09 AZN",
+      "barcelona": "Moscow",
+      "lahore": "El Alamein"
+    },
+    {
+      "17092026": "07.07.2026",
+      "lhe": "LON",
+      "bcn": "MSQ",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - London",
+      "93190_azn": "802.03 AZN",
+      "barcelona": "Minsk",
+      "lahore": "London"
+    },
+    {
+      "17092026": "25.06.2026",
+      "lhe": "BJV",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Bodrum",
+      "93190_azn": "635.49 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Bodrum"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "DXB",
+      "bcn": "MSQ",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - Dubai",
+      "93190_azn": "690.16 AZN",
+      "barcelona": "Minsk",
+      "lahore": "Dubai"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "ISB",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Islamabad",
+      "93190_azn": "747.15 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Islamabad"
+    },
+    {
+      "17092026": "21.06.2026",
+      "lhe": "SCO",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Aktau",
+      "93190_azn": "429.50 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Aktau"
+    },
+    {
+      "17092026": "04.07.2026",
+      "lhe": "SSH",
+      "bcn": "DYU",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Dushanbe - Sharm El Sheikh",
+      "93190_azn": "1011.64 AZN",
+      "barcelona": "Dushanbe",
+      "lahore": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "TZX",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Trabzon",
+      "93190_azn": "523.83 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Trabzon"
+    },
+    {
+      "17092026": "02.08.2026",
+      "lhe": "AMD",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Ahmedabad",
+      "93190_azn": "418.99 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Ahmedabad"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "BER",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Berlin",
+      "93190_azn": "660.03 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Berlin"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "NQZ",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Astana",
+      "93190_azn": "511.82 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Astana"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "IZM",
+      "bcn": "MOW",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Moscow - Izmir",
+      "93190_azn": "655.03 AZN",
+      "barcelona": "Moscow",
+      "lahore": "Izmir"
+    },
+    {
+      "17092026": "15.09.2026",
+      "lhe": "MOW",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Moscow",
+      "93190_azn": "711.19 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Moscow"
+    },
+    {
+      "17092026": "06.09.2026",
+      "lhe": "ALA",
+      "bcn": "MSQ",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Minsk - Almaty",
+      "93190_azn": "760.70 AZN",
+      "barcelona": "Minsk",
+      "lahore": "Almaty"
+    },
+    {
+      "17092026": "23.06.2026",
+      "lhe": "NQZ",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Astana",
+      "93190_azn": "695.26 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Astana"
+    },
+    {
+      "17092026": "20.06.2026",
+      "lhe": "ISB",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Islamabad",
+      "93190_azn": "852.23 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Islamabad"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "ALA",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Almaty",
+      "93190_azn": "714.84 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Almaty"
+    },
+    {
+      "17092026": "29.06.2026",
+      "lhe": "PRG",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Prague",
+      "93190_azn": "844.10 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Prague"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "THR",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Tehran",
+      "93190_azn": "868.30 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Tehran"
+    },
+    {
+      "17092026": "29.06.2026",
+      "lhe": "IST",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Istanbul",
+      "93190_azn": "656.00 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Istanbul"
+    },
+    {
+      "17092026": "29.06.2026",
+      "lhe": "MOW",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Moscow",
+      "93190_azn": "769.40 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Moscow"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "MIL",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Milan",
+      "93190_azn": "959.70 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Milan"
+    },
+    {
+      "17092026": "17.09.2026",
+      "lhe": "TIV",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Tivat",
+      "93190_azn": "806.80 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Tivat"
+    },
+    {
+      "17092026": "23.06.2026",
+      "lhe": "TBS",
+      "bcn": "IST",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Istanbul - Tbilisi",
+      "93190_azn": "356.00 AZN",
+      "barcelona": "Istanbul",
+      "lahore": "Tbilisi"
+    },
+    {
+      "17092026": "27.06.2026",
+      "lhe": "TLV",
+      "bcn": "IST",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Istanbul - Tel Aviv",
+      "93190_azn": "422.70 AZN",
+      "barcelona": "Istanbul",
+      "lahore": "Tel Aviv"
+    },
+    {
+      "17092026": "23.06.2026",
+      "lhe": "SSH",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Sharm El Sheikh",
+      "93190_azn": "1081.32 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "LED",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - St Petersburg",
+      "93190_azn": "758.20 AZN",
+      "barcelona": "Vienna",
+      "lahore": "St Petersburg"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "BOM",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Mumbai",
+      "93190_azn": "658.59 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Mumbai"
+    },
+    {
+      "17092026": "28.06.2026",
+      "lhe": "TBS",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Tbilisi",
+      "93190_azn": "725.70 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Tbilisi"
+    },
+    {
+      "17092026": "17.09.2026",
+      "lhe": "COV",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Adana - Mersin",
+      "93190_azn": "722.30 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Adana - Mersin"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "LHE",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Lahore",
+      "93190_azn": "846.25 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Lahore"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "RUH",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Riyadh",
+      "93190_azn": "831.20 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Riyadh"
+    },
+    {
+      "17092026": "05.07.2026",
+      "lhe": "PAR",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Paris",
+      "93190_azn": "1007.30 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Paris"
+    },
+    {
+      "17092026": "26.06.2026",
+      "lhe": "DYU",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Dushanbe",
+      "93190_azn": "656.28 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Dushanbe"
+    },
+    {
+      "17092026": "28.06.2026",
+      "lhe": "TLV",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Tel Aviv",
+      "93190_azn": "732.50 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Tel Aviv"
+    },
+    {
+      "17092026": "22.06.2026",
+      "lhe": "TBS",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Tbilisi",
+      "93190_azn": "560.30 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Tbilisi"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "BAK",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Baku",
+      "93190_azn": "610.90 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Baku"
+    },
+    {
+      "17092026": "16.09.2026",
+      "lhe": "DEL",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - New Delhi",
+      "93190_azn": "575.92 AZN",
+      "barcelona": "Vienna",
+      "lahore": "New Delhi"
+    },
+    {
+      "17092026": "28.06.2026",
+      "lhe": "IZM",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Izmir",
+      "93190_azn": "781.00 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Izmir"
+    },
+    {
+      "17092026": "20.06.2026",
+      "lhe": "BJS",
+      "bcn": "IST",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Istanbul - Beijing",
+      "93190_azn": "682.20 AZN",
+      "barcelona": "Istanbul",
+      "lahore": "Beijing"
+    },
+    {
+      "17092026": "28.06.2026",
+      "lhe": "DLM",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Dalaman",
+      "93190_azn": "861.20 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Dalaman"
+    },
+    {
+      "17092026": "28.06.2026",
+      "lhe": "BER",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Berlin",
+      "93190_azn": "913.20 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Berlin"
+    },
+    {
+      "17092026": "17.09.2026",
+      "lhe": "RMO",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Chisinau",
+      "93190_azn": "1007.60 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Chisinau"
+    },
+    {
+      "17092026": "29.06.2026",
+      "lhe": "ANK",
+      "bcn": "ISB",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Islamabad - Ankara",
+      "93190_azn": "768.00 AZN",
+      "barcelona": "Islamabad",
+      "lahore": "Ankara"
+    },
+    {
+      "17092026": "15.09.2026",
+      "lhe": "AMD",
+      "bcn": "VIE",
+      "____barcelona__lahore": "???????? ?????? ?? ??????????? Vienna - Ahmedabad",
+      "93190_azn": "480.61 AZN",
+      "barcelona": "Vienna",
+      "lahore": "Ahmedabad"
+    },
+    {
+      "17092026": "",
+      "lhe": "TAS",
+      "bcn": "",
+      "____barcelona__lahore": "",
+      "93190_azn": "",
+      "barcelona": "",
       "lahore": ""
     }
   ]
