@@ -10894,37 +10894,10 @@
       "tbs": "TBS",
       "bcn": "BAK",
       "____barcelona__tbilisi": "???????? ?????? ?? ??????????? Baku - Tbilisi",
-      "71640_azn": "162.49 AZN",
-      "barcelona": "Baku",
-      "tbilisi": "Tbilisi",
-      "04072026": "05.07.2026"
-    },
-    {
-      "tbs": "IST",
-      "bcn": "SCO",
-      "____barcelona__tbilisi": "???????? ?????? ?? ??????????? Aktau - Istanbul",
-      "71640_azn": "296.10 AZN",
-      "barcelona": "Aktau",
-      "tbilisi": "Istanbul",
-      "04072026": "15.09.2026"
-    },
-    {
-      "tbs": "MIL",
-      "bcn": "SCO",
-      "____barcelona__tbilisi": "???????? ?????? ?? ??????????? Aktau - Milan",
-      "71640_azn": "476.70 AZN",
-      "barcelona": "Aktau",
-      "tbilisi": "Milan",
-      "04072026": "15.09.2026"
-    },
-    {
-      "tbs": "RMO",
-      "bcn": "SCO",
-      "____barcelona__tbilisi": "???????? ?????? ?? ??????????? Aktau - Chisinau",
-      "71640_azn": "551.90 AZN",
-      "barcelona": "Aktau",
-      "tbilisi": "Chisinau",
-      "04072026": "16.09.2026"
+      "71640_azn": "",
+      "barcelona": "",
+      "tbilisi": "",
+      "04072026": ""
     }
   ]
 }
