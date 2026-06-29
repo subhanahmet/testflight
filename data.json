@@ -1,589 +1,1057 @@
 {
   "listings": [
     {
-      "15092026": "17.09.2026",
-      "fru": "TLV",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Tel Aviv",
-      "73760_azn": "867.12 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Tel Aviv"
-    },
-    {
-      "15092026": "02.07.2026",
-      "fru": "TAS",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Tashkent",
-      "73760_azn": "531.89 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Tashkent"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "AMD",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Ahmedabad",
-      "73760_azn": "568.18 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Ahmedabad"
-    },
-    {
-      "15092026": "07.07.2026",
-      "fru": "ISB",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Islamabad",
-      "73760_azn": "942.93 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Islamabad"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "LED",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - St Petersburg",
-      "73760_azn": "774.81 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "St Petersburg"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "BAK",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Baku",
-      "73760_azn": "671.69 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Baku"
-    },
-    {
-      "15092026": "08.07.2026",
-      "fru": "PRG",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Prague",
-      "73760_azn": "555.88 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Prague"
-    },
-    {
-      "15092026": "08.07.2026",
-      "fru": "TBS",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Tbilisi",
-      "73760_azn": "354.98 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Tbilisi"
-    },
-    {
-      "15092026": "02.07.2026",
-      "fru": "LHE",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Lahore",
-      "73760_azn": "905.71 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Lahore"
-    },
-    {
-      "15092026": "02.07.2026",
-      "fru": "BAK",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Baku",
-      "73760_azn": "571.41 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Baku"
-    },
-    {
-      "15092026": "30.06.2026",
-      "fru": "SSH",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Sharm El Sheikh",
-      "73760_azn": "1380.39 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Sharm El Sheikh"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "SCO",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Aktau",
-      "73760_azn": "581.40 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Aktau"
-    },
-    {
-      "15092026": "16.09.2026",
-      "fru": "TLV",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Tel Aviv",
-      "73760_azn": "772.38 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Tel Aviv"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "DYU",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Dushanbe",
-      "73760_azn": "709.17 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Dushanbe"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "THR",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Tehran",
-      "73760_azn": "861.37 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Tehran"
-    },
-    {
-      "15092026": "08.07.2026",
-      "fru": "TZX",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Trabzon",
-      "73760_azn": "488.36 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Trabzon"
-    },
-    {
       "15092026": "06.09.2026",
-      "fru": "AMD",
+      "svx": "AMD",
       "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Ahmedabad",
-      "73760_azn": "911.49 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Ahmedabad",
+      "78784_azn": "911.49 AZN",
       "barcelona": "Barcelona",
-      "bishkek": "Ahmedabad"
-    },
-    {
-      "15092026": "19.09.2026",
-      "fru": "ISB",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Islamabad",
-      "73760_azn": "919.24 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Islamabad"
-    },
-    {
-      "15092026": "12.07.2026",
-      "fru": "TIV",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Tivat",
-      "73760_azn": "569.42 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Tivat"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "SVX",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Ekaterinburg",
-      "73760_azn": "787.84 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Ekaterinburg"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "SCO",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Aktau",
-      "73760_azn": "621.48 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Aktau"
-    },
-    {
-      "15092026": "30.06.2026",
-      "fru": "SSH",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Sharm El Sheikh",
-      "73760_azn": "1437.86 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Sharm El Sheikh"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "DYU",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Dushanbe",
-      "73760_azn": "753.11 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Dushanbe"
-    },
-    {
-      "15092026": "02.07.2026",
-      "fru": "MSQ",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Minsk",
-      "73760_azn": "841.96 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Minsk"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "TAS",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Tashkent",
-      "73760_azn": "656.06 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Tashkent"
+      "ekaterinburg": "Ahmedabad"
     },
     {
       "15092026": "17.09.2026",
-      "fru": "DXB",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Dubai",
-      "73760_azn": "716.66 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Dubai"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "MOW",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Moscow",
-      "73760_azn": "728.43 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Moscow"
-    },
-    {
-      "15092026": "02.09.2026",
-      "fru": "AYT",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Antalya",
-      "73760_azn": "528.90 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Antalya"
-    },
-    {
-      "15092026": "08.07.2026",
-      "fru": "SSH",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Sharm El Sheikh",
-      "73760_azn": "1095.77 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Sharm El Sheikh"
-    },
-    {
-      "15092026": "04.07.2026",
-      "fru": "SKD",
+      "svx": "TLV",
       "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Samarkand",
-      "73760_azn": "759.91 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Tel Aviv",
+      "78784_azn": "867.12 AZN",
       "barcelona": "Barcelona",
-      "bishkek": "Samarkand"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "DXB",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Dubai",
-      "73760_azn": "778.70 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Dubai"
-    },
-    {
-      "15092026": "04.07.2026",
-      "fru": "NQZ",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Astana",
-      "73760_azn": "685.19 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Astana"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "TBZ",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Tabriz",
-      "73760_azn": "640.83 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Tabriz"
-    },
-    {
-      "15092026": "12.07.2026",
-      "fru": "BJV",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Bodrum",
-      "73760_azn": "638.99 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Bodrum"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "RUH",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Riyadh",
-      "73760_azn": "828.35 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Riyadh"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "DEL",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - New Delhi",
-      "73760_azn": "704.83 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "New Delhi"
-    },
-    {
-      "15092026": "02.07.2026",
-      "fru": "ALA",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Almaty",
-      "73760_azn": "810.79 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Almaty"
-    },
-    {
-      "15092026": "27.09.2026",
-      "fru": "BAK",
-      "bcn": "BEG",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Belgrade - Baku",
-      "73760_azn": "300.44 AZN",
-      "barcelona": "Belgrade",
-      "bishkek": "Baku"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "THR",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Tehran",
-      "73760_azn": "874.69 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Tehran"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "RUH",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Riyadh",
-      "73760_azn": "775.97 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Riyadh"
-    },
-    {
-      "15092026": "08.07.2026",
-      "fru": "BUS",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Batumi",
-      "73760_azn": "472.90 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Batumi"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "FRU",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Bishkek",
-      "73760_azn": "697.52 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Bishkek"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "TBZ",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Tabriz",
-      "73760_azn": "621.71 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Tabriz"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "CIT",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Shymkent",
-      "73760_azn": "692.97 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Shymkent"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "LED",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - St Petersburg",
-      "73760_azn": "814.89 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "St Petersburg"
-    },
-    {
-      "15092026": "04.07.2026",
-      "fru": "TBS",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Tbilisi",
-      "73760_azn": "716.40 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Tbilisi"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "SVX",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Ekaterinburg",
-      "73760_azn": "749.69 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Ekaterinburg"
-    },
-    {
-      "15092026": "02.07.2026",
-      "fru": "MOW",
-      "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Moscow",
-      "73760_azn": "683.49 AZN",
-      "barcelona": "Barcelona",
-      "bishkek": "Moscow"
-    },
-    {
-      "15092026": "02.07.2026",
-      "fru": "LHE",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Lahore",
-      "73760_azn": "930.63 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Lahore"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "BOM",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Mumbai",
-      "73760_azn": "788.27 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Mumbai"
-    },
-    {
-      "15092026": "07.07.2026",
-      "fru": "NQZ",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Astana",
-      "73760_azn": "627.72 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Astana"
-    },
-    {
-      "15092026": "15.09.2026",
-      "fru": "ALA",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Almaty",
-      "73760_azn": "772.65 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Almaty"
-    },
-    {
-      "15092026": "12.07.2026",
-      "fru": "PAR",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Paris",
-      "73760_azn": "637.04 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Paris"
+      "ekaterinburg": "Tel Aviv"
     },
     {
       "15092026": "20.09.2026",
-      "fru": "BOM",
+      "svx": "BOM",
       "bcn": "BCN",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Barcelona - Mumbai",
-      "73760_azn": "721.92 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Mumbai",
+      "78784_azn": "721.92 AZN",
       "barcelona": "Barcelona",
-      "bishkek": "Mumbai"
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "LHE",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Lahore",
+      "78784_azn": "930.63 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "SVX",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Ekaterinburg",
+      "78784_azn": "749.69 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Ekaterinburg"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "RUH",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Riyadh",
+      "78784_azn": "775.97 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "SCO",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Aktau",
+      "78784_azn": "581.40 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "15092026": "04.07.2026",
+      "svx": "TBS",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Tbilisi",
+      "78784_azn": "716.40 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "BAK",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Baku",
+      "78784_azn": "571.41 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Baku"
     },
     {
       "15092026": "07.07.2026",
-      "fru": "TBS",
+      "svx": "ISB",
       "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Tbilisi",
-      "73760_azn": "649.26 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Islamabad",
+      "78784_azn": "942.93 AZN",
       "barcelona": "Berlin",
-      "bishkek": "Tbilisi"
+      "ekaterinburg": "Islamabad"
     },
     {
       "15092026": "17.09.2026",
-      "fru": "DEL",
+      "svx": "LED",
       "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - New Delhi",
-      "73760_azn": "793.18 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - St Petersburg",
+      "78784_azn": "774.81 AZN",
       "barcelona": "Berlin",
-      "bishkek": "New Delhi"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "CIT",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Shymkent",
-      "73760_azn": "650.96 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Shymkent"
-    },
-    {
-      "15092026": "17.09.2026",
-      "fru": "TLV",
-      "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Tel Aviv",
-      "73760_azn": "815.45 AZN",
-      "barcelona": "Berlin",
-      "bishkek": "Tel Aviv"
+      "ekaterinburg": "St Petersburg"
     },
     {
       "15092026": "07.07.2026",
-      "fru": "SKD",
+      "svx": "SKD",
       "bcn": "BER",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Berlin - Samarkand",
-      "73760_azn": "719.83 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Samarkand",
+      "78784_azn": "719.83 AZN",
       "barcelona": "Berlin",
-      "bishkek": "Samarkand"
+      "ekaterinburg": "Samarkand"
     },
     {
-      "15092026": "08.07.2026",
-      "fru": "DLM",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Dalaman",
-      "73760_azn": "555.90 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Dalaman"
+      "15092026": "17.09.2026",
+      "svx": "DEL",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - New Delhi",
+      "78784_azn": "704.83 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "New Delhi"
     },
     {
-      "15092026": "02.08.2026",
-      "fru": "COV",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Adana - Mersin",
-      "73760_azn": "484.46 AZN",
-      "barcelona": "Samarkand",
-      "bishkek": "Adana - Mersin"
+      "15092026": "02.07.2026",
+      "svx": "ALA",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Almaty",
+      "78784_azn": "810.79 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "TAS",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Tashkent",
+      "78784_azn": "656.06 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "TLV",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Tel Aviv",
+      "78784_azn": "815.45 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "DYU",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Dushanbe",
+      "78784_azn": "753.11 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "MSQ",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Minsk",
+      "78784_azn": "841.96 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "FRU",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Bishkek",
+      "78784_azn": "737.60 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "LHE",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Lahore",
+      "78784_azn": "905.71 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Lahore"
     },
     {
       "15092026": "12.07.2026",
-      "fru": "LON",
+      "svx": "BJV",
       "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - London",
-      "73760_azn": "586.80 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Bodrum",
+      "78784_azn": "638.99 AZN",
       "barcelona": "Samarkand",
-      "bishkek": "London"
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "15092026": "19.09.2026",
+      "svx": "ISB",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Islamabad",
+      "78784_azn": "919.24 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "SCO",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Aktau",
+      "78784_azn": "621.48 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "15092026": "04.07.2026",
+      "svx": "NQZ",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Astana",
+      "78784_azn": "685.19 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "ALA",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Almaty",
+      "78784_azn": "772.65 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "15092026": "04.07.2026",
+      "svx": "SKD",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Samarkand",
+      "78784_azn": "759.91 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "DXB",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Dubai",
+      "78784_azn": "778.70 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "TBZ",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Tabriz",
+      "78784_azn": "640.83 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "THR",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Tehran",
+      "78784_azn": "861.37 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "LED",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - St Petersburg",
+      "78784_azn": "814.89 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "15092026": "27.09.2026",
+      "svx": "BAK",
+      "bcn": "BEG",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Belgrade - Baku",
+      "78784_azn": "300.44 AZN",
+      "barcelona": "Belgrade",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "BOM",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Mumbai",
+      "78784_azn": "788.27 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "RUH",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Riyadh",
+      "78784_azn": "828.35 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "BAK",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Baku",
+      "78784_azn": "671.69 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "AMD",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Ahmedabad",
+      "78784_azn": "568.18 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Ahmedabad"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "THR",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Tehran",
+      "78784_azn": "874.69 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "15092026": "07.07.2026",
+      "svx": "TBS",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Tbilisi",
+      "78784_azn": "649.26 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "CIT",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Shymkent",
+      "78784_azn": "650.96 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "15092026": "12.07.2026",
+      "svx": "PAR",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Paris",
+      "78784_azn": "637.04 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "15092026": "02.09.2026",
+      "svx": "AYT",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Antalya",
+      "78784_azn": "528.90 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "TLV",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Tel Aviv",
+      "78784_azn": "772.38 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Tel Aviv"
     },
     {
       "15092026": "08.07.2026",
-      "fru": "IZM",
+      "svx": "TBS",
       "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Izmir",
-      "73760_azn": "550.14 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Tbilisi",
+      "78784_azn": "354.98 AZN",
       "barcelona": "Samarkand",
-      "bishkek": "Izmir"
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "TAS",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Tashkent",
+      "78784_azn": "531.89 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "15092026": "30.06.2026",
+      "svx": "SSH",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Sharm El Sheikh",
+      "78784_azn": "1437.86 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "DXB",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Dubai",
+      "78784_azn": "716.66 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Dubai"
     },
     {
       "15092026": "08.07.2026",
-      "fru": "MOW",
+      "svx": "TZX",
       "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Moscow",
-      "73760_azn": "488.26 AZN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Trabzon",
+      "78784_azn": "488.36 AZN",
       "barcelona": "Samarkand",
-      "bishkek": "Moscow"
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "MOW",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Moscow",
+      "78784_azn": "683.49 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "DYU",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Dushanbe",
+      "78784_azn": "709.17 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "15092026": "07.07.2026",
+      "svx": "NQZ",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Astana",
+      "78784_azn": "627.72 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "DLM",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Dalaman",
+      "78784_azn": "555.90 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "SSH",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Sharm El Sheikh",
+      "78784_azn": "1095.77 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "CIT",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Shymkent",
+      "78784_azn": "692.97 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "BUS",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Batumi",
+      "78784_azn": "472.90 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "15092026": "30.06.2026",
+      "svx": "SSH",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Sharm El Sheikh",
+      "78784_azn": "1380.39 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "DEL",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - New Delhi",
+      "78784_azn": "793.18 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "PRG",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Prague",
+      "78784_azn": "555.88 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "TBZ",
+      "bcn": "BCN",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Barcelona - Tabriz",
+      "78784_azn": "621.71 AZN",
+      "barcelona": "Barcelona",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "FRU",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Bishkek",
+      "78784_azn": "697.52 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "15092026": "15.09.2026",
+      "svx": "MOW",
+      "bcn": "BER",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Berlin - Moscow",
+      "78784_azn": "728.43 AZN",
+      "barcelona": "Berlin",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "15092026": "12.07.2026",
+      "svx": "TIV",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Tivat",
+      "78784_azn": "569.42 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "BAK",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Baku",
+      "78784_azn": "335.61 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "ANK",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Ankara",
+      "78784_azn": "498.02 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "15092026": "05.07.2026",
+      "svx": "PAR",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Paris",
+      "78784_azn": "764.55 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "15092026": "21.09.2026",
+      "svx": "BAK",
+      "bcn": "FRA",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Frankfurt - Baku",
+      "78784_azn": "517.41 AZN",
+      "barcelona": "Frankfurt",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "TIV",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Tivat",
+      "78784_azn": "654.42 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "15092026": "31.08.2026",
+      "svx": "AYT",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Antalya",
+      "78784_azn": "853.84 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "15092026": "11.07.2026",
+      "svx": "LON",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - London",
+      "78784_azn": "950.12 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "London"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "LED",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - St Petersburg",
+      "78784_azn": "855.05 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "IZM",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Izmir",
+      "78784_azn": "550.14 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "15092026": "02.08.2026",
+      "svx": "COV",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Adana - Mersin",
+      "78784_azn": "484.46 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "THR",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Tehran",
+      "78784_azn": "631.33 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "15092026": "01.07.2026",
+      "svx": "SSH",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Sharm El Sheikh",
+      "78784_azn": "1161.45 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "MOW",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Moscow",
+      "78784_azn": "604.18 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "ANK",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Ankara",
+      "78784_azn": "610.08 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "15092026": "02.09.2026",
+      "svx": "TLV",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Tel Aviv",
+      "78784_azn": "1653.52 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "MIL",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Milan",
+      "78784_azn": "741.36 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "15092026": "12.07.2026",
+      "svx": "BCN",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Barcelona",
+      "78784_azn": "637.04 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "15092026": "19.07.2026",
+      "svx": "RMO",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Chisinau",
+      "78784_azn": "648.73 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "TBZ",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Tabriz",
+      "78784_azn": "461.24 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "15092026": "26.08.2026",
+      "svx": "IZM",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Izmir",
+      "78784_azn": "1104.48 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "MOW",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Moscow",
+      "78784_azn": "488.26 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "15092026": "19.09.2026",
+      "svx": "VIE",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Vienna",
+      "78784_azn": "762.62 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "LED",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - St Petersburg",
+      "78784_azn": "524.98 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "15092026": "12.07.2026",
+      "svx": "LON",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - London",
+      "78784_azn": "586.80 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "London"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "PRG",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Prague",
+      "78784_azn": "677.59 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "BUS",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Batumi",
+      "78784_azn": "625.54 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "TZX",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Trabzon",
+      "78784_azn": "588.82 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "LED",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - St Petersburg",
+      "78784_azn": "712.40 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "15092026": "02.09.2026",
+      "svx": "BJV",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Bodrum",
+      "78784_azn": "733.65 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "TBS",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Tbilisi",
+      "78784_azn": "631.43 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "IST",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Istanbul",
+      "78784_azn": "426.48 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "15092026": "12.07.2026",
+      "svx": "BER",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Berlin",
+      "78784_azn": "551.18 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "AYT",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Antalya",
+      "78784_azn": "550.13 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "TBS",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Tbilisi",
+      "78784_azn": "511.48 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "BAK",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Baku",
+      "78784_azn": "426.40 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "15092026": "02.09.2026",
+      "svx": "BJV",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Bodrum",
+      "78784_azn": "975.00 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "15092026": "26.08.2026",
+      "svx": "BAK",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Baku",
+      "78784_azn": "681.89 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "15092026": "11.07.2026",
+      "svx": "VIE",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Vienna",
+      "78784_azn": "900.14 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "15092026": "26.08.2026",
+      "svx": "DOH",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Doha",
+      "78784_azn": "1911.74 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Doha"
+    },
+    {
+      "15092026": "21.09.2026",
+      "svx": "THR",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Tehran",
+      "78784_azn": "1103.28 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "BUS",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Batumi",
+      "78784_azn": "760.91 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "15092026": "21.09.2026",
+      "svx": "DXB",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Dubai",
+      "78784_azn": "991.19 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "15092026": "21.09.2026",
+      "svx": "TIV",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Tivat",
+      "78784_azn": "1239.90 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "DXB",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Dubai",
+      "78784_azn": "494.59 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "15092026": "12.07.2026",
+      "svx": "MIL",
+      "bcn": "SKD",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Samarkand - Milan",
+      "78784_azn": "581.00 AZN",
+      "barcelona": "Samarkand",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "15092026": "06.07.2026",
+      "svx": "SSH",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Sharm El Sheikh",
+      "78784_azn": "1524.38 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "DLM",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Dalaman",
+      "78784_azn": "700.80 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "IST",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Istanbul",
+      "78784_azn": "681.41 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "15092026": "02.07.2026",
+      "svx": "DBB",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - El Alamein",
+      "78784_azn": "753.71 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "El Alamein"
+    },
+    {
+      "15092026": "02.09.2026",
+      "svx": "RMO",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Chisinau",
+      "78784_azn": "1116.05 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "RUH",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Riyadh",
+      "78784_azn": "671.75 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "ANK",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Ankara",
+      "78784_azn": "795.90 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "15092026": "16.09.2026",
+      "svx": "IST",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Istanbul",
+      "78784_azn": "532.74 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "COV",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Adana - Mersin",
+      "78784_azn": "550.13 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "15092026": "17.09.2026",
+      "svx": "IZM",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Izmir",
+      "78784_azn": "604.22 AZN",
+      "barcelona": "Bishkek",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "15092026": "08.07.2026",
+      "svx": "MOW",
+      "bcn": "BJS",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Beijing - Moscow",
+      "78784_azn": "805.07 AZN",
+      "barcelona": "Beijing",
+      "ekaterinburg": "Moscow"
     },
     {
       "15092026": "",
-      "fru": "BER",
-      "bcn": "SKD",
-      "____barcelona__bishkek": "???????? ?????? ?? ??????????? Samarkand - Berlin",
-      "73760_azn": "",
+      "svx": "BER",
+      "bcn": "FRU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Bishkek - Berlin",
+      "78784_azn": "692.22 AZN",
       "barcelona": "",
-      "bishkek": ""
+      "ekaterinburg": ""
     }
   ]
 }
