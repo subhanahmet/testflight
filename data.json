@@ -7826,9 +7826,4599 @@
       "bcn": "MIL",
       "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Tel Aviv",
       "63843_azn": "823.98 AZN",
-      "barcelona": "",
-      "samarkand": "",
-      "03102026": ""
+      "barcelona": "Milan",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "DXB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dubai - Ankara",
+      "63843_azn": "564.97 AZN",
+      "barcelona": "Dubai",
+      "samarkand": "Ankara",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Tbilisi",
+      "63843_azn": "559.43 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Tbilisi",
+      "03102026": "12.08.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Tel Aviv",
+      "63843_azn": "579.89 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Tel Aviv",
+      "03102026": "11.09.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Riyadh",
+      "63843_azn": "561.15 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Riyadh",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Shymkent",
+      "63843_azn": "566.97 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Shymkent",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "DXB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dubai - Astana",
+      "63843_azn": "735.45 AZN",
+      "barcelona": "Dubai",
+      "samarkand": "Astana",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Lahore",
+      "63843_azn": "781.09 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Lahore",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Tabriz",
+      "63843_azn": "495.24 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Tabriz",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Tivat",
+      "63843_azn": "515.60 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Tivat",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Dalaman",
+      "63843_azn": "560.34 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Dalaman",
+      "03102026": "14.08.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Istanbul",
+      "63843_azn": "391.21 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Istanbul",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Barcelona",
+      "63843_azn": "830.84 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Barcelona",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Milan",
+      "63843_azn": "626.59 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Milan",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Vienna",
+      "63843_azn": "612.98 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Vienna",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Tivat",
+      "63843_azn": "909.37 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Tivat",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "MSQ",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Minsk",
+      "63843_azn": "928.95 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Minsk",
+      "03102026": "08.09.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Trabzon",
+      "63843_azn": "449.53 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Trabzon",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Baku",
+      "63843_azn": "528.25 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Baku",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Riyadh",
+      "63843_azn": "464.90 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Riyadh",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Chisinau",
+      "63843_azn": "626.56 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Chisinau",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Prague",
+      "63843_azn": "546.84 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Prague",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - Ankara",
+      "63843_azn": "523.45 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "Ankara",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Mumbai",
+      "63843_azn": "564.95 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Mumbai",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - Moscow",
+      "63843_azn": "711.06 AZN",
+      "barcelona": "Milan",
+      "samarkand": "Moscow",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "DYU",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Dushanbe - St Petersburg",
+      "63843_azn": "568.12 AZN",
+      "barcelona": "Dushanbe",
+      "samarkand": "St Petersburg",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "MIL",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Milan - St Petersburg",
+      "63843_azn": "755.80 AZN",
+      "barcelona": "Milan",
+      "samarkand": "St Petersburg",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Bishkek",
+      "63843_azn": "545.62 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Bishkek",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Trabzon",
+      "63843_azn": "522.34 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Trabzon",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Shymkent",
+      "63843_azn": "498.79 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Shymkent",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Antalya",
+      "63843_azn": "447.21 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Antalya",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Tabriz",
+      "63843_azn": "429.71 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Tabriz",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Ankara",
+      "63843_azn": "559.30 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Ankara",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "AKX",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Aktobe",
+      "63843_azn": "498.79 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Aktobe",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Baku",
+      "63843_azn": "476.82 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Baku",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Ahmedabad",
+      "63843_azn": "417.35 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Ahmedabad",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - London",
+      "63843_azn": "664.39 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "London",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - New Delhi",
+      "63843_azn": "524.30 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "New Delhi",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Tashkent",
+      "63843_azn": "835.36 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Tashkent",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Mumbai",
+      "63843_azn": "573.82 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Mumbai",
+      "03102026": "09.10.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Tehran",
+      "63843_azn": "517.21 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Tehran",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Milan",
+      "63843_azn": "668.28 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Milan",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Vienna",
+      "63843_azn": "714.97 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Vienna",
+      "03102026": "23.07.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Chisinau",
+      "63843_azn": "1158.44 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Chisinau",
+      "03102026": "20.08.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Mumbai",
+      "63843_azn": "877.83 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Mumbai",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Tbilisi",
+      "63843_azn": "599.43 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Tbilisi",
+      "03102026": "24.07.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - St Petersburg",
+      "63843_azn": "753.00 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "St Petersburg",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Barcelona",
+      "63843_azn": "697.46 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Barcelona",
+      "03102026": "22.08.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Islamabad",
+      "63843_azn": "681.78 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Islamabad",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Astana",
+      "63843_azn": "510.36 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Astana",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Tel Aviv",
+      "63843_azn": "775.05 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Tel Aviv",
+      "03102026": "07.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Tbilisi",
+      "63843_azn": "584.42 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Tbilisi",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - London",
+      "63843_azn": "878.17 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "London",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Milan",
+      "63843_azn": "885.95 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Milan",
+      "03102026": "30.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Dushanbe",
+      "63843_azn": "434.84 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Dushanbe",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Batumi",
+      "63843_azn": "712.77 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Batumi",
+      "03102026": "27.09.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Ekaterinburg",
+      "63843_azn": "708.26 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Ekaterinburg",
+      "03102026": "24.07.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Sharm El Sheikh",
+      "63843_azn": "919.61 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "27.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Tbilisi",
+      "63843_azn": "411.50 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Tbilisi",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Baku",
+      "63843_azn": "349.89 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Baku",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "DOH",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Doha",
+      "63843_azn": "603.02 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Doha",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Sharm El Sheikh",
+      "63843_azn": "779.75 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "06.09.2026"
+    },
+    {
+      "skd": "GUW",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Atyrau",
+      "63843_azn": "611.61 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Atyrau",
+      "03102026": "30.09.2026"
+    },
+    {
+      "skd": "BJS",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Beijing",
+      "63843_azn": "926.99 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Beijing",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Lahore",
+      "63843_azn": "782.18 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Lahore",
+      "03102026": "09.10.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Izmir",
+      "63843_azn": "705.19 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Izmir",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Lahore",
+      "63843_azn": "728.47 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Lahore",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Islamabad",
+      "63843_azn": "782.18 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Islamabad",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Samarkand",
+      "63843_azn": "558.35 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Samarkand",
+      "03102026": "09.10.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Berlin",
+      "63843_azn": "657.71 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Berlin",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Kars",
+      "63843_azn": "677.99 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Kars",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "BJS",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Beijing",
+      "63843_azn": "1236.08 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Beijing",
+      "03102026": "12.09.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Riyadh",
+      "63843_azn": "638.86 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Riyadh",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Istanbul",
+      "63843_azn": "411.50 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Istanbul",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Prague",
+      "63843_azn": "874.27 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Prague",
+      "03102026": "08.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Baku",
+      "63843_azn": "471.54 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Baku",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Almaty",
+      "63843_azn": "755.26 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Almaty",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Sharm El Sheikh",
+      "63843_azn": "1362.55 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Samarkand",
+      "63843_azn": "571.21 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Samarkand",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Paris",
+      "63843_azn": "1168.00 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Paris",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Bodrum",
+      "63843_azn": "745.98 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Bodrum",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Bishkek",
+      "63843_azn": "741.33 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Bishkek",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Mumbai",
+      "63843_azn": "461.75 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Mumbai",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Tel Aviv",
+      "63843_azn": "775.25 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Adana - Mersin",
+      "63843_azn": "546.42 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Adana - Mersin",
+      "03102026": "11.10.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Aktau",
+      "63843_azn": "428.76 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Aktau",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Tashkent",
+      "63843_azn": "571.21 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Tashkent",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Dalaman",
+      "63843_azn": "745.98 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Dalaman",
+      "03102026": "09.08.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Dushanbe",
+      "63843_azn": "651.94 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Dushanbe",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Dammam",
+      "63843_azn": "491.03 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Dammam",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "MOW",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Moscow - Almaty",
+      "63843_azn": "570.66 AZN",
+      "barcelona": "Moscow",
+      "samarkand": "Almaty",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Barcelona",
+      "63843_azn": "932.63 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Barcelona",
+      "03102026": "25.09.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "MSQ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Minsk - Vienna",
+      "63843_azn": "676.93 AZN",
+      "barcelona": "Minsk",
+      "samarkand": "Vienna",
+      "03102026": "05.09.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - New Delhi",
+      "63843_azn": "562.44 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "New Delhi",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Riyadh",
+      "63843_azn": "769.00 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Riyadh",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Bodrum",
+      "63843_azn": "829.53 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Bodrum",
+      "03102026": "22.07.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Aktau",
+      "63843_azn": "498.03 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Aktau",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Shymkent",
+      "63843_azn": "566.11 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Shymkent",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Almaty",
+      "63843_azn": "645.77 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Almaty",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Vienna",
+      "63843_azn": "841.33 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Vienna",
+      "03102026": "20.07.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Ankara",
+      "63843_azn": "767.00 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Ankara",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Paris",
+      "63843_azn": "869.00 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Paris",
+      "03102026": "11.10.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Tivat",
+      "63843_azn": "806.20 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Tivat",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Trabzon",
+      "63843_azn": "665.00 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Trabzon",
+      "03102026": "07.10.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Sharm El Sheikh",
+      "63843_azn": "649.80 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Tehran",
+      "63843_azn": "665.00 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Tehran",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Chisinau",
+      "63843_azn": "889.13 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Chisinau",
+      "03102026": "20.07.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Bishkek",
+      "63843_azn": "468.40 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Bishkek",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "DOH",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Doha",
+      "63843_azn": "362.10 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Doha",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "DXB",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Dubai",
+      "63843_azn": "502.20 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Dubai",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Tel Aviv",
+      "63843_azn": "583.10 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Chisinau",
+      "63843_azn": "628.11 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Chisinau",
+      "03102026": "17.07.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Aktau",
+      "63843_azn": "360.40 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Aktau",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Dushanbe",
+      "63843_azn": "705.00 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Dushanbe",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Islamabad",
+      "63843_azn": "619.70 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Islamabad",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Mumbai",
+      "63843_azn": "467.00 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Mumbai",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Moscow",
+      "63843_azn": "458.20 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Moscow",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Dammam",
+      "63843_azn": "470.80 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Dammam",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Batumi",
+      "63843_azn": "862.20 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Batumi",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Baku",
+      "63843_azn": "263.40 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Baku",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Shymkent",
+      "63843_azn": "426.70 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Shymkent",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Dushanbe",
+      "63843_azn": "365.50 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Dushanbe",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Baku",
+      "63843_azn": "320.20 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Baku",
+      "03102026": "30.07.2026"
+    },
+    {
+      "skd": "GUW",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Atyrau",
+      "63843_azn": "486.20 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Atyrau",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Batumi",
+      "63843_azn": "559.51 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Batumi",
+      "03102026": "17.07.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Astana",
+      "63843_azn": "437.80 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Astana",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Astana",
+      "63843_azn": "779.98 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Astana",
+      "03102026": "08.08.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Istanbul",
+      "63843_azn": "694.80 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Istanbul",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - London",
+      "63843_azn": "769.93 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "London",
+      "03102026": "30.07.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Adana - Mersin",
+      "63843_azn": "650.60 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Adana - Mersin",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Dalaman",
+      "63843_azn": "902.91 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Dalaman",
+      "03102026": "27.07.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Tbilisi",
+      "63843_azn": "704.33 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Tbilisi",
+      "03102026": "19.07.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Sharm El Sheikh",
+      "63843_azn": "975.70 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "07.09.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Tabriz",
+      "63843_azn": "577.50 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Tabriz",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Berlin",
+      "63843_azn": "768.10 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Berlin",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "AKX",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Aktobe",
+      "63843_azn": "426.70 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Aktobe",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Almaty",
+      "63843_azn": "493.90 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Almaty",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Izmir",
+      "63843_azn": "623.31 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Izmir",
+      "03102026": "30.07.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - St Petersburg",
+      "63843_azn": "502.40 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "St Petersburg",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "VIE",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Vienna - Moscow",
+      "63843_azn": "706.31 AZN",
+      "barcelona": "Vienna",
+      "samarkand": "Moscow",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Barcelona",
+      "63843_azn": "869.00 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Barcelona",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "DXB",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Dubai",
+      "63843_azn": "783.90 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Dubai",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Milan",
+      "63843_azn": "712.13 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Milan",
+      "03102026": "30.07.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Kars",
+      "63843_azn": "905.60 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Kars",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Moscow",
+      "63843_azn": "768.80 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Moscow",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BJS",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Beijing",
+      "63843_azn": "777.70 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Beijing",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - St Petersburg",
+      "63843_azn": "811.30 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "St Petersburg",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "DBB",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - El Alamein",
+      "63843_azn": "688.71 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "El Alamein",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Lahore",
+      "63843_azn": "619.70 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Lahore",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Tashkent",
+      "63843_azn": "431.80 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Tashkent",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Prague",
+      "63843_azn": "772.10 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Prague",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Antalya",
+      "63843_azn": "630.01 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Antalya",
+      "03102026": "30.07.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "ISB",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Islamabad - Tel Aviv",
+      "63843_azn": "864.80 AZN",
+      "barcelona": "Islamabad",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Ekaterinburg",
+      "63843_azn": "516.00 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Ekaterinburg",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - New Delhi",
+      "63843_azn": "431.60 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "New Delhi",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Tbilisi",
+      "63843_azn": "354.90 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Tbilisi",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "IST",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Istanbul - Samarkand",
+      "63843_azn": "491.30 AZN",
+      "barcelona": "Istanbul",
+      "samarkand": "Samarkand",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "RIX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riga - Baku",
+      "63843_azn": "709.00 AZN",
+      "barcelona": "Riga",
+      "samarkand": "Baku",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - St Petersburg",
+      "63843_azn": "565.80 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "St Petersburg",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Sharm El Sheikh",
+      "63843_azn": "793.10 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "27.09.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Mumbai",
+      "63843_azn": "387.60 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Mumbai",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Aktau",
+      "63843_azn": "289.50 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Aktau",
+      "03102026": "04.10.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Lahore",
+      "63843_azn": "868.68 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Lahore",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "GUW",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Atyrau",
+      "63843_azn": "505.40 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Atyrau",
+      "03102026": "20.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Dushanbe",
+      "63843_azn": "396.60 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Dushanbe",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Astana",
+      "63843_azn": "506.30 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Astana",
+      "03102026": "19.09.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Adana - Mersin",
+      "63843_azn": "313.40 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Adana - Mersin",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Bodrum",
+      "63843_azn": "771.42 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Bodrum",
+      "03102026": "20.07.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Antalya",
+      "63843_azn": "422.20 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Antalya",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Tel Aviv",
+      "63843_azn": "910.10 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Tel Aviv",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Baku",
+      "63843_azn": "297.50 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Baku",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Tashkent",
+      "63843_azn": "517.66 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Tashkent",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Islamabad",
+      "63843_azn": "726.68 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Islamabad",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Riyadh",
+      "63843_azn": "481.00 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Riyadh",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - New Delhi",
+      "63843_azn": "377.70 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "New Delhi",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Chisinau",
+      "63843_azn": "674.80 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Chisinau",
+      "03102026": "19.09.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Dalaman",
+      "63843_azn": "736.41 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Dalaman",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Vienna",
+      "63843_azn": "644.00 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Vienna",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "AKX",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Aktobe",
+      "63843_azn": "396.60 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Aktobe",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Tivat",
+      "63843_azn": "509.80 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Tivat",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - London",
+      "63843_azn": "922.80 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "London",
+      "03102026": "26.09.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Tehran",
+      "63843_azn": "746.19 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Tehran",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Islamabad",
+      "63843_azn": "550.50 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Islamabad",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Lahore",
+      "63843_azn": "606.60 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Lahore",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Samarkand",
+      "63843_azn": "357.50 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Samarkand",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Ekaterinburg",
+      "63843_azn": "485.90 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Ekaterinburg",
+      "03102026": "09.10.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Tehran",
+      "63843_azn": "375.30 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Tehran",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Moscow",
+      "63843_azn": "467.20 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Moscow",
+      "03102026": "04.10.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Ekaterinburg",
+      "63843_azn": "707.23 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Ekaterinburg",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Tbilisi",
+      "63843_azn": "479.74 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Tbilisi",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Bishkek",
+      "63843_azn": "492.70 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Bishkek",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Tabriz",
+      "63843_azn": "287.80 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Tabriz",
+      "03102026": "04.10.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Dammam",
+      "63843_azn": "475.90 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Dammam",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Izmir",
+      "63843_azn": "430.80 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Izmir",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Almaty",
+      "63843_azn": "528.40 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Almaty",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Ahmedabad",
+      "63843_azn": "1076.93 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Ahmedabad",
+      "03102026": "04.08.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Berlin",
+      "63843_azn": "602.60 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Berlin",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Tel Aviv",
+      "63843_azn": "773.46 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Paris",
+      "63843_azn": "732.40 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Paris",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Prague",
+      "63843_azn": "775.43 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Prague",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Mumbai",
+      "63843_azn": "188.70 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Mumbai",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Bishkek",
+      "63843_azn": "592.46 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Bishkek",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Moscow",
+      "63843_azn": "469.00 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Moscow",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Dushanbe",
+      "63843_azn": "571.16 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Dushanbe",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Dammam",
+      "63843_azn": "849.10 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Dammam",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "GUW",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Atyrau",
+      "63843_azn": "714.86 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Atyrau",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Ahmedabad",
+      "63843_azn": "356.60 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Ahmedabad",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Trabzon",
+      "63843_azn": "365.20 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Trabzon",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "DXB",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Dubai",
+      "63843_azn": "450.10 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Dubai",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Mumbai",
+      "63843_azn": "520.27 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Mumbai",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Riyadh",
+      "63843_azn": "860.77 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Riyadh",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Tashkent",
+      "63843_azn": "357.50 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Tashkent",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Tel Aviv",
+      "63843_azn": "544.50 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Tel Aviv",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Tbilisi",
+      "63843_azn": "393.20 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Tbilisi",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Baku",
+      "63843_azn": "289.80 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Baku",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "IZM",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Izmir - Shymkent",
+      "63843_azn": "352.40 AZN",
+      "barcelona": "Izmir",
+      "samarkand": "Shymkent",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Kars",
+      "63843_azn": "583.70 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Kars",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Tbilisi",
+      "63843_azn": "478.30 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Tbilisi",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Sharm El Sheikh",
+      "63843_azn": "1055.00 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "19.09.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Istanbul",
+      "63843_azn": "393.30 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Istanbul",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "AKX",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktobe - Barcelona",
+      "63843_azn": "746.00 AZN",
+      "barcelona": "Aktobe",
+      "samarkand": "Barcelona",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Paris",
+      "63843_azn": "757.92 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Paris",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - New Delhi",
+      "63843_azn": "757.88 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "New Delhi",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Baku",
+      "63843_azn": "366.86 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Baku",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Samarkand",
+      "63843_azn": "517.66 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Samarkand",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - London",
+      "63843_azn": "689.84 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "London",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Berlin",
+      "63843_azn": "646.20 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Berlin",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - St Petersburg",
+      "63843_azn": "559.31 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "St Petersburg",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - New Delhi",
+      "63843_azn": "447.71 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "New Delhi",
+      "03102026": "17.07.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Almaty",
+      "63843_azn": "586.38 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Almaty",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Antalya",
+      "63843_azn": "497.40 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Antalya",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Mumbai",
+      "63843_azn": "557.91 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Mumbai",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Ankara",
+      "63843_azn": "540.70 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Ankara",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Tabriz",
+      "63843_azn": "658.69 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Tabriz",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Astana",
+      "63843_azn": "524.14 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Astana",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Prague",
+      "63843_azn": "515.20 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Prague",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Baku",
+      "63843_azn": "290.91 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Baku",
+      "03102026": "24.07.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Shymkent",
+      "63843_azn": "522.29 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Shymkent",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Sharm El Sheikh",
+      "63843_azn": "1923.69 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "07.08.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Trabzon",
+      "63843_azn": "455.70 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Trabzon",
+      "03102026": "07.10.2026"
+    },
+    {
+      "skd": "AKX",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Aktobe",
+      "63843_azn": "714.86 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Aktobe",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Istanbul",
+      "63843_azn": "635.36 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Istanbul",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "DBB",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - El Alamein",
+      "63843_azn": "776.41 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "El Alamein",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Milan",
+      "63843_azn": "680.11 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Milan",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Tel Aviv",
+      "63843_azn": "927.50 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Tivat",
+      "63843_azn": "449.88 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Tivat",
+      "03102026": "07.08.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Ahmedabad",
+      "63843_azn": "703.90 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Ahmedabad",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Tashkent",
+      "63843_azn": "475.08 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Tashkent",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - St Petersburg",
+      "63843_azn": "635.26 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "St Petersburg",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Ankara",
+      "63843_azn": "709.24 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Ankara",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Tivat",
+      "63843_azn": "579.90 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Tivat",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Barcelona",
+      "63843_azn": "595.10 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Barcelona",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Aktau",
+      "63843_azn": "532.02 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Aktau",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Dalaman",
+      "63843_azn": "547.41 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Dalaman",
+      "03102026": "27.07.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Dammam",
+      "63843_azn": "515.50 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Dammam",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "MSQ",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Minsk",
+      "63843_azn": "796.10 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Minsk",
+      "03102026": "03.09.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Adana - Mersin",
+      "63843_azn": "441.30 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Adana - Mersin",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Vienna",
+      "63843_azn": "523.70 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Vienna",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Chisinau",
+      "63843_azn": "513.51 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Chisinau",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Milan",
+      "63843_azn": "475.91 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Milan",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Riyadh",
+      "63843_azn": "580.10 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Riyadh",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Sharm El Sheikh",
+      "63843_azn": "742.60 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "07.09.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Kars",
+      "63843_azn": "545.00 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Kars",
+      "03102026": "06.08.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Paris",
+      "63843_azn": "590.00 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Paris",
+      "03102026": "11.10.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - London",
+      "63843_azn": "559.40 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "London",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Tabriz",
+      "63843_azn": "388.60 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Tabriz",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Bishkek",
+      "63843_azn": "808.41 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Bishkek",
+      "03102026": "19.08.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Izmir",
+      "63843_azn": "732.59 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Izmir",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Barcelona",
+      "63843_azn": "757.92 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Barcelona",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Dalaman",
+      "63843_azn": "1335.14 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Dalaman",
+      "03102026": "09.09.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Istanbul",
+      "63843_azn": "468.50 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Istanbul",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Izmir",
+      "63843_azn": "514.50 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Izmir",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Tehran",
+      "63843_azn": "476.10 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Tehran",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Batumi",
+      "63843_azn": "556.00 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Batumi",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Berlin",
+      "63843_azn": "485.70 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Berlin",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "RMO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Chisinau - Moscow",
+      "63843_azn": "668.33 AZN",
+      "barcelona": "Chisinau",
+      "samarkand": "Moscow",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Tbilisi",
+      "63843_azn": "402.01 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Tbilisi",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Moscow",
+      "63843_azn": "520.21 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Moscow",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Prague",
+      "63843_azn": "418.04 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Prague",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Bodrum",
+      "63843_azn": "1027.86 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Bodrum",
+      "03102026": "09.09.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Bodrum",
+      "63843_azn": "557.61 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Bodrum",
+      "03102026": "21.07.2026"
+    },
+    {
+      "skd": "DOH",
+      "bcn": "ALA",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Almaty - Doha",
+      "63843_azn": "1221.10 AZN",
+      "barcelona": "Almaty",
+      "samarkand": "Doha",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Paris",
+      "63843_azn": "764.01 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Paris",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Trabzon",
+      "63843_azn": "451.02 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Trabzon",
+      "03102026": "17.08.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Tehran",
+      "63843_azn": "495.60 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Tehran",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Dalaman",
+      "63843_azn": "756.85 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Dalaman",
+      "03102026": "09.08.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Tel Aviv",
+      "63843_azn": "590.32 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DBB",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - El Alamein",
+      "63843_azn": "1445.03 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "El Alamein",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Dammam",
+      "63843_azn": "492.04 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Dammam",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - London",
+      "63843_azn": "445.90 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "London",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Tehran",
+      "63843_azn": "518.37 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Tehran",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Prague",
+      "63843_azn": "578.32 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Prague",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Lahore",
+      "63843_azn": "692.90 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Lahore",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Riyadh",
+      "63843_azn": "545.20 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Riyadh",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Tabriz",
+      "63843_azn": "748.64 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Tabriz",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "DXB",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Dubai",
+      "63843_azn": "495.13 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Dubai",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Sharm El Sheikh",
+      "63843_azn": "675.40 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "06.09.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Aktau",
+      "63843_azn": "399.60 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Aktau",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Tivat",
+      "63843_azn": "642.22 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Tivat",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Almaty",
+      "63843_azn": "753.92 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Almaty",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "AKX",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Aktobe",
+      "63843_azn": "155.56 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Aktobe",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Tbilisi",
+      "63843_azn": "380.90 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Tbilisi",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Chisinau",
+      "63843_azn": "907.23 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Chisinau",
+      "03102026": "21.08.2026"
+    },
+    {
+      "skd": "GUW",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Atyrau",
+      "63843_azn": "510.10 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Atyrau",
+      "03102026": "20.09.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Ahmedabad",
+      "63843_azn": "369.80 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Ahmedabad",
+      "03102026": "06.08.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Shymkent",
+      "63843_azn": "409.80 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Shymkent",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Dushanbe",
+      "63843_azn": "418.30 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Dushanbe",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Almaty",
+      "63843_azn": "550.10 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Almaty",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Paris",
+      "63843_azn": "678.21 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Paris",
+      "03102026": "11.10.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Bodrum",
+      "63843_azn": "788.15 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Bodrum",
+      "03102026": "11.08.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Trabzon",
+      "63843_azn": "468.13 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Trabzon",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Milan",
+      "63843_azn": "465.38 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Milan",
+      "03102026": "07.10.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Astana",
+      "63843_azn": "1080.20 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Astana",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Islamabad",
+      "63843_azn": "692.90 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Islamabad",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Batumi",
+      "63843_azn": "543.76 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Batumi",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Tashkent",
+      "63843_azn": "476.10 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Tashkent",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Bishkek",
+      "63843_azn": "512.70 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Bishkek",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Moscow",
+      "63843_azn": "478.70 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Moscow",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Tel Aviv",
+      "63843_azn": "549.20 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Dushanbe",
+      "63843_azn": "744.07 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Dushanbe",
+      "03102026": "21.08.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - St Petersburg",
+      "63843_azn": "458.13 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "St Petersburg",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Ankara",
+      "63843_azn": "460.60 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Ankara",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Ekaterinburg",
+      "63843_azn": "500.80 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Ekaterinburg",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Astana",
+      "63843_azn": "512.70 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Astana",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "BJS",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Beijing",
+      "63843_azn": "799.90 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Beijing",
+      "03102026": "08.08.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Mumbai",
+      "63843_azn": "530.00 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Mumbai",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - New Delhi",
+      "63843_azn": "447.00 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "New Delhi",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Samarkand",
+      "63843_azn": "476.10 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Samarkand",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Batumi",
+      "63843_azn": "548.30 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Batumi",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - St Petersburg",
+      "63843_azn": "526.30 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "St Petersburg",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Riyadh",
+      "63843_azn": "518.25 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Riyadh",
+      "03102026": "05.09.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Shymkent",
+      "63843_azn": "217.97 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Shymkent",
+      "03102026": "08.08.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Antalya",
+      "63843_azn": "376.85 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Antalya",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Izmir",
+      "63843_azn": "476.29 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Izmir",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Tbilisi",
+      "63843_azn": "318.07 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Tbilisi",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Dammam",
+      "63843_azn": "490.80 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Dammam",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Lahore",
+      "63843_azn": "648.21 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Lahore",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Sharm El Sheikh",
+      "63843_azn": "2828.05 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Baku",
+      "63843_azn": "239.70 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Baku",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Moscow",
+      "63843_azn": "421.21 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Moscow",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Baku",
+      "63843_azn": "219.70 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Baku",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Ahmedabad",
+      "63843_azn": "470.14 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Ahmedabad",
+      "03102026": "01.09.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Tabriz",
+      "63843_azn": "408.10 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Tabriz",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "AMD",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ahmedabad - Samarkand",
+      "63843_azn": "609.85 AZN",
+      "barcelona": "Ahmedabad",
+      "samarkand": "Samarkand",
+      "03102026": "08.08.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "ANK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Ankara - Chisinau",
+      "63843_azn": "610.93 AZN",
+      "barcelona": "Ankara",
+      "samarkand": "Chisinau",
+      "03102026": "17.07.2026"
+    },
+    {
+      "skd": "BJS",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Beijing",
+      "63843_azn": "953.95 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Beijing",
+      "03102026": "09.08.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Tashkent",
+      "63843_azn": "451.42 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Tashkent",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Ekaterinburg",
+      "63843_azn": "623.35 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Ekaterinburg",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Antalya",
+      "63843_azn": "557.40 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Antalya",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Istanbul",
+      "63843_azn": "489.45 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Istanbul",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Baku",
+      "63843_azn": "266.61 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Baku",
+      "03102026": "01.09.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Paris",
+      "63843_azn": "632.90 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Paris",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Tehran",
+      "63843_azn": "542.80 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Tehran",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Izmir",
+      "63843_azn": "528.50 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Izmir",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Ankara",
+      "63843_azn": "485.00 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Ankara",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Tbilisi",
+      "63843_azn": "438.35 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Tbilisi",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Dalaman",
+      "63843_azn": "527.60 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Dalaman",
+      "03102026": "09.08.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Kars",
+      "63843_azn": "519.19 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Kars",
+      "03102026": "06.08.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Izmir",
+      "63843_azn": "529.12 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Izmir",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Dushanbe",
+      "63843_azn": "470.85 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Dushanbe",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Moscow",
+      "63843_azn": "486.80 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Moscow",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Chisinau",
+      "63843_azn": "511.93 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Chisinau",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Batumi",
+      "63843_azn": "493.50 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Batumi",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "DBB",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - El Alamein",
+      "63843_azn": "735.11 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "El Alamein",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Islamabad",
+      "63843_azn": "648.21 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Islamabad",
+      "03102026": "04.10.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Sharm El Sheikh",
+      "63843_azn": "661.40 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "07.09.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Moscow",
+      "63843_azn": "604.48 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Moscow",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Tbilisi",
+      "63843_azn": "331.20 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Tbilisi",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Ankara",
+      "63843_azn": "601.63 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Ankara",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - London",
+      "63843_azn": "616.07 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "London",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Barcelona",
+      "63843_azn": "678.21 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Barcelona",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Trabzon",
+      "63843_azn": "512.20 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Trabzon",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Milan",
+      "63843_azn": "634.60 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Milan",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "BJS",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Beijing",
+      "63843_azn": "822.40 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Beijing",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Islamabad",
+      "63843_azn": "655.90 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Islamabad",
+      "03102026": "20.09.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Tel Aviv",
+      "63843_azn": "587.00 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Tel Aviv",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Milan",
+      "63843_azn": "468.30 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Milan",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Baku",
+      "63843_azn": "374.80 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Baku",
+      "03102026": "27.07.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Kars",
+      "63843_azn": "590.83 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Kars",
+      "03102026": "30.07.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Chisinau",
+      "63843_azn": "787.58 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Chisinau",
+      "03102026": "21.08.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Batumi",
+      "63843_azn": "677.58 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Batumi",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Bodrum",
+      "63843_azn": "551.40 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Bodrum",
+      "03102026": "04.08.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Tivat",
+      "63843_azn": "539.50 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Tivat",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "DBB",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - El Alamein",
+      "63843_azn": "671.13 AZN",
+      "barcelona": "Astana",
+      "samarkand": "El Alamein",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Tel Aviv",
+      "63843_azn": "878.60 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Tel Aviv",
+      "03102026": "10.10.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Adana - Mersin",
+      "63843_azn": "458.70 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Adana - Mersin",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Berlin",
+      "63843_azn": "538.80 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Berlin",
+      "03102026": "27.08.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Vienna",
+      "63843_azn": "567.83 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Vienna",
+      "03102026": "20.07.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Prague",
+      "63843_azn": "612.50 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Prague",
+      "03102026": "05.08.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Ahmedabad",
+      "63843_azn": "763.80 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Ahmedabad",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Barcelona",
+      "63843_azn": "597.20 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Barcelona",
+      "03102026": "23.08.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Lahore",
+      "63843_azn": "655.90 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Lahore",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Tashkent",
+      "63843_azn": "449.30 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Tashkent",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Astana",
+      "63843_azn": "542.65 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Astana",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Ekaterinburg",
+      "63843_azn": "524.81 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Ekaterinburg",
+      "03102026": "17.07.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Antalya",
+      "63843_azn": "530.10 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Antalya",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Ahmedabad",
+      "63843_azn": "371.90 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Ahmedabad",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Bishkek",
+      "63843_azn": "526.51 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Bishkek",
+      "03102026": "17.07.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Mumbai",
+      "63843_azn": "658.33 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Mumbai",
+      "03102026": "27.07.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - London",
+      "63843_azn": "561.50 AZN",
+      "barcelona": "Astana",
+      "samarkand": "London",
+      "03102026": "04.08.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Riyadh",
+      "63843_azn": "645.10 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Riyadh",
+      "03102026": "26.09.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Istanbul",
+      "63843_azn": "412.80 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Istanbul",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Mumbai",
+      "63843_azn": "490.83 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Mumbai",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Berlin",
+      "63843_azn": "574.36 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Berlin",
+      "03102026": "20.09.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Almaty",
+      "63843_azn": "516.87 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Almaty",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - Tabriz",
+      "63843_azn": "455.30 AZN",
+      "barcelona": "Astana",
+      "samarkand": "Tabriz",
+      "03102026": "27.09.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Tehran",
+      "63843_azn": "467.10 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Tehran",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - St Petersburg",
+      "63843_azn": "647.75 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "St Petersburg",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "RUH",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Riyadh - Adana - Mersin",
+      "63843_azn": "456.12 AZN",
+      "barcelona": "Riyadh",
+      "samarkand": "Adana - Mersin",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "NQZ",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Astana - St Petersburg",
+      "63843_azn": "537.80 AZN",
+      "barcelona": "Astana",
+      "samarkand": "St Petersburg",
+      "03102026": "03.08.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Baku",
+      "63843_azn": "379.00 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Baku",
+      "03102026": "31.08.2026"
+    },
+    {
+      "skd": "MSQ",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Minsk",
+      "63843_azn": "533.14 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Minsk",
+      "03102026": "04.09.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Prague",
+      "63843_azn": "362.06 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Prague",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "DBB",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - El Alamein",
+      "63843_azn": "368.49 AZN",
+      "barcelona": "Baku",
+      "samarkand": "El Alamein",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Mumbai",
+      "63843_azn": "287.80 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Mumbai",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Tabriz",
+      "63843_azn": "202.53 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Tabriz",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Samarkand",
+      "63843_azn": "261.86 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Samarkand",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "DXB",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Dubai",
+      "63843_azn": "607.59 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Dubai",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Dushanbe",
+      "63843_azn": "384.70 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Dushanbe",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "BKK",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Bangkok",
+      "63843_azn": "1107.43 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Bangkok",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Mumbai",
+      "63843_azn": "469.20 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Mumbai",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "SKD",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Samarkand",
+      "63843_azn": "449.30 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Samarkand",
+      "03102026": "10.10.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Dammam",
+      "63843_azn": "285.84 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Dammam",
+      "03102026": "02.09.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Moscow",
+      "63843_azn": "443.40 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Moscow",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "AKX",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Aktobe",
+      "63843_azn": "365.69 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Aktobe",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Tivat",
+      "63843_azn": "396.96 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Tivat",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Riyadh",
+      "63843_azn": "577.90 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Riyadh",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "GUW",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Atyrau",
+      "63843_azn": "447.60 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Atyrau",
+      "03102026": "31.08.2026"
+    },
+    {
+      "skd": "AKX",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Aktobe",
+      "63843_azn": "444.20 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Aktobe",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - London",
+      "63843_azn": "435.98 AZN",
+      "barcelona": "Baku",
+      "samarkand": "London",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Almaty",
+      "63843_azn": "511.40 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Almaty",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Bodrum",
+      "63843_azn": "416.41 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Bodrum",
+      "03102026": "23.07.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Astana",
+      "63843_azn": "548.80 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Astana",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "ISB",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Islamabad",
+      "63843_azn": "482.55 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Islamabad",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "BJS",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Beijing",
+      "63843_azn": "504.06 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Beijing",
+      "03102026": "24.07.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "63843_azn": "435.96 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Tel Aviv",
+      "03102026": "11.09.2026"
+    },
+    {
+      "skd": "SVX",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Ekaterinburg",
+      "63843_azn": "455.31 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Ekaterinburg",
+      "03102026": "09.10.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "63843_azn": "428.20 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Vienna",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
+      "63843_azn": "253.11 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Adana - Mersin",
+      "03102026": "08.09.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Kars",
+      "63843_azn": "260.89 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Kars",
+      "03102026": "06.08.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Moscow",
+      "63843_azn": "396.96 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Moscow",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Aktau",
+      "63843_azn": "178.95 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Aktau",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "GUW",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Atyrau",
+      "63843_azn": "161.44 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Atyrau",
+      "03102026": "17.08.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Izmir",
+      "63843_azn": "319.10 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Izmir",
+      "03102026": "03.10.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Riyadh",
+      "63843_azn": "250.83 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Riyadh",
+      "03102026": "05.09.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Ankara",
+      "63843_azn": "214.06 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Ankara",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "FRA",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Frankfurt",
+      "63843_azn": "422.34 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Frankfurt",
+      "03102026": "07.10.2026"
+    },
+    {
+      "skd": "LHE",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Lahore",
+      "63843_azn": "552.57 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Lahore",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Ahmedabad",
+      "63843_azn": "253.12 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Ahmedabad",
+      "03102026": "02.08.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Sharm El Sheikh",
+      "63843_azn": "845.80 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "27.09.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Chisinau",
+      "63843_azn": "363.98 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Chisinau",
+      "03102026": "18.07.2026"
+    },
+    {
+      "skd": "TBZ",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Tabriz",
+      "63843_azn": "379.60 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Tabriz",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Paris",
+      "63843_azn": "426.25 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Paris",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Barcelona",
+      "63843_azn": "443.76 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Barcelona",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "BEG",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Belgrade",
+      "63843_azn": "315.26 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Belgrade",
+      "03102026": "24.09.2026"
+    },
+    {
+      "skd": "ALA",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "63843_azn": "363.65 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Almaty",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Shymkent",
+      "63843_azn": "260.64 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Shymkent",
+      "03102026": "13.08.2026"
+    },
+    {
+      "skd": "DOH",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Doha",
+      "63843_azn": "793.41 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Doha",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "FRU",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Bishkek",
+      "63843_azn": "453.37 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Bishkek",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Milan",
+      "63843_azn": "397.07 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Milan",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "HER",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "63843_azn": "682.89 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Heraklion",
+      "03102026": "12.09.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Istanbul",
+      "63843_azn": "291.87 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Istanbul",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "NQZ",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Astana",
+      "63843_azn": "449.23 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Astana",
+      "03102026": "15.07.2026"
+    },
+    {
+      "skd": "TAS",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Tashkent",
+      "63843_azn": "261.86 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Tashkent",
+      "03102026": "13.07.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Dalaman",
+      "63843_azn": "361.95 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Dalaman",
+      "03102026": "27.07.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Sharm El Sheikh",
+      "63843_azn": "358.76 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "27.08.2026"
+    },
+    {
+      "skd": "DMM",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Dammam",
+      "63843_azn": "525.20 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Dammam",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Antalya",
+      "63843_azn": "418.46 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Antalya",
+      "03102026": "22.07.2026"
+    },
+    {
+      "skd": "CIT",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Shymkent",
+      "63843_azn": "444.20 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Shymkent",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - New Delhi",
+      "63843_azn": "454.20 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "New Delhi",
+      "03102026": "17.09.2026"
+    },
+    {
+      "skd": "RIX",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Riga",
+      "63843_azn": "445.45 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Riga",
+      "03102026": "01.08.2026"
+    },
+    {
+      "skd": "DYU",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "63843_azn": "239.49 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Dushanbe",
+      "03102026": "18.09.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "63843_azn": "204.33 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Trabzon",
+      "03102026": "07.10.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "63843_azn": "461.15 AZN",
+      "barcelona": "Baku",
+      "samarkand": "St Petersburg",
+      "03102026": "13.07.2026"
+    },
+    {
+      "skd": "DEL",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "63843_azn": "297.83 AZN",
+      "barcelona": "Baku",
+      "samarkand": "New Delhi",
+      "03102026": "20.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Tbilisi",
+      "63843_azn": "163.52 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Tbilisi",
+      "03102026": "06.08.2026"
+    },
+    {
+      "skd": "SCO",
+      "bcn": "AYT",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Antalya - Aktau",
+      "63843_azn": "379.60 AZN",
+      "barcelona": "Antalya",
+      "samarkand": "Aktau",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "THR",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Tehran",
+      "63843_azn": "247.13 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Tehran",
+      "03102026": "16.09.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Batumi",
+      "63843_azn": "297.70 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Batumi",
+      "03102026": "26.08.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "BAK",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Baku - Berlin",
+      "63843_azn": "398.17 AZN",
+      "barcelona": "Baku",
+      "samarkand": "Berlin",
+      "03102026": "14.07.2026"
+    },
+    {
+      "skd": "RUH",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Riyadh",
+      "63843_azn": "389.80 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Riyadh",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "MSQ",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Minsk",
+      "63843_azn": "600.70 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Minsk",
+      "03102026": "04.10.2026"
+    },
+    {
+      "skd": "PAR",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Paris",
+      "63843_azn": "544.20 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Paris",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "TLV",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Tel Aviv",
+      "63843_azn": "483.90 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Tel Aviv",
+      "03102026": "10.10.2026"
+    },
+    {
+      "skd": "DBB",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - El Alamein",
+      "63843_azn": "579.31 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "El Alamein",
+      "03102026": "16.07.2026"
+    },
+    {
+      "skd": "TIV",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "63843_azn": "408.30 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Tivat",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "KSY",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Kars",
+      "63843_azn": "385.30 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Kars",
+      "03102026": "06.08.2026"
+    },
+    {
+      "skd": "BCN",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Barcelona",
+      "63843_azn": "489.80 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Barcelona",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "BOM",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Mumbai",
+      "63843_azn": "279.40 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Mumbai",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "SSH",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Sharm El Sheikh",
+      "63843_azn": "540.40 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Sharm El Sheikh",
+      "03102026": "07.09.2026"
+    },
+    {
+      "skd": "BJV",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Bodrum",
+      "63843_azn": "539.20 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Bodrum",
+      "03102026": "04.08.2026"
+    },
+    {
+      "skd": "COV",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Adana - Mersin",
+      "63843_azn": "269.70 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Adana - Mersin",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "DXB",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Dubai",
+      "63843_azn": "649.50 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Dubai",
+      "03102026": "01.10.2026"
+    },
+    {
+      "skd": "DLM",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "63843_azn": "508.60 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Dalaman",
+      "03102026": "09.08.2026"
+    },
+    {
+      "skd": "TZX",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Trabzon",
+      "63843_azn": "282.40 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Trabzon",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "AYT",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "63843_azn": "324.10 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Antalya",
+      "03102026": "05.10.2026"
+    },
+    {
+      "skd": "VIE",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "63843_azn": "386.10 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Vienna",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "IZM",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Izmir",
+      "63843_azn": "342.90 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Izmir",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "LON",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - London",
+      "63843_azn": "428.60 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "London",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "ANK",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "63843_azn": "369.10 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Ankara",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "AMD",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Ahmedabad",
+      "63843_azn": "273.90 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Ahmedabad",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "IST",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Istanbul",
+      "63843_azn": "296.90 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Istanbul",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "BUS",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Batumi",
+      "63843_azn": "404.80 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Batumi",
+      "03102026": "04.09.2026"
+    },
+    {
+      "skd": "PRG",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Prague",
+      "63843_azn": "391.20 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Prague",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "MIL",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Milan",
+      "63843_azn": "418.40 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Milan",
+      "03102026": "08.10.2026"
+    },
+    {
+      "skd": "MOW",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Moscow",
+      "63843_azn": "370.90 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Moscow",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "TBS",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "63843_azn": "249.30 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Tbilisi",
+      "03102026": "15.09.2026"
+    },
+    {
+      "skd": "LED",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "63843_azn": "457.60 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "St Petersburg",
+      "03102026": "02.10.2026"
+    },
+    {
+      "skd": "BAK",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Baku",
+      "63843_azn": "109.30 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Baku",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "BER",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Berlin",
+      "63843_azn": "387.20 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Berlin",
+      "03102026": "06.10.2026"
+    },
+    {
+      "skd": "RMO",
+      "bcn": "SCO",
+      "____barcelona__samarkand": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "63843_azn": "511.91 AZN",
+      "barcelona": "Aktau",
+      "samarkand": "Chisinau",
+      "03102026": "15.07.2026"
     }
   ]
 }
