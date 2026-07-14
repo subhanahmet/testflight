@@ -1702,11 +1702,452 @@
       "islamabad": "Aktobe"
     },
     {
-      "19092026": "",
+      "19092026": "19.07.2026",
       "isb": "RMO",
       "bcn": "BOM",
       "____barcelona__islamabad": "???????? ?????? ?? ??????????? Mumbai - Chisinau",
       "84675_azn": "624.82 AZN",
+      "barcelona": "Mumbai",
+      "islamabad": "Chisinau"
+    },
+    {
+      "19092026": "10.09.2026",
+      "isb": "TLV",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tel Aviv",
+      "84675_azn": "504.00 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tel Aviv"
+    },
+    {
+      "19092026": "19.08.2026",
+      "isb": "BOM",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Mumbai",
+      "84675_azn": "491.91 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Mumbai"
+    },
+    {
+      "19092026": "10.09.2026",
+      "isb": "BAK",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Baku",
+      "84675_azn": "255.20 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Baku"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "BCN",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Barcelona",
+      "84675_azn": "782.08 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Barcelona"
+    },
+    {
+      "19092026": "17.07.2026",
+      "isb": "VIE",
+      "bcn": "BOM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Mumbai - Vienna",
+      "84675_azn": "458.22 AZN",
+      "barcelona": "Mumbai",
+      "islamabad": "Vienna"
+    },
+    {
+      "19092026": "07.10.2026",
+      "isb": "IST",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Istanbul",
+      "84675_azn": "544.28 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Istanbul"
+    },
+    {
+      "19092026": "07.10.2026",
+      "isb": "SCO",
+      "bcn": "BOM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Mumbai - Aktau",
+      "84675_azn": "325.92 AZN",
+      "barcelona": "Mumbai",
+      "islamabad": "Aktau"
+    },
+    {
+      "19092026": "10.09.2026",
+      "isb": "TBZ",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tabriz",
+      "84675_azn": "416.46 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tabriz"
+    },
+    {
+      "19092026": "10.09.2026",
+      "isb": "LHE",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Lahore",
+      "84675_azn": "719.92 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Lahore"
+    },
+    {
+      "19092026": "15.07.2026",
+      "isb": "MOW",
+      "bcn": "BOM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Mumbai - Moscow",
+      "84675_azn": "419.36 AZN",
+      "barcelona": "Mumbai",
+      "islamabad": "Moscow"
+    },
+    {
+      "19092026": "12.10.2026",
+      "isb": "TZX",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Trabzon",
+      "84675_azn": "545.99 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Trabzon"
+    },
+    {
+      "19092026": "10.10.2026",
+      "isb": "AYT",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Antalya",
+      "84675_azn": "517.05 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Antalya"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "VIE",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Vienna",
+      "84675_azn": "639.51 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Vienna"
+    },
+    {
+      "19092026": "19.08.2026",
+      "isb": "GUW",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Atyrau",
+      "84675_azn": "505.70 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Atyrau"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "MIL",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Milan",
+      "84675_azn": "725.67 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Milan"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "NQZ",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Astana",
+      "84675_azn": "490.14 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Astana"
+    },
+    {
+      "19092026": "11.08.2026",
+      "isb": "SKD",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Samarkand",
+      "84675_azn": "510.80 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Samarkand"
+    },
+    {
+      "19092026": "12.08.2026",
+      "isb": "BJV",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Bodrum",
+      "84675_azn": "746.58 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Bodrum"
+    },
+    {
+      "19092026": "12.10.2026",
+      "isb": "BER",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Berlin",
+      "84675_azn": "660.63 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Berlin"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "PRG",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Prague",
+      "84675_azn": "643.97 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Prague"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "TAS",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tashkent",
+      "84675_azn": "495.24 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tashkent"
+    },
+    {
+      "19092026": "28.08.2026",
+      "isb": "AMD",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Ahmedabad",
+      "84675_azn": "385.26 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Ahmedabad"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "THR",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tehran",
+      "84675_azn": "527.11 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tehran"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "TIV",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Tivat",
+      "84675_azn": "606.53 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Tivat"
+    },
+    {
+      "19092026": "15.08.2026",
+      "isb": "TIV",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Tivat",
+      "84675_azn": "630.44 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Tivat"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "PRG",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Prague",
+      "84675_azn": "643.40 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Prague"
+    },
+    {
+      "19092026": "12.09.2026",
+      "isb": "ISB",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Islamabad",
+      "84675_azn": "719.92 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Islamabad"
+    },
+    {
+      "19092026": "10.09.2026",
+      "isb": "DYU",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Dushanbe",
+      "84675_azn": "418.41 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Dushanbe"
+    },
+    {
+      "19092026": "11.08.2026",
+      "isb": "ALA",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Almaty",
+      "84675_azn": "589.34 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Almaty"
+    },
+    {
+      "19092026": "10.10.2026",
+      "isb": "TLV",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Tel Aviv",
+      "84675_azn": "1133.68 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Tel Aviv"
+    },
+    {
+      "19092026": "05.08.2026",
+      "isb": "TBS",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Tbilisi",
+      "84675_azn": "534.55 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Tbilisi"
+    },
+    {
+      "19092026": "10.10.2026",
+      "isb": "IZM",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Izmir",
+      "84675_azn": "571.18 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Izmir"
+    },
+    {
+      "19092026": "11.08.2026",
+      "isb": "BJV",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Bodrum",
+      "84675_azn": "647.95 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Bodrum"
+    },
+    {
+      "19092026": "10.09.2026",
+      "isb": "RUH",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Riyadh",
+      "84675_azn": "546.37 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Riyadh"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "PAR",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Paris",
+      "84675_azn": "750.39 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Paris"
+    },
+    {
+      "19092026": "03.10.2026",
+      "isb": "BCN",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Barcelona",
+      "84675_azn": "750.39 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Barcelona"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "LED",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - St Petersburg",
+      "84675_azn": "610.99 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "St Petersburg"
+    },
+    {
+      "19092026": "16.07.2026",
+      "isb": "ALA",
+      "bcn": "BOM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Mumbai - Almaty",
+      "84675_azn": "550.81 AZN",
+      "barcelona": "Mumbai",
+      "islamabad": "Almaty"
+    },
+    {
+      "19092026": "11.09.2026",
+      "isb": "DMM",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Dammam",
+      "84675_azn": "573.60 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Dammam"
+    },
+    {
+      "19092026": "06.09.2026",
+      "isb": "SSH",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Sharm El Sheikh",
+      "84675_azn": "660.33 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Sharm El Sheikh"
+    },
+    {
+      "19092026": "07.09.2026",
+      "isb": "SSH",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Sharm El Sheikh",
+      "84675_azn": "768.69 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Sharm El Sheikh"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "DXB",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Dubai",
+      "84675_azn": "550.57 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Dubai"
+    },
+    {
+      "19092026": "16.09.2026",
+      "isb": "RMO",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Chisinau",
+      "84675_azn": "806.87 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Chisinau"
+    },
+    {
+      "19092026": "10.09.2026",
+      "isb": "MSQ",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Minsk",
+      "84675_azn": "665.37 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Minsk"
+    },
+    {
+      "19092026": "07.10.2026",
+      "isb": "ANK",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Ekaterinburg - Ankara",
+      "84675_azn": "621.85 AZN",
+      "barcelona": "Ekaterinburg",
+      "islamabad": "Ankara"
+    },
+    {
+      "19092026": "15.08.2026",
+      "isb": "DLM",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Dalaman",
+      "84675_azn": "612.93 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Dalaman"
+    },
+    {
+      "19092026": "02.10.2026",
+      "isb": "MOW",
+      "bcn": "BUS",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Batumi - Moscow",
+      "84675_azn": "570.14 AZN",
+      "barcelona": "Batumi",
+      "islamabad": "Moscow"
+    },
+    {
+      "19092026": "08.10.2026",
+      "isb": "IZM",
+      "bcn": "BOM",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Mumbai - Izmir",
+      "84675_azn": "503.01 AZN",
+      "barcelona": "Mumbai",
+      "islamabad": "Izmir"
+    },
+    {
+      "19092026": "",
+      "isb": "DLM",
+      "bcn": "SVX",
+      "____barcelona__islamabad": "",
+      "84675_azn": "",
       "barcelona": "",
       "islamabad": ""
     }
