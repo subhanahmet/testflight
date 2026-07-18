@@ -3170,10 +3170,1702 @@
     },
     {
       "svx": "ANK",
-      "ber": "",
-      "____berlin__ekaterinburg": "",
-      "61940_azn": "",
-      "berlin": "",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Ankara",
+      "61940_azn": "432.80 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Ankara",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "PAR",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Paris",
+      "61940_azn": "605.60 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Paris",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "BUS",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Batumi",
+      "61940_azn": "382.80 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Batumi",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "BJS",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Beijing",
+      "61940_azn": "966.00 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Beijing",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "GUW",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Atyrau",
+      "61940_azn": "456.80 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Atyrau",
+      "08102026": "20.09.2026"
+    },
+    {
+      "svx": "TZX",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Trabzon",
+      "61940_azn": "420.20 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Trabzon",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "IZM",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Izmir",
+      "61940_azn": "383.80 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Izmir",
+      "08102026": "07.10.2026"
+    },
+    {
+      "svx": "RMO",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Chisinau",
+      "61940_azn": "638.20 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Chisinau",
+      "08102026": "23.09.2026"
+    },
+    {
+      "svx": "TAS",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Tashkent",
+      "61940_azn": "735.22 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Tashkent",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "ALA",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - Almaty",
+      "61940_azn": "495.10 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "Almaty",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "PRG",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Prague",
+      "61940_azn": "430.40 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Prague",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "THR",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - Tehran",
+      "61940_azn": "440.50 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "Tehran",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "RUH",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - Riyadh",
+      "61940_azn": "554.70 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "Riyadh",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "BAK",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - Baku",
+      "61940_azn": "180.80 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "Baku",
+      "08102026": "02.08.2026"
+    },
+    {
+      "svx": "BCN",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Barcelona",
+      "61940_azn": "547.80 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Barcelona",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "KSY",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Kars",
+      "61940_azn": "389.50 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Kars",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "MIL",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Milan",
+      "61940_azn": "476.40 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Milan",
+      "08102026": "06.10.2026"
+    },
+    {
+      "svx": "DEL",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - New Delhi",
+      "61940_azn": "458.20 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "New Delhi",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "TBZ",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - Tabriz",
+      "61940_azn": "353.00 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "Tabriz",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "COV",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Adana - Mersin",
+      "61940_azn": "330.00 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Adana - Mersin",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "SCO",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - Aktau",
+      "61940_azn": "338.93 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "Aktau",
+      "08102026": "30.07.2026"
+    },
+    {
+      "svx": "LHE",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Lahore",
+      "61940_azn": "992.84 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Lahore",
+      "08102026": "09.10.2026"
+    },
+    {
+      "svx": "TAS",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Tashkent",
+      "61940_azn": "322.70 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Tashkent",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "GUW",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Atyrau",
+      "61940_azn": "476.20 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Atyrau",
+      "08102026": "20.09.2026"
+    },
+    {
+      "svx": "IZM",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Izmir",
+      "61940_azn": "402.40 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Izmir",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "MIL",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Milan",
+      "61940_azn": "457.60 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Milan",
+      "08102026": "07.10.2026"
+    },
+    {
+      "svx": "ALA",
+      "ber": "TBS",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tbilisi - Almaty",
+      "61940_azn": "435.36 AZN",
+      "berlin": "Tbilisi",
+      "ekaterinburg": "Almaty",
+      "08102026": "15.09.2026"
+    },
+    {
+      "svx": "RMO",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Chisinau",
+      "61940_azn": "619.30 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Chisinau",
+      "08102026": "20.09.2026"
+    },
+    {
+      "svx": "ANK",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Ankara",
+      "61940_azn": "532.40 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Ankara",
+      "08102026": "30.09.2026"
+    },
+    {
+      "svx": "MOW",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Moscow",
+      "61940_azn": "413.10 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Moscow",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "ISB",
+      "ber": "KSY",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Kars - Islamabad",
+      "61940_azn": "637.90 AZN",
+      "berlin": "Kars",
+      "ekaterinburg": "Islamabad",
+      "08102026": "20.09.2026"
+    },
+    {
+      "svx": "TIV",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Tivat",
+      "61940_azn": "470.40 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Tivat",
+      "08102026": "07.10.2026"
+    },
+    {
+      "svx": "BAK",
+      "ber": "THR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tehran - Baku",
+      "61940_azn": "214.50 AZN",
+      "berlin": "Tehran",
+      "ekaterinburg": "Baku",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "FRU",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Bishkek",
+      "61940_azn": "771.20 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Bishkek",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "BCN",
+      "ber": "TBZ",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tabriz - Barcelona",
+      "61940_azn": "529.00 AZN",
+      "berlin": "Tabriz",
+      "ekaterinburg": "Barcelona",
+      "08102026": "05.10.2026"
+    },
+    {
+      "svx": "THR",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Tehran",
+      "61940_azn": "747.87 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Tehran",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "TLV",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Tel Aviv",
+      "61940_azn": "969.50 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Tel Aviv",
+      "08102026": "18.09.2026"
+    },
+    {
+      "svx": "THR",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Tehran",
+      "61940_azn": "562.95 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Tehran",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "BCN",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Barcelona",
+      "61940_azn": "809.89 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Barcelona",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "PRG",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Prague",
+      "61940_azn": "486.10 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Prague",
+      "08102026": "18.09.2026"
+    },
+    {
+      "svx": "TBZ",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Tabriz",
+      "61940_azn": "660.37 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Tabriz",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "SSH",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Sharm El Sheikh",
+      "61940_azn": "1049.94 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Sharm El Sheikh",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "TBS",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Tbilisi",
+      "61940_azn": "802.30 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Tbilisi",
+      "08102026": "28.07.2026"
+    },
+    {
+      "svx": "DYU",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Dushanbe",
+      "61940_azn": "481.28 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Dushanbe",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "AYT",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Antalya",
+      "61940_azn": "359.50 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Antalya",
+      "08102026": "14.10.2026"
+    },
+    {
+      "svx": "SCO",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Aktau",
+      "61940_azn": "662.07 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Aktau",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "TAS",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Tashkent",
+      "61940_azn": "550.29 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Tashkent",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "FRU",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Bishkek",
+      "61940_azn": "592.11 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Bishkek",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "RMO",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Chisinau",
+      "61940_azn": "903.18 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Chisinau",
+      "08102026": "22.07.2026"
+    },
+    {
+      "svx": "TZX",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Trabzon",
+      "61940_azn": "367.10 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Trabzon",
+      "08102026": "07.10.2026"
+    },
+    {
+      "svx": "SVX",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Ekaterinburg",
+      "61940_azn": "769.26 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Ekaterinburg",
+      "08102026": "06.10.2026"
+    },
+    {
+      "svx": "LED",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - St Petersburg",
+      "61940_azn": "854.81 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "St Petersburg",
+      "08102026": "06.10.2026"
+    },
+    {
+      "svx": "DMM",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Dammam",
+      "61940_azn": "792.40 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Dammam",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "ALA",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Almaty",
+      "61940_azn": "804.01 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Almaty",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "PAR",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Paris",
+      "61940_azn": "809.89 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Paris",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "SKD",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Samarkand",
+      "61940_azn": "735.22 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Samarkand",
+      "08102026": "06.10.2026"
+    },
+    {
+      "svx": "AMD",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Ahmedabad",
+      "61940_azn": "868.21 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Ahmedabad",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "DXB",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Dubai",
+      "61940_azn": "880.52 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Dubai",
+      "08102026": "29.09.2026"
+    },
+    {
+      "svx": "BAK",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Baku",
+      "61940_azn": "386.03 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Baku",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "SVX",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Ekaterinburg",
+      "61940_azn": "644.60 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Ekaterinburg",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "BER",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Berlin",
+      "61940_azn": "698.22 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Berlin",
+      "08102026": "03.10.2026"
+    },
+    {
+      "svx": "ALA",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Almaty",
+      "61940_azn": "617.14 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Almaty",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "TIV",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Tivat",
+      "61940_azn": "510.10 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Tivat",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "GUW",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Atyrau",
+      "61940_azn": "611.30 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Atyrau",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "PAR",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Paris",
+      "61940_azn": "593.20 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Paris",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "CIT",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Shymkent",
+      "61940_azn": "730.12 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Shymkent",
+      "08102026": "06.10.2026"
+    },
+    {
+      "svx": "MOW",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Moscow",
+      "61940_azn": "800.37 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Moscow",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "TLV",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Tel Aviv",
+      "61940_azn": "722.36 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Tel Aviv",
+      "08102026": "18.09.2026"
+    },
+    {
+      "svx": "AKX",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Aktobe",
+      "61940_azn": "545.19 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Aktobe",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "CIT",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Shymkent",
+      "61940_azn": "545.19 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Shymkent",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "AKX",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Aktobe",
+      "61940_azn": "794.28 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Aktobe",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "LED",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - St Petersburg",
+      "61940_azn": "669.88 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "St Petersburg",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "DEL",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - New Delhi",
+      "61940_azn": "553.22 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "New Delhi",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "ISB",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Islamabad",
+      "61940_azn": "774.87 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Islamabad",
+      "08102026": "03.10.2026"
+    },
+    {
+      "svx": "BOM",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Mumbai",
+      "61940_azn": "568.37 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Mumbai",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "TBS",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Tbilisi",
+      "61940_azn": "611.54 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Tbilisi",
+      "08102026": "18.08.2026"
+    },
+    {
+      "svx": "TBZ",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Tabriz",
+      "61940_azn": "475.45 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Tabriz",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "BOM",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Mumbai",
+      "61940_azn": "792.18 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Mumbai",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "NQZ",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Astana",
+      "61940_azn": "749.57 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Astana",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "ISB",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Islamabad",
+      "61940_azn": "992.84 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Islamabad",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "SKD",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Samarkand",
+      "61940_azn": "550.29 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Samarkand",
+      "08102026": "03.10.2026"
+    },
+    {
+      "svx": "GUW",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Atyrau",
+      "61940_azn": "914.82 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Atyrau",
+      "08102026": "16.08.2026"
+    },
+    {
+      "svx": "DEL",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - New Delhi",
+      "61940_azn": "852.86 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "New Delhi",
+      "08102026": "28.07.2026"
+    },
+    {
+      "svx": "RUH",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Riyadh",
+      "61940_azn": "685.24 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Riyadh",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "DLM",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Dalaman",
+      "61940_azn": "624.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Dalaman",
+      "08102026": "28.08.2026"
+    },
+    {
+      "svx": "AMD",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Ahmedabad",
+      "61940_azn": "689.57 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Ahmedabad",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "SSH",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Sharm El Sheikh",
+      "61940_azn": "796.96 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Sharm El Sheikh",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "SCO",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Aktau",
+      "61940_azn": "475.20 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Aktau",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "NQZ",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Astana",
+      "61940_azn": "556.87 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Astana",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "DYU",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Dushanbe",
+      "61940_azn": "712.87 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Dushanbe",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "BAK",
+      "ber": "PAR",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Paris - Baku",
+      "61940_azn": "664.28 AZN",
+      "berlin": "Paris",
+      "ekaterinburg": "Baku",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "LHE",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Lahore",
+      "61940_azn": "774.87 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Lahore",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "DMM",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Dammam",
+      "61940_azn": "624.97 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Dammam",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "MOW",
+      "ber": "TIV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tivat - Moscow",
+      "61940_azn": "673.77 AZN",
+      "berlin": "Tivat",
+      "ekaterinburg": "Moscow",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "BJV",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Bodrum",
+      "61940_azn": "656.30 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Bodrum",
+      "08102026": "28.08.2026"
+    },
+    {
+      "svx": "TBS",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Tbilisi",
+      "61940_azn": "427.50 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Tbilisi",
+      "08102026": "28.08.2026"
+    },
+    {
+      "svx": "TLV",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Tel Aviv",
+      "61940_azn": "536.30 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Tel Aviv",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "BUS",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Batumi",
+      "61940_azn": "431.70 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Batumi",
+      "08102026": "18.09.2026"
+    },
+    {
+      "svx": "BER",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Berlin",
+      "61940_azn": "483.80 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Berlin",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "IST",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Istanbul",
+      "61940_azn": "317.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Istanbul",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "MIL",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Milan",
+      "61940_azn": "516.70 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Milan",
+      "08102026": "07.10.2026"
+    },
+    {
+      "svx": "TBS",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Tbilisi",
+      "61940_azn": "558.30 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Tbilisi",
+      "08102026": "02.09.2026"
+    },
+    {
+      "svx": "LHE",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Lahore",
+      "61940_azn": "707.20 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Lahore",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "MSQ",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Minsk",
+      "61940_azn": "761.90 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Minsk",
+      "08102026": "12.09.2026"
+    },
+    {
+      "svx": "KSY",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Kars",
+      "61940_azn": "573.60 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Kars",
+      "08102026": "19.09.2026"
+    },
+    {
+      "svx": "BJS",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Beijing",
+      "61940_azn": "1648.80 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Beijing",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "VIE",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Vienna",
+      "61940_azn": "482.70 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Vienna",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "TIV",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Tivat",
+      "61940_azn": "739.50 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Tivat",
+      "08102026": "30.09.2026"
+    },
+    {
+      "svx": "PAR",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Paris",
+      "61940_azn": "873.60 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Paris",
+      "08102026": "19.09.2026"
+    },
+    {
+      "svx": "FRU",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Bishkek",
+      "61940_azn": "1074.40 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Bishkek",
+      "08102026": "26.09.2026"
+    },
+    {
+      "svx": "IZM",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Izmir",
+      "61940_azn": "580.50 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Izmir",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "DLM",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Dalaman",
+      "61940_azn": "629.30 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Dalaman",
+      "08102026": "07.09.2026"
+    },
+    {
+      "svx": "SSH",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Sharm El Sheikh",
+      "61940_azn": "615.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Sharm El Sheikh",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "LON",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - London",
+      "61940_azn": "526.90 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "London",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "ANK",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Ankara",
+      "61940_azn": "565.90 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Ankara",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "SKD",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Samarkand",
+      "61940_azn": "605.90 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Samarkand",
+      "08102026": "03.10.2026"
+    },
+    {
+      "svx": "VIE",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Vienna",
+      "61940_azn": "761.40 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Vienna",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "BJV",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Bodrum",
+      "61940_azn": "751.40 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Bodrum",
+      "08102026": "02.09.2026"
+    },
+    {
+      "svx": "SVX",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Ekaterinburg",
+      "61940_azn": "1021.70 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Ekaterinburg",
+      "08102026": "02.09.2026"
+    },
+    {
+      "svx": "BAK",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Baku",
+      "61940_azn": "194.10 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Baku",
+      "08102026": "28.08.2026"
+    },
+    {
+      "svx": "PRG",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Prague",
+      "61940_azn": "747.80 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Prague",
+      "08102026": "30.09.2026"
+    },
+    {
+      "svx": "BCN",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Barcelona",
+      "61940_azn": "873.60 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Barcelona",
+      "08102026": "19.09.2026"
+    },
+    {
+      "svx": "MIL",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Milan",
+      "61940_azn": "820.90 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Milan",
+      "08102026": "19.09.2026"
+    },
+    {
+      "svx": "LED",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - St Petersburg",
+      "61940_azn": "780.30 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "St Petersburg",
+      "08102026": "02.10.2026"
+    },
+    {
+      "svx": "AKX",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Aktobe",
+      "61940_azn": "1003.70 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Aktobe",
+      "08102026": "30.09.2026"
+    },
+    {
+      "svx": "NQZ",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Astana",
+      "61940_azn": "790.50 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Astana",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "IST",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Istanbul",
+      "61940_azn": "493.70 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Istanbul",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "BCN",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Barcelona",
+      "61940_azn": "593.20 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Barcelona",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "COV",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Adana - Mersin",
+      "61940_azn": "313.60 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Adana - Mersin",
+      "08102026": "11.10.2026"
+    },
+    {
+      "svx": "LED",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - St Petersburg",
+      "61940_azn": "471.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "St Petersburg",
+      "08102026": "07.10.2026"
+    },
+    {
+      "svx": "IZM",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Izmir",
+      "61940_azn": "431.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Izmir",
+      "08102026": "09.10.2026"
+    },
+    {
+      "svx": "BOM",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Mumbai",
+      "61940_azn": "522.00 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Mumbai",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "ANK",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Ankara",
+      "61940_azn": "409.60 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Ankara",
+      "08102026": "09.10.2026"
+    },
+    {
+      "svx": "AYT",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Antalya",
+      "61940_azn": "522.60 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Antalya",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "BOM",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Mumbai",
+      "61940_azn": "612.20 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Mumbai",
+      "08102026": "05.08.2026"
+    },
+    {
+      "svx": "DLM",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Dalaman",
+      "61940_azn": "720.80 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Dalaman",
+      "08102026": "02.09.2026"
+    },
+    {
+      "svx": "MOW",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Moscow",
+      "61940_azn": "418.30 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Moscow",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "RMO",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Chisinau",
+      "61940_azn": "790.50 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Chisinau",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "TZX",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Trabzon",
+      "61940_azn": "555.70 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Trabzon",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "DXB",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Dubai",
+      "61940_azn": "452.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Dubai",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "PAR",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Paris",
+      "61940_azn": "792.30 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Paris",
+      "08102026": "22.09.2026"
+    },
+    {
+      "svx": "BUS",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Batumi",
+      "61940_azn": "640.70 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Batumi",
+      "08102026": "01.10.2026"
+    },
+    {
+      "svx": "MOW",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Moscow",
+      "61940_azn": "399.50 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Moscow",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "TIV",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Tivat",
+      "61940_azn": "649.70 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Tivat",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "LON",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - London",
+      "61940_azn": "812.40 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "London",
+      "08102026": "19.09.2026"
+    },
+    {
+      "svx": "TBZ",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Tabriz",
+      "61940_azn": "279.60 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Tabriz",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "KSY",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Kars",
+      "61940_azn": "317.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Kars",
+      "08102026": "09.08.2026"
+    },
+    {
+      "svx": "TAS",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Tashkent",
+      "61940_azn": "927.20 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Tashkent",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "AMD",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Ahmedabad",
+      "61940_azn": "516.60 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Ahmedabad",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "GUW",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Atyrau",
+      "61940_azn": "600.80 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Atyrau",
+      "08102026": "30.09.2026"
+    },
+    {
+      "svx": "CIT",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Shymkent",
+      "61940_azn": "495.40 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Shymkent",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "ALA",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Almaty",
+      "61940_azn": "1031.90 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Almaty",
+      "08102026": "02.09.2026"
+    },
+    {
+      "svx": "ISB",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Islamabad",
+      "61940_azn": "839.80 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Islamabad",
+      "08102026": "02.09.2026"
+    },
+    {
+      "svx": "DEL",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - New Delhi",
+      "61940_azn": "741.70 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "New Delhi",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "COV",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Adana - Mersin",
+      "61940_azn": "631.40 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Adana - Mersin",
+      "08102026": "30.09.2026"
+    },
+    {
+      "svx": "BAK",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Baku",
+      "61940_azn": "450.70 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Baku",
+      "08102026": "02.09.2026"
+    },
+    {
+      "svx": "PRG",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Prague",
+      "61940_azn": "656.30 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Prague",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "SCO",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Aktau",
+      "61940_azn": "430.80 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Aktau",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "RMO",
+      "ber": "CIT",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Shymkent - Chisinau",
+      "61940_azn": "675.00 AZN",
+      "berlin": "Shymkent",
+      "ekaterinburg": "Chisinau",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "DYU",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Dushanbe",
+      "61940_azn": "437.60 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Dushanbe",
+      "08102026": "16.09.2026"
+    },
+    {
+      "svx": "BER",
+      "ber": "TLV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Tel Aviv - Berlin",
+      "61940_azn": "762.50 AZN",
+      "berlin": "Tel Aviv",
+      "ekaterinburg": "Berlin",
+      "08102026": "19.09.2026"
+    },
+    {
+      "svx": "BJV",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Bodrum",
+      "61940_azn": "661.60 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Bodrum",
+      "08102026": "07.09.2026"
+    },
+    {
+      "svx": "TZX",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Trabzon",
+      "61940_azn": "557.70 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Trabzon",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "DEL",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - New Delhi",
+      "61940_azn": "317.90 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "New Delhi",
+      "08102026": "17.08.2026"
+    },
+    {
+      "svx": "BCN",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Barcelona",
+      "61940_azn": "496.50 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Barcelona",
+      "08102026": "13.10.2026"
+    },
+    {
+      "svx": "SKD",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Samarkand",
+      "61940_azn": "437.12 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Samarkand",
+      "08102026": "10.10.2026"
+    },
+    {
+      "svx": "BAK",
+      "ber": "COV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Adana - Mersin - Baku",
+      "61940_azn": "231.00 AZN",
+      "berlin": "Adana - Mersin",
+      "ekaterinburg": "Baku",
+      "08102026": "04.10.2026"
+    },
+    {
+      "svx": "BER",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Berlin",
+      "61940_azn": "565.60 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Berlin",
+      "08102026": "08.10.2026"
+    },
+    {
+      "svx": "TBZ",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Tabriz",
+      "61940_azn": "453.20 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Tabriz",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "IST",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Istanbul",
+      "61940_azn": "356.44 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Istanbul",
+      "08102026": "08.10.2026"
+    },
+    {
+      "svx": "ANK",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Ankara",
+      "61940_azn": "578.10 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Ankara",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "TBS",
+      "ber": "COV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Adana - Mersin - Tbilisi",
+      "61940_azn": "484.80 AZN",
+      "berlin": "Adana - Mersin",
+      "ekaterinburg": "Tbilisi",
+      "08102026": "02.08.2026"
+    },
+    {
+      "svx": "SCO",
+      "ber": "COV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Adana - Mersin - Aktau",
+      "61940_azn": "319.90 AZN",
+      "berlin": "Adana - Mersin",
+      "ekaterinburg": "Aktau",
+      "08102026": "13.10.2026"
+    },
+    {
+      "svx": "TBS",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Tbilisi",
+      "61940_azn": "601.40 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Tbilisi",
+      "08102026": "01.08.2026"
+    },
+    {
+      "svx": "LON",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - London",
+      "61940_azn": "609.22 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "London",
+      "08102026": "08.10.2026"
+    },
+    {
+      "svx": "IST",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Istanbul",
+      "61940_azn": "322.80 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Istanbul",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "CIT",
+      "ber": "COV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Adana - Mersin - Shymkent",
+      "61940_azn": "340.30 AZN",
+      "berlin": "Adana - Mersin",
+      "ekaterinburg": "Shymkent",
+      "08102026": "06.10.2026"
+    },
+    {
+      "svx": "BJS",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Beijing",
+      "61940_azn": "972.79 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Beijing",
+      "08102026": "04.08.2026"
+    },
+    {
+      "svx": "COV",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Adana - Mersin",
+      "61940_azn": "441.98 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Adana - Mersin",
+      "08102026": "08.10.2026"
+    },
+    {
+      "svx": "TBZ",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Tabriz",
+      "61940_azn": "428.37 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Tabriz",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "BOM",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Mumbai",
+      "61940_azn": "372.30 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Mumbai",
+      "08102026": "17.08.2026"
+    },
+    {
+      "svx": "RMO",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Chisinau",
+      "61940_azn": "680.30 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Chisinau",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "DXB",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Dubai",
+      "61940_azn": "457.30 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Dubai",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "KSY",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Kars",
+      "61940_azn": "427.70 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Kars",
+      "08102026": "17.09.2026"
+    },
+    {
+      "svx": "MOW",
+      "ber": "GUW",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Atyrau - Moscow",
+      "61940_azn": "583.40 AZN",
+      "berlin": "Atyrau",
+      "ekaterinburg": "Moscow",
+      "08102026": "21.09.2026"
+    },
+    {
+      "svx": "GUW",
+      "ber": "COV",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? Adana - Mersin - Atyrau",
+      "61940_azn": "447.40 AZN",
+      "berlin": "Adana - Mersin",
+      "ekaterinburg": "Atyrau",
+      "08102026": "30.08.2026"
+    },
+    {
+      "svx": "PAR",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Paris",
+      "61940_azn": "677.27 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Paris",
+      "08102026": "09.10.2026"
+    },
+    {
+      "svx": "BJV",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Bodrum",
+      "61940_azn": "803.62 AZN",
+      "berlin": "St Petersburg",
+      "ekaterinburg": "Bodrum",
+      "08102026": "11.08.2026"
+    },
+    {
+      "svx": "BCN",
+      "ber": "LED",
+      "____berlin__ekaterinburg": "???????? ?????? ?? ??????????? St Petersburg - Barcelona",
+      "61940_azn": "677.27 AZN",
+      "berlin": "St Petersburg",
       "ekaterinburg": "",
       "08102026": ""
     }
