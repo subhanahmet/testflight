@@ -11377,13 +11377,76 @@
       "atyrau": "Almaty"
     },
     {
-      "20092026": "",
+      "20092026": "06.10.2026",
       "guw": "COV",
       "bcn": "SCO",
       "____barcelona__atyrau": "???????? ?????? ?? ??????????? Aktau - Adana - Mersin",
-      "82798_azn": "",
-      "barcelona": "",
-      "atyrau": ""
+      "82798_azn": "269.70 AZN",
+      "barcelona": "Aktau",
+      "atyrau": "Adana - Mersin"
+    },
+    {
+      "20092026": "02.10.2026",
+      "guw": "LED",
+      "bcn": "BAK",
+      "____barcelona__atyrau": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "82798_azn": "508.10 AZN",
+      "barcelona": "Baku",
+      "atyrau": "St Petersburg"
+    },
+    {
+      "20092026": "30.07.2026",
+      "guw": "KSY",
+      "bcn": "BAK",
+      "____barcelona__atyrau": "???????? ?????? ?? ??????????? Baku - Kars",
+      "82798_azn": "212.17 AZN",
+      "barcelona": "Baku",
+      "atyrau": "Kars"
+    },
+    {
+      "20092026": "07.10.2026",
+      "guw": "MIL",
+      "bcn": "SCO",
+      "____barcelona__atyrau": "???????? ?????? ?? ??????????? Aktau - Milan",
+      "82798_azn": "418.40 AZN",
+      "barcelona": "Aktau",
+      "atyrau": "Milan"
+    },
+    {
+      "20092026": "09.10.2026",
+      "guw": "ANK",
+      "bcn": "SCO",
+      "____barcelona__atyrau": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "82798_azn": "321.60 AZN",
+      "barcelona": "Aktau",
+      "atyrau": "Ankara"
+    },
+    {
+      "20092026": "14.10.2026",
+      "guw": "LED",
+      "bcn": "SCO",
+      "____barcelona__atyrau": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "82798_azn": "374.40 AZN",
+      "barcelona": "Aktau",
+      "atyrau": "St Petersburg"
+    },
+    {
+      "20092026": "03.10.2026",
+      "guw": "VIE",
+      "bcn": "SCO",
+      "____barcelona__atyrau": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "82798_azn": "386.10 AZN",
+      "barcelona": "Aktau",
+      "atyrau": "Vienna"
+    },
+    {
+      "20092026": "24.09.2026",
+      "guw": "BEG",
+      "bcn": "BAK",
+      "____barcelona__atyrau": "???????? ?????? ?? ??????????? Baku - Belgrade",
+      "82798_azn": "315.49 AZN",
+      "barcelona": "Baku",
+      "atyrau": "Belgrade"
     }
   ]
 }
