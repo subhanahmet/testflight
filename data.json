@@ -3556,11 +3556,1973 @@
       "shymkent": "Tel Aviv"
     },
     {
-      "17092026": "",
+      "17092026": "26.07.2026",
       "cit": "TBS",
       "bcn": "CIT",
       "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Tbilisi",
       "63279_azn": "466.38 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "SCO",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Aktau",
+      "63279_azn": "661.86 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Aktau"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "DEL",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - New Delhi",
+      "63279_azn": "854.56 AZN",
+      "barcelona": "Paris",
+      "shymkent": "New Delhi"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "ALA",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Almaty",
+      "63279_azn": "803.77 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Almaty"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "DYU",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Dushanbe",
+      "63279_azn": "481.19 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Dushanbe"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "AKX",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Aktobe",
+      "63279_azn": "545.08 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Aktobe"
+    },
+    {
+      "17092026": "23.08.2026",
+      "cit": "GUW",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Atyrau",
+      "63279_azn": "914.53 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Atyrau"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "BOM",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Mumbai",
+      "63279_azn": "568.37 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Mumbai"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "TLV",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Tel Aviv",
+      "63279_azn": "714.42 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Tel Aviv"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "TBZ",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Tabriz",
+      "63279_azn": "475.36 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Tabriz"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "PAR",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Paris",
+      "63279_azn": "593.20 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Paris"
+    },
+    {
+      "17092026": "18.09.2026",
+      "cit": "BUS",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Batumi",
+      "63279_azn": "431.70 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Batumi"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "LED",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - St Petersburg",
+      "63279_azn": "669.74 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "St Petersburg"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "LED",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - St Petersburg",
+      "63279_azn": "471.00 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "St Petersburg"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "MOW",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Moscow",
+      "63279_azn": "673.62 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Moscow"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "ALA",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Almaty",
+      "63279_azn": "617.02 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Almaty"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "BAK",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Baku",
+      "63279_azn": "664.05 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "MOW",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Moscow",
+      "63279_azn": "800.12 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Moscow"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "SSH",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Sharm El Sheikh",
+      "63279_azn": "796.78 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "SKD",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Samarkand",
+      "63279_azn": "616.27 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Samarkand"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "LED",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - St Petersburg",
+      "63279_azn": "854.55 AZN",
+      "barcelona": "Paris",
+      "shymkent": "St Petersburg"
+    },
+    {
+      "17092026": "07.08.2026",
+      "cit": "TBS",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Tbilisi",
+      "63279_azn": "753.46 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "SKD",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Samarkand",
+      "63279_azn": "734.99 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Samarkand"
+    },
+    {
+      "17092026": "05.10.2026",
+      "cit": "BAK",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Baku",
+      "63279_azn": "385.95 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "AKX",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Aktobe",
+      "63279_azn": "794.03 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Aktobe"
+    },
+    {
+      "17092026": "07.08.2026",
+      "cit": "NQZ",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Astana",
+      "63279_azn": "749.35 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Astana"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "LHE",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Lahore",
+      "63279_azn": "774.69 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Lahore"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "DMM",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Dammam",
+      "63279_azn": "624.86 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Dammam"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "SCO",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Aktau",
+      "63279_azn": "475.11 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Aktau"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "TZX",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Trabzon",
+      "63279_azn": "367.10 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Trabzon"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "CIT",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Shymkent",
+      "63279_azn": "794.03 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Shymkent"
+    },
+    {
+      "17092026": "16.09.2026",
+      "cit": "SSH",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Sharm El Sheikh",
+      "63279_azn": "1053.60 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "TIV",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Tivat",
+      "63279_azn": "510.10 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Tivat"
+    },
+    {
+      "17092026": "18.09.2026",
+      "cit": "BOM",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Mumbai",
+      "63279_azn": "408.30 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Mumbai"
+    },
+    {
+      "17092026": "16.09.2026",
+      "cit": "DXB",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Dubai",
+      "63279_azn": "635.19 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Dubai"
+    },
+    {
+      "17092026": "08.10.2026",
+      "cit": "SVX",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Ekaterinburg",
+      "63279_azn": "644.47 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Ekaterinburg"
+    },
+    {
+      "17092026": "18.09.2026",
+      "cit": "AYT",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Antalya",
+      "63279_azn": "422.40 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Antalya"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "BCN",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Barcelona",
+      "63279_azn": "809.71 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Barcelona"
+    },
+    {
+      "17092026": "29.07.2026",
+      "cit": "DLM",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Dalaman",
+      "63279_azn": "662.88 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Dalaman"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "FRU",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Bishkek",
+      "63279_azn": "591.99 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Bishkek"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "TBS",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Tbilisi",
+      "63279_azn": "611.41 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "17092026": "16.09.2026",
+      "cit": "GUW",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Atyrau",
+      "63279_azn": "611.17 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Atyrau"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "DEL",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - New Delhi",
+      "63279_azn": "553.12 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "New Delhi"
+    },
+    {
+      "17092026": "05.10.2026",
+      "cit": "BER",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Berlin",
+      "63279_azn": "698.08 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Berlin"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "CIT",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Shymkent",
+      "63279_azn": "545.08 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Shymkent"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "PRG",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Prague",
+      "63279_azn": "486.10 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Prague"
+    },
+    {
+      "17092026": "02.09.2026",
+      "cit": "BJV",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Bodrum",
+      "63279_azn": "795.70 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Bodrum"
+    },
+    {
+      "17092026": "04.10.2026",
+      "cit": "SSH",
+      "bcn": "PAR",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Paris - Sharm El Sheikh",
+      "63279_azn": "1049.62 AZN",
+      "barcelona": "Paris",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "PAR",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Paris",
+      "63279_azn": "809.71 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Paris"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "TAS",
+      "bcn": "TIV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tivat - Tashkent",
+      "63279_azn": "550.18 AZN",
+      "barcelona": "Tivat",
+      "shymkent": "Tashkent"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "ANK",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Ankara",
+      "63279_azn": "409.60 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Ankara"
+    },
+    {
+      "17092026": "16.09.2026",
+      "cit": "DXB",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Dubai",
+      "63279_azn": "452.00 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Dubai"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "IST",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Istanbul",
+      "63279_azn": "317.00 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Istanbul"
+    },
+    {
+      "17092026": "18.10.2026",
+      "cit": "BER",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Berlin",
+      "63279_azn": "483.80 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Berlin"
+    },
+    {
+      "17092026": "12.08.2026",
+      "cit": "DLM",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Dalaman",
+      "63279_azn": "720.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Dalaman"
+    },
+    {
+      "17092026": "04.10.2026",
+      "cit": "LED",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - St Petersburg",
+      "63279_azn": "780.30 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "St Petersburg"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "TAS",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Tashkent",
+      "63279_azn": "974.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Tashkent"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "BOM",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Mumbai",
+      "63279_azn": "676.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Mumbai"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "TBS",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Tbilisi",
+      "63279_azn": "558.30 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "MIL",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Milan",
+      "63279_azn": "819.20 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Milan"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "IZM",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Izmir",
+      "63279_azn": "675.70 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Izmir"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "SVX",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Ekaterinburg",
+      "63279_azn": "1021.70 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Ekaterinburg"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "IST",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Istanbul",
+      "63279_azn": "614.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Istanbul"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "ALA",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Almaty",
+      "63279_azn": "1031.90 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Almaty"
+    },
+    {
+      "17092026": "14.09.2026",
+      "cit": "TLV",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Tel Aviv",
+      "63279_azn": "562.10 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Tel Aviv"
+    },
+    {
+      "17092026": "10.08.2026",
+      "cit": "BJV",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Bodrum",
+      "63279_azn": "751.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Bodrum"
+    },
+    {
+      "17092026": "26.09.2026",
+      "cit": "FRU",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Bishkek",
+      "63279_azn": "1074.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Bishkek"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "BER",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Berlin",
+      "63279_azn": "762.50 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Berlin"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "AYT",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Antalya",
+      "63279_azn": "631.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Antalya"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "NQZ",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Astana",
+      "63279_azn": "885.70 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Astana"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "BCN",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Barcelona",
+      "63279_azn": "865.10 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Barcelona"
+    },
+    {
+      "17092026": "02.08.2026",
+      "cit": "LHE",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Lahore",
+      "63279_azn": "839.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Lahore"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "PAR",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Paris",
+      "63279_azn": "598.60 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Paris"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "LON",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - London",
+      "63279_azn": "526.90 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "London"
+    },
+    {
+      "17092026": "18.09.2026",
+      "cit": "BAK",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Baku",
+      "63279_azn": "194.10 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "VIE",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Vienna",
+      "63279_azn": "482.70 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Vienna"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "CIT",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Shymkent",
+      "63279_azn": "600.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Shymkent"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "ISB",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Islamabad",
+      "63279_azn": "839.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Islamabad"
+    },
+    {
+      "17092026": "26.09.2026",
+      "cit": "KSY",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Kars",
+      "63279_azn": "573.60 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Kars"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "VIE",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Vienna",
+      "63279_azn": "761.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Vienna"
+    },
+    {
+      "17092026": "05.08.2026",
+      "cit": "RMO",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Chisinau",
+      "63279_azn": "683.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Chisinau"
+    },
+    {
+      "17092026": "12.10.2026",
+      "cit": "AYT",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Antalya",
+      "63279_azn": "364.90 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Antalya"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "THR",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Tehran",
+      "63279_azn": "540.80 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Tehran"
+    },
+    {
+      "17092026": "17.08.2026",
+      "cit": "BOM",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Mumbai",
+      "63279_azn": "372.30 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Mumbai"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "LON",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - London",
+      "63279_azn": "812.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "London"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "MIL",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Milan",
+      "63279_azn": "516.70 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Milan"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "IZM",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Izmir",
+      "63279_azn": "431.00 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Izmir"
+    },
+    {
+      "17092026": "11.10.2026",
+      "cit": "BCN",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Barcelona",
+      "63279_azn": "593.20 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Barcelona"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "MOW",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Moscow",
+      "63279_azn": "520.20 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Moscow"
+    },
+    {
+      "17092026": "16.08.2026",
+      "cit": "KSY",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Kars",
+      "63279_azn": "317.00 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Kars"
+    },
+    {
+      "17092026": "07.10.2026",
+      "cit": "TBZ",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Tabriz",
+      "63279_azn": "279.60 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Tabriz"
+    },
+    {
+      "17092026": "25.09.2026",
+      "cit": "RMO",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Chisinau",
+      "63279_azn": "576.40 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Chisinau"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "TIV",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Tivat",
+      "63279_azn": "736.10 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Tivat"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "COV",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Adana - Mersin",
+      "63279_azn": "631.40 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Adana - Mersin"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "RUH",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Riyadh",
+      "63279_azn": "649.90 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Riyadh"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "GUW",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Atyrau",
+      "63279_azn": "600.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Atyrau"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "TZX",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Trabzon",
+      "63279_azn": "661.10 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Trabzon"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "ANK",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Ankara",
+      "63279_azn": "679.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Ankara"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "AKX",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Aktobe",
+      "63279_azn": "1003.70 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Aktobe"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "DEL",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - New Delhi",
+      "63279_azn": "916.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "New Delhi"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "SCO",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Aktau",
+      "63279_azn": "526.00 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Aktau"
+    },
+    {
+      "17092026": "07.09.2026",
+      "cit": "DLM",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Dalaman",
+      "63279_azn": "629.40 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Dalaman"
+    },
+    {
+      "17092026": "05.10.2026",
+      "cit": "SKD",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Samarkand",
+      "63279_azn": "605.90 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Samarkand"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "PRG",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Prague",
+      "63279_azn": "491.50 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Prague"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "DMM",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Dammam",
+      "63279_azn": "621.00 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Dammam"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "BUS",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Batumi",
+      "63279_azn": "640.70 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Batumi"
+    },
+    {
+      "17092026": "11.10.2026",
+      "cit": "COV",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Adana - Mersin",
+      "63279_azn": "359.50 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Adana - Mersin"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "PRG",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Prague",
+      "63279_azn": "747.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Prague"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "MOW",
+      "bcn": "CIT",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Shymkent - Moscow",
+      "63279_azn": "418.30 AZN",
+      "barcelona": "Shymkent",
+      "shymkent": "Moscow"
+    },
+    {
+      "17092026": "07.09.2026",
+      "cit": "BJV",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Bodrum",
+      "63279_azn": "661.70 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Bodrum"
+    },
+    {
+      "17092026": "28.09.2026",
+      "cit": "BUS",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Batumi",
+      "63279_azn": "537.40 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Batumi"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "BJS",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Beijing",
+      "63279_azn": "1371.70 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Beijing"
+    },
+    {
+      "17092026": "25.07.2026",
+      "cit": "BAK",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Baku",
+      "63279_azn": "428.12 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "TIV",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Tivat",
+      "63279_azn": "649.80 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Tivat"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "TZX",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Trabzon",
+      "63279_azn": "557.80 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Trabzon"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "PAR",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Paris",
+      "63279_azn": "865.10 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Paris"
+    },
+    {
+      "17092026": "30.09.2026",
+      "cit": "DYU",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Dushanbe",
+      "63279_azn": "558.30 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Dushanbe"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "MSQ",
+      "bcn": "TLV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Tel Aviv - Minsk",
+      "63279_azn": "761.80 AZN",
+      "barcelona": "Tel Aviv",
+      "shymkent": "Minsk"
+    },
+    {
+      "17092026": "13.08.2026",
+      "cit": "DLM",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Dalaman",
+      "63279_azn": "770.38 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Dalaman"
+    },
+    {
+      "17092026": "17.09.2026",
+      "cit": "IST",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Istanbul",
+      "63279_azn": "322.10 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Istanbul"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "TBZ",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Tabriz",
+      "63279_azn": "453.30 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Tabriz"
+    },
+    {
+      "17092026": "17.08.2026",
+      "cit": "DEL",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - New Delhi",
+      "63279_azn": "317.90 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "New Delhi"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "FRU",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Bishkek",
+      "63279_azn": "422.90 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Bishkek"
+    },
+    {
+      "17092026": "20.08.2026",
+      "cit": "KSY",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Kars",
+      "63279_azn": "351.30 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Kars"
+    },
+    {
+      "17092026": "15.10.2026",
+      "cit": "DYU",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Dushanbe",
+      "63279_azn": "371.93 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Dushanbe"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "BAK",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Baku",
+      "63279_azn": "231.00 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "DEL",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - New Delhi",
+      "63279_azn": "508.00 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "New Delhi"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "FRU",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Bishkek",
+      "63279_azn": "473.01 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Bishkek"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "BAK",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Baku",
+      "63279_azn": "509.92 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "11.08.2026",
+      "cit": "BJV",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Bodrum",
+      "63279_azn": "803.43 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Bodrum"
+    },
+    {
+      "17092026": "06.08.2026",
+      "cit": "RMO",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Chisinau",
+      "63279_azn": "597.40 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Chisinau"
+    },
+    {
+      "17092026": "15.10.2026",
+      "cit": "COV",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Adana - Mersin",
+      "63279_azn": "441.90 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Adana - Mersin"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "TBZ",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Tabriz",
+      "63279_azn": "428.29 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Tabriz"
+    },
+    {
+      "17092026": "30.08.2026",
+      "cit": "GUW",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Atyrau",
+      "63279_azn": "508.60 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Atyrau"
+    },
+    {
+      "17092026": "20.10.2026",
+      "cit": "PAR",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Paris",
+      "63279_azn": "677.12 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Paris"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "IZM",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Izmir",
+      "63279_azn": "511.92 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Izmir"
+    },
+    {
+      "17092026": "08.10.2026",
+      "cit": "RUH",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Riyadh",
+      "63279_azn": "511.40 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Riyadh"
+    },
+    {
+      "17092026": "13.10.2026",
+      "cit": "BCN",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Barcelona",
+      "63279_azn": "496.60 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Barcelona"
+    },
+    {
+      "17092026": "13.08.2026",
+      "cit": "TBS",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Tbilisi",
+      "63279_azn": "406.91 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "17092026": "04.08.2026",
+      "cit": "TBS",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Tbilisi",
+      "63279_azn": "484.80 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "LON",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - London",
+      "63279_azn": "609.10 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "London"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "VIE",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Vienna",
+      "63279_azn": "564.40 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Vienna"
+    },
+    {
+      "17092026": "14.10.2026",
+      "cit": "MIL",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Milan",
+      "63279_azn": "599.38 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Milan"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "TIV",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Tivat",
+      "63279_azn": "616.84 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Tivat"
+    },
+    {
+      "17092026": "01.09.2026",
+      "cit": "BAK",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Baku",
+      "63279_azn": "199.50 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "04.10.2026",
+      "cit": "SSH",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Sharm El Sheikh",
+      "63279_azn": "648.50 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "ANK",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Ankara",
+      "63279_azn": "578.20 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Ankara"
+    },
+    {
+      "17092026": "17.09.2026",
+      "cit": "DXB",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Dubai",
+      "63279_azn": "457.40 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Dubai"
+    },
+    {
+      "17092026": "17.09.2026",
+      "cit": "MIL",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Milan",
+      "63279_azn": "668.30 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Milan"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "PRG",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Prague",
+      "63279_azn": "568.28 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Prague"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "ISB",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Islamabad",
+      "63279_azn": "645.99 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Islamabad"
+    },
+    {
+      "17092026": "14.10.2026",
+      "cit": "TZX",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Trabzon",
+      "63279_azn": "447.76 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Trabzon"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "SSH",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Sharm El Sheikh",
+      "63279_azn": "724.45 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "15.10.2026",
+      "cit": "NQZ",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Astana",
+      "63279_azn": "443.62 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Astana"
+    },
+    {
+      "17092026": "24.09.2026",
+      "cit": "BER",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Berlin",
+      "63279_azn": "671.10 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Berlin"
+    },
+    {
+      "17092026": "23.08.2026",
+      "cit": "DEL",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - New Delhi",
+      "63279_azn": "707.30 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "New Delhi"
+    },
+    {
+      "17092026": "08.10.2026",
+      "cit": "CIT",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Shymkent",
+      "63279_azn": "340.30 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Shymkent"
+    },
+    {
+      "17092026": "25.07.2026",
+      "cit": "TLV",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Tel Aviv",
+      "63279_azn": "1254.32 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Tel Aviv"
+    },
+    {
+      "17092026": "28.09.2026",
+      "cit": "GUW",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Atyrau",
+      "63279_azn": "647.67 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Atyrau"
+    },
+    {
+      "17092026": "14.10.2026",
+      "cit": "ANK",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Ankara",
+      "63279_azn": "490.52 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Ankara"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "SKD",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Samarkand",
+      "63279_azn": "387.90 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Samarkand"
+    },
+    {
+      "17092026": "17.09.2026",
+      "cit": "DXB",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Dubai",
+      "63279_azn": "505.90 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Dubai"
+    },
+    {
+      "17092026": "13.10.2026",
+      "cit": "SCO",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Aktau",
+      "63279_azn": "319.90 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Aktau"
+    },
+    {
+      "17092026": "31.08.2026",
+      "cit": "IZM",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Izmir",
+      "63279_azn": "638.70 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Izmir"
+    },
+    {
+      "17092026": "15.10.2026",
+      "cit": "LHE",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Lahore",
+      "63279_azn": "645.99 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Lahore"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "IST",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Istanbul",
+      "63279_azn": "356.38 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Istanbul"
+    },
+    {
+      "17092026": "20.10.2026",
+      "cit": "SKD",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Samarkand",
+      "63279_azn": "437.03 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Samarkand"
+    },
+    {
+      "17092026": "19.10.2026",
+      "cit": "LON",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - London",
+      "63279_azn": "532.30 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "London"
+    },
+    {
+      "17092026": "02.08.2026",
+      "cit": "BJS",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Beijing",
+      "63279_azn": "972.55 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Beijing"
+    },
+    {
+      "17092026": "07.09.2026",
+      "cit": "SSH",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Sharm El Sheikh",
+      "63279_azn": "676.50 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "17.08.2026",
+      "cit": "RMO",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Chisinau",
+      "63279_azn": "588.60 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Chisinau"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "BCN",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Barcelona",
+      "63279_azn": "677.12 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Barcelona"
+    },
+    {
+      "17092026": "15.10.2026",
+      "cit": "CIT",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Shymkent",
+      "63279_azn": "431.93 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Shymkent"
+    },
+    {
+      "17092026": "21.09.2026",
+      "cit": "LED",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - St Petersburg",
+      "63279_azn": "620.90 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "St Petersburg"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "KSY",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Kars",
+      "63279_azn": "570.17 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Kars"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "NQZ",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Astana",
+      "63279_azn": "397.40 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Astana"
+    },
+    {
+      "17092026": "20.10.2026",
+      "cit": "BER",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Berlin",
+      "63279_azn": "565.50 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Berlin"
+    },
+    {
+      "17092026": "14.10.2026",
+      "cit": "ALA",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Almaty",
+      "63279_azn": "505.81 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Almaty"
+    },
+    {
+      "17092026": "12.10.2026",
+      "cit": "MOW",
+      "bcn": "GUW",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Atyrau - Moscow",
+      "63279_azn": "423.70 AZN",
+      "barcelona": "Atyrau",
+      "shymkent": "Moscow"
+    },
+    {
+      "17092026": "20.10.2026",
+      "cit": "TLV",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Tel Aviv",
+      "63279_azn": "586.80 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Tel Aviv"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "MOW",
+      "bcn": "COV",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Adana - Mersin - Moscow",
+      "63279_azn": "414.40 AZN",
+      "barcelona": "Adana - Mersin",
+      "shymkent": "Moscow"
+    },
+    {
+      "17092026": "14.10.2026",
+      "cit": "TAS",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Tashkent",
+      "63279_azn": "437.03 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Tashkent"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "THR",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Tehran",
+      "63279_azn": "515.09 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Tehran"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "BOM",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Mumbai",
+      "63279_azn": "523.25 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Mumbai"
+    },
+    {
+      "17092026": "10.10.2026",
+      "cit": "RUH",
+      "bcn": "LED",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? St Petersburg - Riyadh",
+      "63279_azn": "562.25 AZN",
+      "barcelona": "St Petersburg",
+      "shymkent": "Riyadh"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "MIL",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Milan",
+      "63279_azn": "799.20 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Milan"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "TIV",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Tivat",
+      "63279_azn": "806.20 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Tivat"
+    },
+    {
+      "17092026": "16.10.2026",
+      "cit": "TLV",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Tel Aviv",
+      "63279_azn": "739.61 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Tel Aviv"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "TAS",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Tashkent",
+      "63279_azn": "545.40 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Tashkent"
+    },
+    {
+      "17092026": "14.08.2026",
+      "cit": "DLM",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Dalaman",
+      "63279_azn": "925.20 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Dalaman"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "SSH",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Sharm El Sheikh",
+      "63279_azn": "911.10 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "07.08.2026",
+      "cit": "SVX",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Ekaterinburg",
+      "63279_azn": "551.72 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Ekaterinburg"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "ISB",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Islamabad",
+      "63279_azn": "739.95 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Islamabad"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "VIE",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Vienna",
+      "63279_azn": "766.90 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Vienna"
+    },
+    {
+      "17092026": "16.09.2026",
+      "cit": "GUW",
+      "bcn": "TZX",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Trabzon - Atyrau",
+      "63279_azn": "386.90 AZN",
+      "barcelona": "Trabzon",
+      "shymkent": "Atyrau"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "TLV",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Tel Aviv",
+      "63279_azn": "861.30 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Tel Aviv"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "PAR",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Paris",
+      "63279_azn": "868.90 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Paris"
+    },
+    {
+      "17092026": "01.08.2026",
+      "cit": "TBS",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Tbilisi",
+      "63279_azn": "795.00 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Tbilisi"
+    },
+    {
+      "17092026": "06.08.2026",
+      "cit": "DYU",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Dushanbe",
+      "63279_azn": "426.19 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Dushanbe"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "SSH",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Sharm El Sheikh",
+      "63279_azn": "832.75 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Sharm El Sheikh"
+    },
+    {
+      "17092026": "03.10.2026",
+      "cit": "IZM",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Izmir",
+      "63279_azn": "723.70 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Izmir"
+    },
+    {
+      "17092026": "02.10.2026",
+      "cit": "FRU",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Bishkek",
+      "63279_azn": "580.50 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Bishkek"
+    },
+    {
+      "17092026": "05.10.2026",
+      "cit": "LED",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - St Petersburg",
+      "63279_azn": "655.60 AZN",
+      "barcelona": "Prague",
+      "shymkent": "St Petersburg"
+    },
+    {
+      "17092026": "08.08.2026",
+      "cit": "SKD",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Samarkand",
+      "63279_azn": "606.27 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Samarkand"
+    },
+    {
+      "17092026": "16.09.2026",
+      "cit": "BOM",
+      "bcn": "TZX",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Trabzon - Mumbai",
+      "63279_azn": "437.40 AZN",
+      "barcelona": "Trabzon",
+      "shymkent": "Mumbai"
+    },
+    {
+      "17092026": "17.10.2026",
+      "cit": "AYT",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Antalya",
+      "63279_azn": "650.50 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Antalya"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "ANK",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Ankara",
+      "63279_azn": "702.30 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Ankara"
+    },
+    {
+      "17092026": "09.10.2026",
+      "cit": "TAS",
+      "bcn": "TZX",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Trabzon - Tashkent",
+      "63279_azn": "312.10 AZN",
+      "barcelona": "Trabzon",
+      "shymkent": "Tashkent"
+    },
+    {
+      "17092026": "11.10.2026",
+      "cit": "ISB",
+      "bcn": "TZX",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Trabzon - Islamabad",
+      "63279_azn": "506.90 AZN",
+      "barcelona": "Trabzon",
+      "shymkent": "Islamabad"
+    },
+    {
+      "17092026": "06.10.2026",
+      "cit": "COV",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Adana - Mersin",
+      "63279_azn": "650.50 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Adana - Mersin"
+    },
+    {
+      "17092026": "18.09.2026",
+      "cit": "DXB",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Dubai",
+      "63279_azn": "783.80 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Dubai"
+    },
+    {
+      "17092026": "19.08.2026",
+      "cit": "GUW",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Atyrau",
+      "63279_azn": "601.17 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Atyrau"
+    },
+    {
+      "17092026": "19.09.2026",
+      "cit": "IST",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Istanbul",
+      "63279_azn": "608.00 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Istanbul"
+    },
+    {
+      "17092026": "18.09.2026",
+      "cit": "DMM",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Dammam",
+      "63279_azn": "704.30 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Dammam"
+    },
+    {
+      "17092026": "01.10.2026",
+      "cit": "CIT",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Prague - Shymkent",
+      "63279_azn": "540.46 AZN",
+      "barcelona": "Prague",
+      "shymkent": "Shymkent"
+    },
+    {
+      "17092026": "16.09.2026",
+      "cit": "TBZ",
+      "bcn": "TZX",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Trabzon - Tabriz",
+      "63279_azn": "322.30 AZN",
+      "barcelona": "Trabzon",
+      "shymkent": "Tabriz"
+    },
+    {
+      "17092026": "22.10.2026",
+      "cit": "CIT",
+      "bcn": "TZX",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Trabzon - Shymkent",
+      "63279_azn": "307.00 AZN",
+      "barcelona": "Trabzon",
+      "shymkent": "Shymkent"
+    },
+    {
+      "17092026": "18.09.2026",
+      "cit": "BAK",
+      "bcn": "LHE",
+      "____barcelona__shymkent": "???????? ?????? ?? ??????????? Lahore - Baku",
+      "63279_azn": "566.70 AZN",
+      "barcelona": "Lahore",
+      "shymkent": "Baku"
+    },
+    {
+      "17092026": "",
+      "cit": "DXB",
+      "bcn": "PRG",
+      "____barcelona__shymkent": "",
+      "63279_azn": "",
       "barcelona": "",
       "shymkent": ""
     }
