@@ -5417,6 +5417,105 @@
       "barcelona": "Prague",
       "islamabad": "Tel Aviv",
       "03102026": "03.08.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "PRG",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Prague - Almaty",
+      "84459_azn": "511.34 AZN",
+      "barcelona": "Prague",
+      "islamabad": "Almaty",
+      "03102026": "07.08.2026"
+    },
+    {
+      "isb": "COV",
+      "bcn": "LHE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Lahore - Adana - Mersin",
+      "84459_azn": "650.10 AZN",
+      "barcelona": "Lahore",
+      "islamabad": "Adana - Mersin",
+      "03102026": "06.10.2026"
+    },
+    {
+      "isb": "MIL",
+      "bcn": "LED",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? St Petersburg - Milan",
+      "84459_azn": "597.73 AZN",
+      "barcelona": "St Petersburg",
+      "islamabad": "Milan",
+      "03102026": "21.10.2026"
+    },
+    {
+      "isb": "VIE",
+      "bcn": "LED",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? St Petersburg - Vienna",
+      "84459_azn": "562.84 AZN",
+      "barcelona": "St Petersburg",
+      "islamabad": "Vienna",
+      "03102026": "10.10.2026"
+    },
+    {
+      "isb": "RMO",
+      "bcn": "LED",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? St Petersburg - Chisinau",
+      "84459_azn": "595.82 AZN",
+      "barcelona": "St Petersburg",
+      "islamabad": "Chisinau",
+      "03102026": "04.08.2026"
+    },
+    {
+      "isb": "DLM",
+      "bcn": "LHE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Lahore - Dalaman",
+      "84459_azn": "924.80 AZN",
+      "barcelona": "Lahore",
+      "islamabad": "Dalaman",
+      "03102026": "14.08.2026"
+    },
+    {
+      "isb": "ALA",
+      "bcn": "LED",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? St Petersburg - Almaty",
+      "84459_azn": "504.45 AZN",
+      "barcelona": "St Petersburg",
+      "islamabad": "Almaty",
+      "03102026": "15.10.2026"
+    },
+    {
+      "isb": "NQZ",
+      "bcn": "LED",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? St Petersburg - Astana",
+      "84459_azn": "442.42 AZN",
+      "barcelona": "St Petersburg",
+      "islamabad": "Astana",
+      "03102026": "15.10.2026"
+    },
+    {
+      "isb": "PRG",
+      "bcn": "LHE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Lahore - Prague",
+      "84459_azn": "771.50 AZN",
+      "barcelona": "Lahore",
+      "islamabad": "Prague",
+      "03102026": "09.10.2026"
+    },
+    {
+      "isb": "BCN",
+      "bcn": "LHE",
+      "____barcelona__islamabad": "???????? ?????? ?? ??????????? Lahore - Barcelona",
+      "84459_azn": "868.40 AZN",
+      "barcelona": "Lahore",
+      "islamabad": "Barcelona",
+      "03102026": "27.10.2026"
+    },
+    {
+      "isb": "IST",
+      "bcn": "LHE",
+      "____barcelona__islamabad": "",
+      "84459_azn": "",
+      "barcelona": "",
+      "islamabad": "",
+      "03102026": ""
     }
   ]
 }
