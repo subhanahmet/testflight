@@ -6643,13 +6643,2074 @@
       "ekaterinburg": "Doha"
     },
     {
-      "20092026": "",
+      "20092026": "06.09.2026",
       "svx": "MIL",
-      "bcn": "",
-      "____barcelona__ekaterinburg": "",
-      "80304_azn": "",
-      "barcelona": "",
-      "ekaterinburg": ""
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Milan",
+      "80304_azn": "514.80 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "20092026": "25.08.2026",
+      "svx": "DEL",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - New Delhi",
+      "80304_azn": "559.05 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "20092026": "04.10.2026",
+      "svx": "TBZ",
+      "bcn": "LON",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? London - Tabriz",
+      "80304_azn": "772.83 AZN",
+      "barcelona": "London",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "DYU",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Dushanbe",
+      "80304_azn": "489.72 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "AYT",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Antalya",
+      "80304_azn": "423.99 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "20092026": "25.09.2026",
+      "svx": "BAK",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Baku",
+      "80304_azn": "288.00 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "17.09.2026",
+      "svx": "IST",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Istanbul",
+      "80304_azn": "335.64 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "20092026": "27.08.2026",
+      "svx": "LHE",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Lahore",
+      "80304_azn": "753.75 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "20092026": "07.09.2026",
+      "svx": "TLV",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Tel Aviv",
+      "80304_azn": "1102.00 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "20092026": "13.10.2026",
+      "svx": "SKD",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Samarkand",
+      "80304_azn": "551.42 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "20092026": "25.10.2026",
+      "svx": "DXB",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Dubai",
+      "80304_azn": "473.36 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "20092026": "25.08.2026",
+      "svx": "TAS",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Tashkent",
+      "80304_azn": "560.35 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "MOW",
+      "bcn": "LON",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? London - Moscow",
+      "80304_azn": "727.75 AZN",
+      "barcelona": "London",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "25.08.2026",
+      "svx": "TZX",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Trabzon",
+      "80304_azn": "484.84 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "SCO",
+      "bcn": "LON",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? London - Aktau",
+      "80304_azn": "753.79 AZN",
+      "barcelona": "London",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "20092026": "17.09.2026",
+      "svx": "RUH",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Riyadh",
+      "80304_azn": "533.08 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "20092026": "17.09.2026",
+      "svx": "PRG",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Prague",
+      "80304_azn": "499.04 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "20092026": "09.10.2026",
+      "svx": "FRU",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Bishkek",
+      "80304_azn": "672.56 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "20092026": "03.11.2026",
+      "svx": "TLV",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Tel Aviv",
+      "80304_azn": "399.34 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "20092026": "22.09.2026",
+      "svx": "MOW",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Moscow",
+      "80304_azn": "552.29 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "21.09.2026",
+      "svx": "AKX",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Aktobe",
+      "80304_azn": "473.73 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Aktobe"
+    },
+    {
+      "20092026": "03.11.2026",
+      "svx": "IZM",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Izmir",
+      "80304_azn": "492.91 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "20092026": "11.09.2026",
+      "svx": "ALA",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Almaty",
+      "80304_azn": "649.66 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "20092026": "22.09.2026",
+      "svx": "BAK",
+      "bcn": "UGC",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Urgench - Baku",
+      "80304_azn": "592.85 AZN",
+      "barcelona": "Urgench",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "25.08.2026",
+      "svx": "BOM",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Mumbai",
+      "80304_azn": "568.95 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "20092026": "18.09.2026",
+      "svx": "DMM",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Dammam",
+      "80304_azn": "467.26 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "20092026": "04.10.2026",
+      "svx": "KSY",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Kars",
+      "80304_azn": "477.60 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Kars"
+    },
+    {
+      "20092026": "04.09.2026",
+      "svx": "NQZ",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Astana",
+      "80304_azn": "549.88 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "20092026": "27.10.2026",
+      "svx": "JED",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Jeddah",
+      "80304_azn": "499.38 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "LED",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - St Petersburg",
+      "80304_azn": "543.20 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "RMO",
+      "bcn": "DEL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? New Delhi - Chisinau",
+      "80304_azn": "479.46 AZN",
+      "barcelona": "New Delhi",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "20092026": "25.08.2026",
+      "svx": "FRU",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Bishkek",
+      "80304_azn": "704.45 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "20092026": "31.08.2026",
+      "svx": "GUW",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Atyrau",
+      "80304_azn": "555.25 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Atyrau"
+    },
+    {
+      "20092026": "24.09.2026",
+      "svx": "BAK",
+      "bcn": "DOH",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Doha - Baku",
+      "80304_azn": "941.50 AZN",
+      "barcelona": "Doha",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "25.08.2026",
+      "svx": "SKD",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Samarkand",
+      "80304_azn": "667.45 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "NQZ",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Astana",
+      "80304_azn": "734.74 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "20092026": "31.08.2026",
+      "svx": "RMO",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Chisinau",
+      "80304_azn": "728.45 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "20092026": "13.09.2026",
+      "svx": "TBS",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Tbilisi",
+      "80304_azn": "536.08 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "LON",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - London",
+      "80304_azn": "698.48 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "London"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "FRU",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Bishkek",
+      "80304_azn": "543.29 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "IST",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Istanbul",
+      "80304_azn": "502.48 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "TAS",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Tashkent",
+      "80304_azn": "412.17 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "MOW",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Moscow",
+      "80304_azn": "536.58 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "13.09.2026",
+      "svx": "GUW",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Atyrau",
+      "80304_azn": "467.76 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Atyrau"
+    },
+    {
+      "20092026": "06.10.2026",
+      "svx": "SKD",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Samarkand",
+      "80304_azn": "491.37 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "BER",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Berlin",
+      "80304_azn": "648.67 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "20092026": "06.10.2026",
+      "svx": "PAR",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Paris",
+      "80304_azn": "639.02 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "LED",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - St Petersburg",
+      "80304_azn": "748.00 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "20092026": "06.10.2026",
+      "svx": "SVX",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Ekaterinburg",
+      "80304_azn": "555.44 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Ekaterinburg"
+    },
+    {
+      "20092026": "15.10.2026",
+      "svx": "TZX",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Trabzon",
+      "80304_azn": "430.01 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "MOW",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Moscow",
+      "80304_azn": "646.00 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "BAK",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Baku",
+      "80304_azn": "437.80 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "17.10.2026",
+      "svx": "AYT",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Antalya",
+      "80304_azn": "489.57 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "LED",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - St Petersburg",
+      "80304_azn": "580.29 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "MIL",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Milan",
+      "80304_azn": "567.24 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "BAK",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Baku",
+      "80304_azn": "293.80 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "CIT",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Shymkent",
+      "80304_azn": "486.27 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "TAS",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Tashkent",
+      "80304_azn": "491.37 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "ISB",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Islamabad",
+      "80304_azn": "733.04 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "DYU",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Dushanbe",
+      "80304_azn": "442.92 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "MOW",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Moscow",
+      "80304_azn": "960.41 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "BCN",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Barcelona",
+      "80304_azn": "639.02 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "KSY",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Kars",
+      "80304_azn": "506.13 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Kars"
+    },
+    {
+      "20092026": "28.10.2026",
+      "svx": "MLE",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Male",
+      "80304_azn": "809.55 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Male"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "BOM",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Mumbai",
+      "80304_azn": "528.11 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "DEL",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - New Delhi",
+      "80304_azn": "509.90 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "20092026": "13.09.2026",
+      "svx": "BAK",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Baku",
+      "80304_azn": "499.33 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "TBS",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Tbilisi",
+      "80304_azn": "398.69 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "04.10.2026",
+      "svx": "SVX",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Ekaterinburg",
+      "80304_azn": "547.92 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Ekaterinburg"
+    },
+    {
+      "20092026": "15.09.2026",
+      "svx": "LED",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - St Petersburg",
+      "80304_azn": "927.42 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "20092026": "03.10.2026",
+      "svx": "MSQ",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Minsk",
+      "80304_azn": "697.75 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "20092026": "27.08.2026",
+      "svx": "NQZ",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Astana",
+      "80304_azn": "568.45 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "PRG",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Prague",
+      "80304_azn": "539.17 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "ALA",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Almaty",
+      "80304_azn": "477.54 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "MIL",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Milan",
+      "80304_azn": "707.73 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "ALA",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Almaty",
+      "80304_azn": "628.30 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "20092026": "28.08.2026",
+      "svx": "SCO",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Aktau",
+      "80304_azn": "492.35 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "LHE",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Lahore",
+      "80304_azn": "733.04 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "20092026": "03.10.2026",
+      "svx": "PAR",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Paris",
+      "80304_azn": "758.64 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "20092026": "03.09.2026",
+      "svx": "CIT",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Shymkent",
+      "80304_azn": "632.80 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "IZM",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Izmir",
+      "80304_azn": "490.82 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "20092026": "13.10.2026",
+      "svx": "ANK",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Ankara",
+      "80304_azn": "469.12 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "TZX",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Trabzon",
+      "80304_azn": "545.40 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "BCN",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Barcelona",
+      "80304_azn": "758.64 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "TIV",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Tivat",
+      "80304_azn": "574.31 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "LON",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - London",
+      "80304_azn": "576.90 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "London"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "COV",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Adana - Mersin",
+      "80304_azn": "416.41 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "RMO",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Chisinau",
+      "80304_azn": "517.71 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "AKX",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Aktobe",
+      "80304_azn": "486.27 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Aktobe"
+    },
+    {
+      "20092026": "27.10.2026",
+      "svx": "BJS",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Beijing",
+      "80304_azn": "1153.43 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Beijing"
+    },
+    {
+      "20092026": "25.08.2026",
+      "svx": "ALA",
+      "bcn": "DLM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dalaman - Almaty",
+      "80304_azn": "624.55 AZN",
+      "barcelona": "Dalaman",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "BOM",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Mumbai",
+      "80304_azn": "449.89 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "BER",
+      "bcn": "DMM",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dammam - Berlin",
+      "80304_azn": "535.67 AZN",
+      "barcelona": "Dammam",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "20092026": "17.09.2026",
+      "svx": "SVX",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Ekaterinburg",
+      "80304_azn": "739.66 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Ekaterinburg"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "ISB",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Islamabad",
+      "80304_azn": "716.03 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "20092026": "02.11.2026",
+      "svx": "TLV",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Tel Aviv",
+      "80304_azn": "574.18 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "20092026": "23.10.2026",
+      "svx": "ANK",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Ankara",
+      "80304_azn": "350.77 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "DXB",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Dubai",
+      "80304_azn": "745.97 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "ALA",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Almaty",
+      "80304_azn": "609.40 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "20092026": "10.10.2026",
+      "svx": "TIV",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Tivat",
+      "80304_azn": "449.31 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "20092026": "02.11.2026",
+      "svx": "VIE",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Vienna",
+      "80304_azn": "508.40 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "DEL",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - New Delhi",
+      "80304_azn": "546.53 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "AYT",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Antalya",
+      "80304_azn": "340.96 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "20092026": "03.10.2026",
+      "svx": "RUH",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Riyadh",
+      "80304_azn": "470.67 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "20092026": "23.10.2026",
+      "svx": "TBS",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Tbilisi",
+      "80304_azn": "240.50 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "DMM",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Dammam",
+      "80304_azn": "1097.70 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "20092026": "05.10.2026",
+      "svx": "ANK",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Ankara",
+      "80304_azn": "563.91 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "SSH",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Sharm El Sheikh",
+      "80304_azn": "897.89 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "TBS",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Tbilisi",
+      "80304_azn": "566.31 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "BOM",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Mumbai",
+      "80304_azn": "554.11 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "20092026": "28.10.2026",
+      "svx": "MLE",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Male",
+      "80304_azn": "1141.46 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Male"
+    },
+    {
+      "20092026": "06.10.2026",
+      "svx": "SKD",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Samarkand",
+      "80304_azn": "645.98 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "AKX",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Aktobe",
+      "80304_azn": "573.91 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Aktobe"
+    },
+    {
+      "20092026": "20.08.2026",
+      "svx": "DYU",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Dushanbe",
+      "80304_azn": "727.82 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "20092026": "03.09.2026",
+      "svx": "CIT",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Shymkent",
+      "80304_azn": "544.37 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "20092026": "05.10.2026",
+      "svx": "LED",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - St Petersburg",
+      "80304_azn": "457.19 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "LED",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - St Petersburg",
+      "80304_azn": "765.27 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "20092026": "12.10.2026",
+      "svx": "JED",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Jeddah",
+      "80304_azn": "774.88 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "20092026": "05.10.2026",
+      "svx": "BUS",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Batumi",
+      "80304_azn": "368.49 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "BOM",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Mumbai",
+      "80304_azn": "330.73 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "20092026": "23.10.2026",
+      "svx": "LON",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - London",
+      "80304_azn": "478.85 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "London"
+    },
+    {
+      "20092026": "02.11.2026",
+      "svx": "JED",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Jeddah",
+      "80304_azn": "691.34 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "20092026": "02.11.2026",
+      "svx": "MIL",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Milan",
+      "80304_azn": "634.45 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "20092026": "03.10.2026",
+      "svx": "BCN",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Barcelona",
+      "80304_azn": "723.08 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "TLV",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Tel Aviv",
+      "80304_azn": "1020.70 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "20092026": "14.11.2026",
+      "svx": "SSH",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Sharm El Sheikh",
+      "80304_azn": "1356.40 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "20092026": "24.09.2026",
+      "svx": "MSQ",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Minsk",
+      "80304_azn": "940.52 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Minsk"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "RMO",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Chisinau",
+      "80304_azn": "520.23 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "20092026": "23.10.2026",
+      "svx": "IZM",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Izmir",
+      "80304_azn": "372.47 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "20092026": "23.10.2026",
+      "svx": "BAK",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Baku",
+      "80304_azn": "171.47 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "02.09.2026",
+      "svx": "GUW",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Atyrau",
+      "80304_azn": "518.77 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Atyrau"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "JED",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Jeddah",
+      "80304_azn": "1129.40 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "20092026": "03.09.2026",
+      "svx": "LHE",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Lahore",
+      "80304_azn": "716.03 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "DMM",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Dammam",
+      "80304_azn": "634.97 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "20092026": "11.09.2026",
+      "svx": "PAR",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Paris",
+      "80304_azn": "965.34 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "20092026": "23.10.2026",
+      "svx": "TZX",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Trabzon",
+      "80304_azn": "309.41 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "20092026": "02.11.2026",
+      "svx": "TLV",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Tel Aviv",
+      "80304_azn": "687.60 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "20092026": "14.09.2026",
+      "svx": "SCO",
+      "bcn": "DXB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dubai - Aktau",
+      "80304_azn": "620.48 AZN",
+      "barcelona": "Dubai",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "20092026": "14.10.2026",
+      "svx": "FRU",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Bishkek",
+      "80304_azn": "615.58 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "THR",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Tehran",
+      "80304_azn": "589.91 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "NQZ",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Astana",
+      "80304_azn": "524.71 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "SCO",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Aktau",
+      "80304_azn": "491.19 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "20092026": "09.10.2026",
+      "svx": "DXB",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Dubai",
+      "80304_azn": "406.38 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "TBS",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Tbilisi",
+      "80304_azn": "1047.90 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "MOW",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Moscow",
+      "80304_azn": "678.61 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "26.08.2026",
+      "svx": "BJV",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Bodrum",
+      "80304_azn": "508.41 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "RUH",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Riyadh",
+      "80304_azn": "568.00 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "20092026": "07.10.2026",
+      "svx": "TAS",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Tashkent",
+      "80304_azn": "579.01 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "BAK",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Baku",
+      "80304_azn": "453.94 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "DLM",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Dalaman",
+      "80304_azn": "482.80 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "TBZ",
+      "bcn": "MIL",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Milan - Tabriz",
+      "80304_azn": "501.31 AZN",
+      "barcelona": "Milan",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "20092026": "02.11.2026",
+      "svx": "PRG",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Prague",
+      "80304_azn": "553.70 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "20092026": "23.10.2026",
+      "svx": "IST",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Istanbul",
+      "80304_azn": "380.34 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "20092026": "03.10.2026",
+      "svx": "SSH",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Sharm El Sheikh",
+      "80304_azn": "552.39 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "20092026": "05.11.2026",
+      "svx": "TZX",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Trabzon",
+      "80304_azn": "1041.30 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "20092026": "03.10.2026",
+      "svx": "MOW",
+      "bcn": "DYU",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Dushanbe - Moscow",
+      "80304_azn": "409.92 AZN",
+      "barcelona": "Dushanbe",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "PAR",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Paris",
+      "80304_azn": "1255.00 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "20092026": "15.09.2026",
+      "svx": "TBZ",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Tabriz",
+      "80304_azn": "431.80 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Tabriz"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "LED",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - St Petersburg",
+      "80304_azn": "1093.40 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "St Petersburg"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "DLM",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Dalaman",
+      "80304_azn": "576.15 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "LHE",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Lahore",
+      "80304_azn": "437.26 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Lahore"
+    },
+    {
+      "20092026": "29.09.2026",
+      "svx": "BAK",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Baku",
+      "80304_azn": "292.39 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "TBS",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Tbilisi",
+      "80304_azn": "590.90 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "BER",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Berlin",
+      "80304_azn": "1142.20 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "DXB",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Dubai",
+      "80304_azn": "939.80 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "20092026": "27.10.2026",
+      "svx": "MLE",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Male",
+      "80304_azn": "972.03 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Male"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "SKD",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Samarkand",
+      "80304_azn": "510.04 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Samarkand"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "AKX",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Aktobe",
+      "80304_azn": "504.94 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Aktobe"
+    },
+    {
+      "20092026": "19.08.2026",
+      "svx": "KSY",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Kars",
+      "80304_azn": "542.63 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Kars"
+    },
+    {
+      "20092026": "26.08.2026",
+      "svx": "NQZ",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Astana",
+      "80304_azn": "469.52 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Astana"
+    },
+    {
+      "20092026": "11.10.2026",
+      "svx": "TLV",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Tel Aviv",
+      "80304_azn": "784.72 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "LON",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - London",
+      "80304_azn": "889.14 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "London"
+    },
+    {
+      "20092026": "05.11.2026",
+      "svx": "RMO",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Chisinau",
+      "80304_azn": "1197.30 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "20092026": "14.10.2026",
+      "svx": "BCN",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Barcelona",
+      "80304_azn": "944.29 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "BJV",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Bodrum",
+      "80304_azn": "576.15 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Bodrum"
+    },
+    {
+      "20092026": "29.09.2026",
+      "svx": "BOM",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Mumbai",
+      "80304_azn": "374.83 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "20092026": "30.09.2026",
+      "svx": "SCO",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Aktau",
+      "80304_azn": "434.03 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Aktau"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "TBS",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Tbilisi",
+      "80304_azn": "416.57 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "RUH",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Riyadh",
+      "80304_azn": "646.75 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Riyadh"
+    },
+    {
+      "20092026": "04.10.2026",
+      "svx": "ANK",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Ankara",
+      "80304_azn": "566.23 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Ankara"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "TAS",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Tashkent",
+      "80304_azn": "460.80 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "20092026": "29.10.2026",
+      "svx": "LON",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - London",
+      "80304_azn": "1192.10 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "London"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "BOM",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Mumbai",
+      "80304_azn": "888.73 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Mumbai"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "BCN",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Barcelona",
+      "80304_azn": "1255.00 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "ALA",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Almaty",
+      "80304_azn": "516.79 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Almaty"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "PRG",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Prague",
+      "80304_azn": "830.05 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "20092026": "20.09.2026",
+      "svx": "JED",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Jeddah",
+      "80304_azn": "536.51 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "MIL",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Milan",
+      "80304_azn": "676.59 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "20092026": "01.10.2026",
+      "svx": "IST",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Istanbul",
+      "80304_azn": "687.39 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "SSH",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Sharm El Sheikh",
+      "80304_azn": "734.37 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "IST",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Istanbul",
+      "80304_azn": "371.28 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "20092026": "31.08.2026",
+      "svx": "BCN",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Barcelona",
+      "80304_azn": "639.87 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Barcelona"
+    },
+    {
+      "20092026": "27.08.2026",
+      "svx": "VIE",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Vienna",
+      "80304_azn": "568.27 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Vienna"
+    },
+    {
+      "20092026": "22.10.2026",
+      "svx": "BJS",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Beijing",
+      "80304_azn": "1251.55 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Beijing"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "AYT",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Antalya",
+      "80304_azn": "400.82 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Antalya"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "DXB",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Dubai",
+      "80304_azn": "912.64 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Dubai"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "DYU",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Dushanbe",
+      "80304_azn": "240.30 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Dushanbe"
+    },
+    {
+      "20092026": "29.09.2026",
+      "svx": "DEL",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - New Delhi",
+      "80304_azn": "436.19 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "New Delhi"
+    },
+    {
+      "20092026": "30.09.2026",
+      "svx": "COV",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Adana - Mersin",
+      "80304_azn": "552.48 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Adana - Mersin"
+    },
+    {
+      "20092026": "14.10.2026",
+      "svx": "TAS",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Tashkent",
+      "80304_azn": "845.78 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "20092026": "11.10.2026",
+      "svx": "JED",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Jeddah",
+      "80304_azn": "1016.93 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Jeddah"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "BAK",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Baku",
+      "80304_azn": "477.37 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "MOW",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Moscow",
+      "80304_azn": "1057.70 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Moscow"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "IST",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Istanbul",
+      "80304_azn": "995.20 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Istanbul"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "MIL",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Milan",
+      "80304_azn": "1202.30 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Milan"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "LON",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - London",
+      "80304_azn": "336.81 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "London"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "BER",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Berlin",
+      "80304_azn": "529.98 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Berlin"
+    },
+    {
+      "20092026": "01.09.2026",
+      "svx": "RMO",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Chisinau",
+      "80304_azn": "810.54 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Chisinau"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "PRG",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Prague",
+      "80304_azn": "755.38 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Prague"
+    },
+    {
+      "20092026": "30.08.2026",
+      "svx": "GUW",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Atyrau",
+      "80304_azn": "455.70 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Atyrau"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "IZM",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Izmir",
+      "80304_azn": "528.85 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "20092026": "01.11.2026",
+      "svx": "TLV",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Tel Aviv",
+      "80304_azn": "605.66 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Tel Aviv"
+    },
+    {
+      "20092026": "15.09.2026",
+      "svx": "TIV",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Tivat",
+      "80304_azn": "702.20 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Tivat"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "BAK",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Baku",
+      "80304_azn": "885.20 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Baku"
+    },
+    {
+      "20092026": "30.08.2026",
+      "svx": "BJS",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Beijing",
+      "80304_azn": "769.17 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Beijing"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "CIT",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Shymkent",
+      "80304_azn": "504.94 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Shymkent"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "THR",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Tehran",
+      "80304_azn": "519.80 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Tehran"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "PAR",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Paris",
+      "80304_azn": "1182.61 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "20092026": "08.10.2026",
+      "svx": "BUS",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Batumi",
+      "80304_azn": "721.66 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Batumi"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "SSH",
+      "bcn": "MSQ",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Minsk - Sharm El Sheikh",
+      "80304_azn": "1222.67 AZN",
+      "barcelona": "Minsk",
+      "ekaterinburg": "Sharm El Sheikh"
+    },
+    {
+      "20092026": "26.10.2026",
+      "svx": "IZM",
+      "bcn": "MLE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Male - Izmir",
+      "80304_azn": "1057.90 AZN",
+      "barcelona": "Male",
+      "ekaterinburg": "Izmir"
+    },
+    {
+      "20092026": "03.09.2026",
+      "svx": "PAR",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Paris",
+      "80304_azn": "684.47 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Paris"
+    },
+    {
+      "20092026": "19.09.2026",
+      "svx": "FRU",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Bishkek",
+      "80304_azn": "552.51 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Bishkek"
+    },
+    {
+      "20092026": "23.08.2026",
+      "svx": "TZX",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Trabzon",
+      "80304_azn": "473.67 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Trabzon"
+    },
+    {
+      "20092026": "24.08.2026",
+      "svx": "ISB",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Islamabad",
+      "80304_azn": "589.94 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Islamabad"
+    },
+    {
+      "20092026": "16.09.2026",
+      "svx": "DMM",
+      "bcn": "MOW",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Moscow - Dammam",
+      "80304_azn": "497.06 AZN",
+      "barcelona": "Moscow",
+      "ekaterinburg": "Dammam"
+    },
+    {
+      "20092026": "26.08.2026",
+      "svx": "DLM",
+      "bcn": "ISB",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Islamabad - Dalaman",
+      "80304_azn": "829.85 AZN",
+      "barcelona": "Islamabad",
+      "ekaterinburg": "Dalaman"
+    },
+    {
+      "20092026": "09.10.2026",
+      "svx": "TAS",
+      "bcn": "VIE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Vienna - Tashkent",
+      "80304_azn": "578.39 AZN",
+      "barcelona": "Vienna",
+      "ekaterinburg": "Tashkent"
+    },
+    {
+      "20092026": "18.09.2026",
+      "svx": "TBS",
+      "bcn": "VIE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Vienna - Tbilisi",
+      "80304_azn": "501.46 AZN",
+      "barcelona": "Vienna",
+      "ekaterinburg": "Tbilisi"
+    },
+    {
+      "20092026": "30.10.2026",
+      "svx": "MLE",
+      "bcn": "VIE",
+      "____barcelona__ekaterinburg": "???????? ?????? ?? ??????????? Vienna - Male",
+      "80304_azn": "1111.29 AZN",
+      "barcelona": "Vienna",
+      "ekaterinburg": "Male"
     }
   ]
 }
