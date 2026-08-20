@@ -9249,8 +9249,3491 @@
       "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Jeddah",
       "78925_azn": "460.70 AZN",
       "barcelona": "Istanbul",
-      "st_petersburg": "",
-      "01092026": ""
+      "st_petersburg": "Jeddah",
+      "01092026": "12.10.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Islamabad",
+      "78925_azn": "523.30 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Islamabad",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Baku",
+      "78925_azn": "245.70 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Baku",
+      "01092026": "16.11.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Ekaterinburg",
+      "78925_azn": "518.20 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Mumbai",
+      "78925_azn": "336.80 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Mumbai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "TAS",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Tashkent",
+      "78925_azn": "359.70 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Tashkent",
+      "01092026": "11.10.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Tbilisi",
+      "78925_azn": "284.90 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Tbilisi",
+      "01092026": "17.10.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Dammam",
+      "78925_azn": "419.60 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Dammam",
+      "01092026": "16.10.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Sharm El Sheikh",
+      "78925_azn": "598.40 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "04.10.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Tbilisi",
+      "78925_azn": "315.10 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Tbilisi",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "THR",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Tehran",
+      "78925_azn": "378.50 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Tehran",
+      "01092026": "11.10.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Moscow",
+      "78925_azn": "469.70 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Moscow",
+      "01092026": "04.10.2026"
+    },
+    {
+      "led": "TIV",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Tivat",
+      "78925_azn": "511.90 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Tivat",
+      "01092026": "24.09.2026"
+    },
+    {
+      "led": "FRU",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Bishkek",
+      "78925_azn": "372.00 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Bishkek",
+      "01092026": "02.10.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Tel Aviv",
+      "78925_azn": "333.40 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "01.11.2026"
+    },
+    {
+      "led": "AKX",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Aktobe",
+      "78925_azn": "333.40 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Aktobe",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "BUS",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Batumi",
+      "78925_azn": "451.45 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Batumi",
+      "01092026": "24.08.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Ekaterinburg",
+      "78925_azn": "488.40 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "04.10.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - New Delhi",
+      "78925_azn": "326.90 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "New Delhi",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Mumbai",
+      "78925_azn": "440.25 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Mumbai",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "FRU",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Bishkek",
+      "78925_azn": "394.90 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Bishkek",
+      "01092026": "17.10.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Jeddah",
+      "78925_azn": "580.50 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Jeddah",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "DYU",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Dushanbe",
+      "78925_azn": "300.20 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Dushanbe",
+      "01092026": "30.10.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Baku",
+      "78925_azn": "291.60 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Baku",
+      "01092026": "11.10.2026"
+    },
+    {
+      "led": "CIT",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Shymkent",
+      "78925_azn": "354.60 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Shymkent",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Tel Aviv",
+      "78925_azn": "651.70 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "03.11.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Dammam",
+      "78925_azn": "358.60 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Dammam",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Tbilisi",
+      "78925_azn": "295.90 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Tbilisi",
+      "01092026": "30.09.2026"
+    },
+    {
+      "led": "MLE",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Male",
+      "78925_azn": "830.20 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Male",
+      "01092026": "30.10.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - St Petersburg",
+      "78925_azn": "513.90 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "St Petersburg",
+      "01092026": "06.10.2026"
+    },
+    {
+      "led": "AYT",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Antalya",
+      "78925_azn": "423.90 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Antalya",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "SKD",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Samarkand",
+      "78925_azn": "359.70 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Samarkand",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Dubai",
+      "78925_azn": "504.10 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Dubai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BJS",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Beijing",
+      "78925_azn": "583.55 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Beijing",
+      "01092026": "29.08.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Sharm El Sheikh",
+      "78925_azn": "590.80 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Prague",
+      "78925_azn": "627.60 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Prague",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Chisinau",
+      "78925_azn": "481.00 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Chisinau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - New Delhi",
+      "78925_azn": "380.40 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "New Delhi",
+      "01092026": "17.11.2026"
+    },
+    {
+      "led": "AKX",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Aktobe",
+      "78925_azn": "354.60 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Aktobe",
+      "01092026": "16.10.2026"
+    },
+    {
+      "led": "CIT",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Shymkent",
+      "78925_azn": "333.40 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Shymkent",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - St Petersburg",
+      "78925_azn": "504.60 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "St Petersburg",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "TBZ",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Tabriz",
+      "78925_azn": "290.00 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Tabriz",
+      "01092026": "11.10.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Mumbai",
+      "78925_azn": "410.40 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Mumbai",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Sharm El Sheikh",
+      "78925_azn": "616.80 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Jeddah",
+      "78925_azn": "488.40 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Jeddah",
+      "01092026": "27.10.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Riyadh",
+      "78925_azn": "484.20 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Riyadh",
+      "01092026": "17.10.2026"
+    },
+    {
+      "led": "GUW",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Atyrau",
+      "78925_azn": "333.40 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Atyrau",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "DOH",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Doha",
+      "78925_azn": "362.10 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Doha",
+      "01092026": "26.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "RIX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riga - Baku",
+      "78925_azn": "717.96 AZN",
+      "barcelona": "Riga",
+      "st_petersburg": "Baku",
+      "01092026": "21.08.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Islamabad",
+      "78925_azn": "553.00 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Islamabad",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "GUW",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Atyrau",
+      "78925_azn": "354.60 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Atyrau",
+      "01092026": "11.10.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Astana",
+      "78925_azn": "369.90 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Astana",
+      "01092026": "18.10.2026"
+    },
+    {
+      "led": "TZX",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Trabzon",
+      "78925_azn": "368.00 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Trabzon",
+      "01092026": "15.10.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Astana",
+      "78925_azn": "346.50 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Astana",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "SCO",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Aktau",
+      "78925_azn": "270.50 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Aktau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Almaty",
+      "78925_azn": "424.30 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Almaty",
+      "01092026": "18.10.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Tel Aviv",
+      "78925_azn": "354.60 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "31.10.2026"
+    },
+    {
+      "led": "MSQ",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Minsk",
+      "78925_azn": "666.40 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Minsk",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "SKD",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Samarkand",
+      "78925_azn": "338.50 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Samarkand",
+      "01092026": "12.10.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "IST",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Istanbul - Almaty",
+      "78925_azn": "402.60 AZN",
+      "barcelona": "Istanbul",
+      "st_petersburg": "Almaty",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "LHE",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Lahore",
+      "78925_azn": "553.00 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Lahore",
+      "01092026": "23.10.2026"
+    },
+    {
+      "led": "SCO",
+      "bcn": "IZM",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Izmir - Aktau",
+      "78925_azn": "292.10 AZN",
+      "barcelona": "Izmir",
+      "st_petersburg": "Aktau",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Paris",
+      "78925_azn": "644.60 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Paris",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Ekaterinburg",
+      "78925_azn": "592.23 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "FRU",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Bishkek",
+      "78925_azn": "539.05 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Bishkek",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Barcelona",
+      "78925_azn": "739.95 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Barcelona",
+      "01092026": "09.09.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Dubai",
+      "78925_azn": "451.80 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Dubai",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Jeddah",
+      "78925_azn": "702.29 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Jeddah",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "TIV",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Tivat",
+      "78925_azn": "602.70 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Tivat",
+      "01092026": "24.09.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Almaty",
+      "78925_azn": "566.36 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Almaty",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "GUW",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Atyrau",
+      "78925_azn": "493.45 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Atyrau",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Astana",
+      "78925_azn": "503.33 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Astana",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Tbilisi",
+      "78925_azn": "385.50 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Tbilisi",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "MLE",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Male",
+      "78925_azn": "1124.02 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Male",
+      "01092026": "28.10.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Paris",
+      "78925_azn": "739.95 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Paris",
+      "01092026": "10.09.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Istanbul",
+      "78925_azn": "316.80 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Istanbul",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "TAS",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Tashkent",
+      "78925_azn": "543.85 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Tashkent",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Milan",
+      "78925_azn": "675.20 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Milan",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - London",
+      "78925_azn": "593.60 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "London",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Izmir",
+      "78925_azn": "433.90 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Izmir",
+      "01092026": "08.10.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Sharm El Sheikh",
+      "78925_azn": "722.89 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "DLM",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Dalaman",
+      "78925_azn": "659.21 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Dalaman",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "LHE",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Lahore",
+      "78925_azn": "674.96 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Lahore",
+      "01092026": "27.08.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Islamabad",
+      "78925_azn": "674.96 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Islamabad",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Tbilisi",
+      "78925_azn": "418.87 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Tbilisi",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Dammam",
+      "78925_azn": "572.23 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Dammam",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - St Petersburg",
+      "78925_azn": "617.84 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "St Petersburg",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "TZX",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Trabzon",
+      "78925_azn": "479.20 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Trabzon",
+      "01092026": "09.10.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - London",
+      "78925_azn": "582.40 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "London",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "COV",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Adana - Mersin",
+      "78925_azn": "315.10 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Adana - Mersin",
+      "01092026": "06.10.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Chisinau",
+      "78925_azn": "449.20 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Chisinau",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "THR",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Tehran",
+      "78925_azn": "509.44 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Tehran",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Riyadh",
+      "78925_azn": "633.29 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Riyadh",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "CIT",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Shymkent",
+      "78925_azn": "493.45 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Shymkent",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Dubai",
+      "78925_azn": "576.87 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Dubai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Ankara",
+      "78925_azn": "412.20 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Ankara",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Tel Aviv",
+      "78925_azn": "667.04 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "11.09.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Barcelona",
+      "78925_azn": "661.60 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Barcelona",
+      "01092026": "27.10.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Moscow",
+      "78925_azn": "602.08 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Moscow",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "BJV",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Bodrum",
+      "78925_azn": "541.50 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Bodrum",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Baku",
+      "78925_azn": "312.42 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Baku",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Mumbai",
+      "78925_azn": "510.35 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Mumbai",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Istanbul",
+      "78925_azn": "472.06 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Istanbul",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "DYU",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Dushanbe",
+      "78925_azn": "428.72 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Dushanbe",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "SCO",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Aktau",
+      "78925_azn": "389.06 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Aktau",
+      "01092026": "09.09.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Ankara",
+      "78925_azn": "564.59 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Ankara",
+      "01092026": "23.09.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Prague",
+      "78925_azn": "538.20 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Prague",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "KSY",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Kars",
+      "78925_azn": "423.90 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Kars",
+      "01092026": "24.09.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - London",
+      "78925_azn": "692.68 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "London",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Moscow",
+      "78925_azn": "471.10 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Moscow",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Milan",
+      "78925_azn": "686.77 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Milan",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Mumbai",
+      "78925_azn": "516.97 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Mumbai",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "AYT",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Antalya",
+      "78925_azn": "463.70 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Antalya",
+      "01092026": "02.11.2026"
+    },
+    {
+      "led": "AKX",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Aktobe",
+      "78925_azn": "493.45 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Aktobe",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Barcelona",
+      "78925_azn": "640.20 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Barcelona",
+      "01092026": "08.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Baku",
+      "78925_azn": "298.60 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Baku",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "BJV",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Bodrum",
+      "78925_azn": "692.69 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Bodrum",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Berlin",
+      "78925_azn": "604.90 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Berlin",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "VIE",
+      "bcn": "AKX",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktobe - Vienna",
+      "78925_azn": "646.30 AZN",
+      "barcelona": "Aktobe",
+      "st_petersburg": "Vienna",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "SKD",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Samarkand",
+      "78925_azn": "498.55 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Samarkand",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Prague",
+      "78925_azn": "627.69 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Prague",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - New Delhi",
+      "78925_azn": "499.55 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "New Delhi",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "TBZ",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Tabriz",
+      "78925_azn": "420.84 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Tabriz",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Paris",
+      "78925_azn": "613.00 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Paris",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "DOH",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Doha",
+      "78925_azn": "879.10 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Doha",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Berlin",
+      "78925_azn": "658.33 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Berlin",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "RMO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Chisinau - Izmir",
+      "78925_azn": "576.44 AZN",
+      "barcelona": "Chisinau",
+      "st_petersburg": "Izmir",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "GUW",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Atyrau",
+      "78925_azn": "362.70 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Atyrau",
+      "01092026": "11.10.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Riyadh",
+      "78925_azn": "583.20 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Riyadh",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - St Petersburg",
+      "78925_azn": "528.90 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "St Petersburg",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "AKX",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Aktobe",
+      "78925_azn": "362.70 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Aktobe",
+      "01092026": "11.10.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Dubai",
+      "78925_azn": "470.50 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Dubai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Astana",
+      "78925_azn": "375.90 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Astana",
+      "01092026": "30.09.2026"
+    },
+    {
+      "led": "BJS",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Beijing",
+      "78925_azn": "863.57 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Beijing",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "TZX",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Trabzon",
+      "78925_azn": "471.08 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Trabzon",
+      "01092026": "09.10.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Jeddah",
+      "78925_azn": "582.60 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Jeddah",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "BUS",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Batumi",
+      "78925_azn": "454.70 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Batumi",
+      "01092026": "03.10.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Istanbul",
+      "78925_azn": "451.80 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Istanbul",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Baku",
+      "78925_azn": "282.95 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Baku",
+      "01092026": "23.08.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Islamabad",
+      "78925_azn": "561.20 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Islamabad",
+      "01092026": "26.09.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Tbilisi",
+      "78925_azn": "267.50 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Tbilisi",
+      "01092026": "30.09.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Jeddah",
+      "78925_azn": "536.00 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Jeddah",
+      "01092026": "12.10.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Sharm El Sheikh",
+      "78925_azn": "615.10 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "02.10.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - St Petersburg",
+      "78925_azn": "607.80 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "St Petersburg",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "TAS",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Tashkent",
+      "78925_azn": "367.80 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Tashkent",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "DLM",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Dalaman",
+      "78925_azn": "554.05 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Dalaman",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "BJS",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Beijing",
+      "78925_azn": "832.25 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Beijing",
+      "01092026": "24.08.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Ankara",
+      "78925_azn": "516.60 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Ankara",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Milan",
+      "78925_azn": "630.00 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Milan",
+      "01092026": "06.09.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Riyadh",
+      "78925_azn": "492.40 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Riyadh",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "SCO",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Aktau",
+      "78925_azn": "299.80 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Aktau",
+      "01092026": "14.10.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Paris",
+      "78925_azn": "680.75 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Paris",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Prague",
+      "78925_azn": "580.82 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Prague",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Tel Aviv",
+      "78925_azn": "951.60 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "11.09.2026"
+    },
+    {
+      "led": "KSY",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Kars",
+      "78925_azn": "416.75 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Kars",
+      "01092026": "23.08.2026"
+    },
+    {
+      "led": "LHE",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Lahore",
+      "78925_azn": "561.20 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Lahore",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - New Delhi",
+      "78925_azn": "388.60 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "New Delhi",
+      "01092026": "26.09.2026"
+    },
+    {
+      "led": "CIT",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Shymkent",
+      "78925_azn": "362.70 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Shymkent",
+      "01092026": "30.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Moscow",
+      "78925_azn": "504.10 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Moscow",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "BUS",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Batumi",
+      "78925_azn": "487.70 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Batumi",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Mumbai",
+      "78925_azn": "400.20 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Mumbai",
+      "01092026": "26.09.2026"
+    },
+    {
+      "led": "COV",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Adana - Mersin",
+      "78925_azn": "463.70 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Adana - Mersin",
+      "01092026": "06.10.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Dammam",
+      "78925_azn": "426.10 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Dammam",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "DYU",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Dushanbe",
+      "78925_azn": "308.30 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Dushanbe",
+      "01092026": "30.09.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Dammam",
+      "78925_azn": "518.60 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Dammam",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "MSQ",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Minsk",
+      "78925_azn": "799.60 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Minsk",
+      "01092026": "08.10.2026"
+    },
+    {
+      "led": "VIE",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Vienna",
+      "78925_azn": "546.70 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Vienna",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "LHE",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Lahore",
+      "78925_azn": "650.55 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Lahore",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Ekaterinburg",
+      "78925_azn": "625.68 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Dubai",
+      "78925_azn": "625.90 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Dubai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Moscow",
+      "78925_azn": "481.30 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Moscow",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Chisinau",
+      "78925_azn": "546.80 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Chisinau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "THR",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Tehran",
+      "78925_azn": "479.20 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Tehran",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "THR",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Tehran",
+      "78925_azn": "386.70 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Tehran",
+      "01092026": "30.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Baku",
+      "78925_azn": "183.70 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Baku",
+      "01092026": "01.11.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Izmir",
+      "78925_azn": "538.30 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Izmir",
+      "01092026": "09.10.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Sharm El Sheikh",
+      "78925_azn": "697.40 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Ekaterinburg",
+      "78925_azn": "503.40 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "03.10.2026"
+    },
+    {
+      "led": "SKD",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Samarkand",
+      "78925_azn": "367.80 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Samarkand",
+      "01092026": "17.11.2026"
+    },
+    {
+      "led": "TBZ",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Tabriz",
+      "78925_azn": "298.10 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Tabriz",
+      "01092026": "30.09.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - New Delhi",
+      "78925_azn": "433.50 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "New Delhi",
+      "01092026": "02.09.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Tel Aviv",
+      "78925_azn": "361.00 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "04.11.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Chisinau",
+      "78925_azn": "466.20 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Chisinau",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Berlin",
+      "78925_azn": "508.70 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Berlin",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "FRU",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Bishkek",
+      "78925_azn": "401.40 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Bishkek",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Almaty",
+      "78925_azn": "432.00 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Almaty",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "TBZ",
+      "bcn": "ALA",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Almaty - Tabriz",
+      "78925_azn": "390.60 AZN",
+      "barcelona": "Almaty",
+      "st_petersburg": "Tabriz",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "MLE",
+      "bcn": "ANK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Ankara - Male",
+      "78925_azn": "835.00 AZN",
+      "barcelona": "Ankara",
+      "st_petersburg": "Male",
+      "01092026": "30.10.2026"
+    },
+    {
+      "led": "TIV",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Tivat",
+      "78925_azn": "644.56 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Tivat",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "TAS",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Tashkent",
+      "78925_azn": "453.29 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Tashkent",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Barcelona",
+      "78925_azn": "680.75 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Barcelona",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Prague",
+      "78925_azn": "685.51 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Prague",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Chisinau",
+      "78925_azn": "586.98 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Chisinau",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Islamabad",
+      "78925_azn": "650.55 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Islamabad",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "DYU",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Dushanbe",
+      "78925_azn": "392.61 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Dushanbe",
+      "01092026": "01.10.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Istanbul",
+      "78925_azn": "373.95 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Istanbul",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Berlin",
+      "78925_azn": "576.86 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Berlin",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "TIV",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Tivat",
+      "78925_azn": "526.60 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Tivat",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "LHE",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Lahore",
+      "78925_azn": "755.24 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Lahore",
+      "01092026": "28.09.2026"
+    },
+    {
+      "led": "TZX",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Trabzon",
+      "78925_azn": "576.23 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Trabzon",
+      "01092026": "21.10.2026"
+    },
+    {
+      "led": "AYT",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Antalya",
+      "78925_azn": "669.99 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Antalya",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - New Delhi",
+      "78925_azn": "558.23 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "New Delhi",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "DYU",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Dushanbe",
+      "78925_azn": "530.46 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Dushanbe",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - St Petersburg",
+      "78925_azn": "650.70 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "St Petersburg",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - London",
+      "78925_azn": "723.27 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "London",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Istanbul",
+      "78925_azn": "481.65 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Istanbul",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "COV",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Adana - Mersin",
+      "78925_azn": "458.00 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Adana - Mersin",
+      "01092026": "01.10.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Tbilisi",
+      "78925_azn": "551.18 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Tbilisi",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Almaty",
+      "78925_azn": "591.16 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Almaty",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Ankara",
+      "78925_azn": "510.68 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Ankara",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Mumbai",
+      "78925_azn": "568.98 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Mumbai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Izmir",
+      "78925_azn": "637.53 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Izmir",
+      "01092026": "07.10.2026"
+    },
+    {
+      "led": "BJV",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Bodrum",
+      "78925_azn": "503.45 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Bodrum",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "TZX",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Trabzon",
+      "78925_azn": "399.70 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Trabzon",
+      "01092026": "09.10.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Baku",
+      "78925_azn": "398.02 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Baku",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "MLE",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Male",
+      "78925_azn": "1042.40 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Male",
+      "01092026": "28.10.2026"
+    },
+    {
+      "led": "FRU",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Bishkek",
+      "78925_azn": "593.14 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Bishkek",
+      "01092026": "21.10.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Ekaterinburg",
+      "78925_azn": "618.93 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "AKX",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Aktobe",
+      "78925_azn": "553.34 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Aktobe",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Mumbai",
+      "78925_azn": "493.30 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Mumbai",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "TIV",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Tivat",
+      "78925_azn": "702.28 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Tivat",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Paris",
+      "78925_azn": "785.90 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Paris",
+      "01092026": "28.09.2026"
+    },
+    {
+      "led": "CIT",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Shymkent",
+      "78925_azn": "531.70 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Shymkent",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Moscow",
+      "78925_azn": "587.16 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Moscow",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Paris",
+      "78925_azn": "569.20 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Paris",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "VIE",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Vienna",
+      "78925_azn": "734.33 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Vienna",
+      "01092026": "28.09.2026"
+    },
+    {
+      "led": "AYT",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Antalya",
+      "78925_azn": "559.31 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Antalya",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Milan",
+      "78925_azn": "714.06 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Milan",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Tbilisi",
+      "78925_azn": "377.64 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Tbilisi",
+      "01092026": "01.10.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Baku",
+      "78925_azn": "267.65 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Baku",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Moscow",
+      "78925_azn": "514.24 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Moscow",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "GUW",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Atyrau",
+      "78925_azn": "553.34 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Atyrau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Chisinau",
+      "78925_azn": "645.62 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Chisinau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Prague",
+      "78925_azn": "517.15 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Prague",
+      "01092026": "28.08.2026"
+    },
+    {
+      "led": "BUS",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Batumi",
+      "78925_azn": "574.23 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Batumi",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - London",
+      "78925_azn": "618.58 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "London",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Astana",
+      "78925_azn": "547.87 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Astana",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - St Petersburg",
+      "78925_azn": "650.08 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "St Petersburg",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "SCO",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Aktau",
+      "78925_azn": "489.33 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Aktau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "TAS",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Tashkent",
+      "78925_azn": "558.44 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Tashkent",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Islamabad",
+      "78925_azn": "691.69 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Islamabad",
+      "01092026": "15.09.2026"
+    },
+    {
+      "led": "KSY",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Kars",
+      "78925_azn": "563.92 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Kars",
+      "01092026": "04.10.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Milan",
+      "78925_azn": "470.76 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Milan",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Izmir",
+      "78925_azn": "532.38 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Izmir",
+      "01092026": "08.10.2026"
+    },
+    {
+      "led": "MSQ",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Minsk",
+      "78925_azn": "1044.45 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Minsk",
+      "01092026": "05.10.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Barcelona",
+      "78925_azn": "785.90 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Barcelona",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Berlin",
+      "78925_azn": "682.01 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Berlin",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Almaty",
+      "78925_azn": "519.16 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Almaty",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "RUH",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Riyadh - Astana",
+      "78925_azn": "462.52 AZN",
+      "barcelona": "Riyadh",
+      "st_petersburg": "Astana",
+      "01092026": "20.09.2026"
+    },
+    {
+      "led": "SKD",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Samarkand",
+      "78925_azn": "558.44 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Samarkand",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "JED",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Jeddah - Ankara",
+      "78925_azn": "615.83 AZN",
+      "barcelona": "Jeddah",
+      "st_petersburg": "Ankara",
+      "01092026": "21.10.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Ankara",
+      "78925_azn": "438.80 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Ankara",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Barcelona",
+      "78925_azn": "533.50 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Barcelona",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - New Delhi",
+      "78925_azn": "478.10 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "New Delhi",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Tel Aviv",
+      "78925_azn": "882.30 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "11.09.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Izmir",
+      "78925_azn": "460.50 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Izmir",
+      "01092026": "09.10.2026"
+    },
+    {
+      "led": "BUS",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Batumi",
+      "78925_azn": "449.65 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Batumi",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "AYT",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Antalya",
+      "78925_azn": "360.75 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Antalya",
+      "01092026": "20.08.2026"
+    },
+    {
+      "led": "AKX",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Aktobe",
+      "78925_azn": "385.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Aktobe",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Sharm El Sheikh",
+      "78925_azn": "651.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "GUW",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Atyrau",
+      "78925_azn": "242.00 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Atyrau",
+      "01092026": "02.09.2026"
+    },
+    {
+      "led": "SKD",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Samarkand",
+      "78925_azn": "451.30 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Samarkand",
+      "01092026": "24.10.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - London",
+      "78925_azn": "473.04 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "London",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - St Petersburg",
+      "78925_azn": "531.70 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "St Petersburg",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "TBZ",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Tabriz",
+      "78925_azn": "311.10 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Tabriz",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Baku",
+      "78925_azn": "417.80 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Baku",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Mumbai",
+      "78925_azn": "462.50 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Mumbai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Moscow",
+      "78925_azn": "489.20 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Moscow",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Dammam",
+      "78925_azn": "450.10 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Dammam",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "BJS",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Beijing",
+      "78925_azn": "500.21 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Beijing",
+      "01092026": "13.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Baku",
+      "78925_azn": "363.25 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Baku",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Tbilisi",
+      "78925_azn": "278.80 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Tbilisi",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "KSY",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Kars",
+      "78925_azn": "456.25 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Kars",
+      "01092026": "23.08.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Islamabad",
+      "78925_azn": "572.25 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Islamabad",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "DYU",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Dushanbe",
+      "78925_azn": "386.70 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Dushanbe",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - New Delhi",
+      "78925_azn": "385.40 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "New Delhi",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Almaty",
+      "78925_azn": "456.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Almaty",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "BJV",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Bodrum",
+      "78925_azn": "391.90 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Bodrum",
+      "01092026": "21.08.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Chisinau",
+      "78925_azn": "470.70 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Chisinau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "GUW",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Atyrau",
+      "78925_azn": "385.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Atyrau",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "LHE",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Lahore",
+      "78925_azn": "572.25 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Lahore",
+      "01092026": "27.08.2026"
+    },
+    {
+      "led": "RIX",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Riga",
+      "78925_azn": "451.04 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Riga",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "FRU",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Bishkek",
+      "78925_azn": "490.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Bishkek",
+      "01092026": "10.10.2026"
+    },
+    {
+      "led": "COV",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Adana - Mersin",
+      "78925_azn": "385.90 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Adana - Mersin",
+      "01092026": "15.10.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Sharm El Sheikh",
+      "78925_azn": "619.60 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "03.10.2026"
+    },
+    {
+      "led": "DOH",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Doha",
+      "78925_azn": "586.84 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Doha",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - London",
+      "78925_azn": "496.10 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "London",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Milan",
+      "78925_azn": "557.30 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Milan",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Dubai",
+      "78925_azn": "697.70 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Dubai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "FRU",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Bishkek",
+      "78925_azn": "385.99 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Bishkek",
+      "01092026": "21.08.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Mumbai",
+      "78925_azn": "397.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Mumbai",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "SCO",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Aktau",
+      "78925_azn": "322.10 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Aktau",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "DLM",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Dalaman",
+      "78925_azn": "484.75 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Dalaman",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "VIE",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Vienna",
+      "78925_azn": "508.00 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Vienna",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Tel Aviv",
+      "78925_azn": "481.90 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "04.11.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Dammam",
+      "78925_azn": "440.80 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Dammam",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Berlin",
+      "78925_azn": "490.40 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Berlin",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "TAS",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Tashkent",
+      "78925_azn": "390.10 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Tashkent",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Ekaterinburg",
+      "78925_azn": "537.60 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "THR",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Tehran",
+      "78925_azn": "405.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Tehran",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "TBZ",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Tabriz",
+      "78925_azn": "320.40 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Tabriz",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Moscow",
+      "78925_azn": "445.80 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Moscow",
+      "01092026": "18.09.2026"
+    },
+    {
+      "led": "AYT",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Antalya",
+      "78925_azn": "385.90 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Antalya",
+      "01092026": "04.11.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Riyadh",
+      "78925_azn": "505.40 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Riyadh",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "THR",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Tehran",
+      "78925_azn": "399.70 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Tehran",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Jeddah",
+      "78925_azn": "727.50 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Jeddah",
+      "01092026": "02.11.2026"
+    },
+    {
+      "led": "BJS",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Beijing",
+      "78925_azn": "681.15 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Beijing",
+      "01092026": "29.08.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Riyadh",
+      "78925_azn": "581.00 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Riyadh",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "CIT",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Shymkent",
+      "78925_azn": "446.20 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Shymkent",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "NQZ",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Astana - Istanbul",
+      "78925_azn": "386.55 AZN",
+      "barcelona": "Astana",
+      "st_petersburg": "Istanbul",
+      "01092026": "26.08.2026"
+    },
+    {
+      "led": "MLE",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Male",
+      "78925_azn": "870.90 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Male",
+      "01092026": "28.10.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "AYT",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Antalya - Astana",
+      "78925_azn": "399.90 AZN",
+      "barcelona": "Antalya",
+      "st_petersburg": "Astana",
+      "01092026": "21.09.2026"
+    },
+    {
+      "led": "BKK",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Bangkok",
+      "78925_azn": "1022.27 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Bangkok",
+      "01092026": "27.09.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Barcelona",
+      "78925_azn": "484.86 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Barcelona",
+      "01092026": "03.09.2026"
+    },
+    {
+      "led": "DMM",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Dammam",
+      "78925_azn": "289.23 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Dammam",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "NQZ",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Astana",
+      "78925_azn": "358.54 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Astana",
+      "01092026": "14.09.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Tbilisi",
+      "78925_azn": "203.30 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Tbilisi",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "BAK",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Baku",
+      "78925_azn": "110.30 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Baku",
+      "01092026": "30.10.2026"
+    },
+    {
+      "led": "THR",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Tehran",
+      "78925_azn": "250.08 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Tehran",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Riyadh",
+      "78925_azn": "253.78 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Riyadh",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "LHE",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Lahore",
+      "78925_azn": "417.90 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Lahore",
+      "01092026": "04.09.2026"
+    },
+    {
+      "led": "ISB",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Islamabad",
+      "78925_azn": "447.05 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Islamabad",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Milan",
+      "78925_azn": "482.89 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Milan",
+      "01092026": "23.09.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Istanbul",
+      "78925_azn": "299.69 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Istanbul",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Chisinau",
+      "78925_azn": "344.64 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Chisinau",
+      "01092026": "24.08.2026"
+    },
+    {
+      "led": "TZX",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Trabzon",
+      "78925_azn": "224.48 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Trabzon",
+      "01092026": "22.08.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Ankara",
+      "78925_azn": "291.44 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Ankara",
+      "01092026": "02.11.2026"
+    },
+    {
+      "led": "TZX",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Trabzon",
+      "78925_azn": "285.10 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Trabzon",
+      "01092026": "01.11.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Berlin",
+      "78925_azn": "389.40 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Berlin",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Prague",
+      "78925_azn": "376.53 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Prague",
+      "01092026": "24.09.2026"
+    },
+    {
+      "led": "HER",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Heraklion",
+      "78925_azn": "691.53 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Heraklion",
+      "01092026": "29.08.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Mumbai",
+      "78925_azn": "273.10 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Mumbai",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Sharm El Sheikh",
+      "78925_azn": "498.20 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "MSQ",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Minsk",
+      "78925_azn": "539.57 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Minsk",
+      "01092026": "04.10.2026"
+    },
+    {
+      "led": "LON",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - London",
+      "78925_azn": "430.80 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "London",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "SVX",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Ekaterinburg",
+      "78925_azn": "508.10 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Ekaterinburg",
+      "01092026": "17.09.2026"
+    },
+    {
+      "led": "TBZ",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Tabriz",
+      "78925_azn": "204.84 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Tabriz",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "DEL",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - New Delhi",
+      "78925_azn": "279.91 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "New Delhi",
+      "01092026": "02.09.2026"
+    },
+    {
+      "led": "VIE",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Vienna",
+      "78925_azn": "413.95 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Vienna",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - St Petersburg",
+      "78925_azn": "415.40 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "St Petersburg",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "VIE",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Vienna",
+      "78925_azn": "388.30 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Vienna",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "ALA",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Almaty",
+      "78925_azn": "342.78 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Almaty",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "RMO",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Chisinau",
+      "78925_azn": "354.40 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Chisinau",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BUS",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Batumi",
+      "78925_azn": "183.11 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Batumi",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Jeddah",
+      "78925_azn": "460.99 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Jeddah",
+      "01092026": "13.10.2026"
+    },
+    {
+      "led": "BOM",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Mumbai",
+      "78925_azn": "273.70 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Mumbai",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "KSY",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Kars",
+      "78925_azn": "204.85 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Kars",
+      "01092026": "20.08.2026"
+    },
+    {
+      "led": "BJV",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Bodrum",
+      "78925_azn": "440.90 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Bodrum",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "MIL",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Milan",
+      "78925_azn": "420.60 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Milan",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Moscow",
+      "78925_azn": "350.93 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Moscow",
+      "01092026": "25.09.2026"
+    },
+    {
+      "led": "TIV",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Tivat",
+      "78925_azn": "410.30 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Tivat",
+      "01092026": "24.09.2026"
+    },
+    {
+      "led": "BCN",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Barcelona",
+      "78925_azn": "492.00 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Barcelona",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Dubai",
+      "78925_azn": "651.10 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Dubai",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "COV",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Adana - Mersin",
+      "78925_azn": "256.35 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Adana - Mersin",
+      "01092026": "06.10.2026"
+    },
+    {
+      "led": "AYT",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Antalya",
+      "78925_azn": "271.30 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Antalya",
+      "01092026": "02.11.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Tel Aviv",
+      "78925_azn": "310.40 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "01.11.2026"
+    },
+    {
+      "led": "JED",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Jeddah",
+      "78925_azn": "424.20 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Jeddah",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "IST",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Istanbul",
+      "78925_azn": "230.50 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Istanbul",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Izmir",
+      "78925_azn": "311.37 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Izmir",
+      "01092026": "08.10.2026"
+    },
+    {
+      "led": "MLE",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Male",
+      "78925_azn": "813.78 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Male",
+      "01092026": "29.10.2026"
+    },
+    {
+      "led": "TAS",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Tashkent",
+      "78925_azn": "332.09 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Tashkent",
+      "01092026": "03.09.2026"
+    },
+    {
+      "led": "AKX",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Aktobe",
+      "78925_azn": "370.02 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Aktobe",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BER",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Berlin",
+      "78925_azn": "426.87 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Berlin",
+      "01092026": "06.09.2026"
+    },
+    {
+      "led": "TLV",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Tel Aviv",
+      "78925_azn": "293.78 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Tel Aviv",
+      "01092026": "01.11.2026"
+    },
+    {
+      "led": "PRG",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Prague",
+      "78925_azn": "393.40 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Prague",
+      "01092026": "19.09.2026"
+    },
+    {
+      "led": "MSQ",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Minsk",
+      "78925_azn": "603.00 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Minsk",
+      "01092026": "04.10.2026"
+    },
+    {
+      "led": "DXB",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Dubai",
+      "78925_azn": "615.25 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Dubai",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "BEG",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Belgrade",
+      "78925_azn": "376.53 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Belgrade",
+      "01092026": "18.10.2026"
+    },
+    {
+      "led": "TBS",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Tbilisi",
+      "78925_azn": "165.61 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Tbilisi",
+      "01092026": "02.09.2026"
+    },
+    {
+      "led": "DLM",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Dalaman",
+      "78925_azn": "356.84 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Dalaman",
+      "01092026": "23.08.2026"
+    },
+    {
+      "led": "LED",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - St Petersburg",
+      "78925_azn": "449.41 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "St Petersburg",
+      "01092026": "18.11.2026"
+    },
+    {
+      "led": "SCO",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Aktau",
+      "78925_azn": "177.00 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Aktau",
+      "01092026": "03.09.2026"
+    },
+    {
+      "led": "DYU",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Dushanbe",
+      "78925_azn": "242.27 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Dushanbe",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "TIV",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Tivat",
+      "78925_azn": "423.40 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Tivat",
+      "01092026": "23.09.2026"
+    },
+    {
+      "led": "BUS",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Batumi",
+      "78925_azn": "312.30 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Batumi",
+      "01092026": "02.09.2026"
+    },
+    {
+      "led": "SKD",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Samarkand",
+      "78925_azn": "284.83 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Samarkand",
+      "01092026": "25.08.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Paris",
+      "78925_azn": "492.00 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Paris",
+      "01092026": "29.09.2026"
+    },
+    {
+      "led": "DLM",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Dalaman",
+      "78925_azn": "446.65 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Dalaman",
+      "01092026": "28.08.2026"
+    },
+    {
+      "led": "KSY",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Kars",
+      "78925_azn": "299.15 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Kars",
+      "01092026": "30.08.2026"
+    },
+    {
+      "led": "MOW",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Moscow",
+      "78925_azn": "337.20 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Moscow",
+      "01092026": "01.09.2026"
+    },
+    {
+      "led": "PAR",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Paris",
+      "78925_azn": "534.10 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Paris",
+      "01092026": "22.09.2026"
+    },
+    {
+      "led": "FRA",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Frankfurt",
+      "78925_azn": "569.10 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Frankfurt",
+      "01092026": "07.10.2026"
+    },
+    {
+      "led": "RUH",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Riyadh",
+      "78925_azn": "435.00 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Riyadh",
+      "01092026": "16.09.2026"
+    },
+    {
+      "led": "CIT",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Shymkent",
+      "78925_azn": "261.69 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Shymkent",
+      "01092026": "03.09.2026"
+    },
+    {
+      "led": "SSH",
+      "bcn": "BAK",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Baku - Sharm El Sheikh",
+      "78925_azn": "363.41 AZN",
+      "barcelona": "Baku",
+      "st_petersburg": "Sharm El Sheikh",
+      "01092026": "14.09.2026"
+    },
+    {
+      "led": "COV",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Adana - Mersin",
+      "78925_azn": "325.70 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Adana - Mersin",
+      "01092026": "06.10.2026"
+    },
+    {
+      "led": "ANK",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Ankara",
+      "78925_azn": "324.20 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Ankara",
+      "01092026": "02.11.2026"
+    },
+    {
+      "led": "IZM",
+      "bcn": "SCO",
+      "____barcelona__st_petersburg": "???????? ?????? ?? ??????????? Aktau - Izmir",
+      "78925_azn": "345.90 AZN",
+      "barcelona": "Aktau",
+      "st_petersburg": "Izmir",
+      "01092026": "30.10.2026"
     }
   ]
 }
