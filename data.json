@@ -1468,9 +1468,1674 @@
       "tashkent": "Dushanbe"
     },
     {
-      "19092026": "",
+      "19092026": "14.09.2026",
       "tas": "VIE",
       "bcn": "BJS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Beijing - Vienna",
+      "54503_azn": "815.68 AZN",
+      "barcelona": "Beijing",
+      "tashkent": "Vienna"
+    },
+    {
+      "19092026": "09.09.2026",
+      "tas": "IZM",
+      "bcn": "BJS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Beijing - Izmir",
+      "54503_azn": "740.24 AZN",
+      "barcelona": "Beijing",
+      "tashkent": "Izmir"
+    },
+    {
+      "19092026": "27.09.2026",
+      "tas": "BAK",
+      "bcn": "BKK",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bangkok - Baku",
+      "54503_azn": "1039.07 AZN",
+      "barcelona": "Bangkok",
+      "tashkent": "Baku"
+    },
+    {
+      "19092026": "15.09.2026",
+      "tas": "COV",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Adana - Mersin",
+      "54503_azn": "590.63 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Adana - Mersin"
+    },
+    {
+      "19092026": "04.09.2026",
+      "tas": "SSH",
+      "bcn": "BJV",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bodrum - Sharm El Sheikh",
+      "54503_azn": "811.70 AZN",
+      "barcelona": "Bodrum",
+      "tashkent": "Sharm El Sheikh"
+    },
+    {
+      "19092026": "04.09.2026",
+      "tas": "NQZ",
+      "bcn": "BJV",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bodrum - Astana",
+      "54503_azn": "565.70 AZN",
+      "barcelona": "Bodrum",
+      "tashkent": "Astana"
+    },
+    {
+      "19092026": "06.09.2026",
+      "tas": "BJV",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Bodrum",
+      "54503_azn": "1015.97 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Bodrum"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "JED",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Jeddah",
+      "54503_azn": "552.09 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Jeddah"
+    },
+    {
+      "19092026": "23.11.2026",
+      "tas": "TZX",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Trabzon",
+      "54503_azn": "441.82 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Trabzon"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "LED",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - St Petersburg",
+      "54503_azn": "925.88 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "St Petersburg"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "THR",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Tehran",
+      "54503_azn": "510.68 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Tehran"
+    },
+    {
+      "19092026": "14.09.2026",
+      "tas": "ANK",
+      "bcn": "BJS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Beijing - Ankara",
+      "54503_azn": "718.34 AZN",
+      "barcelona": "Beijing",
+      "tashkent": "Ankara"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "IST",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Istanbul",
+      "54503_azn": "348.84 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Istanbul"
+    },
+    {
+      "19092026": "08.10.2026",
+      "tas": "TIV",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Tivat",
+      "54503_azn": "538.13 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Tivat"
+    },
+    {
+      "19092026": "04.09.2026",
+      "tas": "TBS",
+      "bcn": "BJV",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bodrum - Tbilisi",
+      "54503_azn": "481.00 AZN",
+      "barcelona": "Bodrum",
+      "tashkent": "Tbilisi"
+    },
+    {
+      "19092026": "04.09.2026",
+      "tas": "MOW",
+      "bcn": "BJV",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bodrum - Moscow",
+      "54503_azn": "492.60 AZN",
+      "barcelona": "Bodrum",
+      "tashkent": "Moscow"
+    },
+    {
+      "19092026": "19.09.2026",
+      "tas": "TAS",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Tashkent",
+      "54503_azn": "595.65 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Tashkent"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "LON",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - London",
+      "54503_azn": "547.97 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "London"
+    },
+    {
+      "19092026": "17.10.2026",
+      "tas": "BAK",
+      "bcn": "BJS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Beijing - Baku",
+      "54503_azn": "691.64 AZN",
+      "barcelona": "Beijing",
+      "tashkent": "Baku"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "GUW",
+      "bcn": "BJV",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bodrum - Atyrau",
+      "54503_azn": "487.80 AZN",
+      "barcelona": "Bodrum",
+      "tashkent": "Atyrau"
+    },
+    {
+      "19092026": "19.09.2026",
+      "tas": "BER",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Berlin",
+      "54503_azn": "507.91 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Berlin"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "CIT",
+      "bcn": "BJV",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bodrum - Shymkent",
+      "54503_azn": "810.80 AZN",
+      "barcelona": "Bodrum",
+      "tashkent": "Shymkent"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "ALA",
+      "bcn": "BJV",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Bodrum - Almaty",
+      "54503_azn": "611.60 AZN",
+      "barcelona": "Bodrum",
+      "tashkent": "Almaty"
+    },
+    {
+      "19092026": "24.11.2026",
+      "tas": "SKD",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Samarkand",
+      "54503_azn": "531.31 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Samarkand"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "CIT",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Shymkent",
+      "54503_azn": "452.91 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Shymkent"
+    },
+    {
+      "19092026": "18.09.2026",
+      "tas": "VIE",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Vienna",
+      "54503_azn": "506.81 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Vienna"
+    },
+    {
+      "19092026": "25.09.2026",
+      "tas": "PAR",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Paris",
+      "54503_azn": "677.82 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Paris"
+    },
+    {
+      "19092026": "25.09.2026",
+      "tas": "LON",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - London",
+      "54503_azn": "610.45 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "London"
+    },
+    {
+      "19092026": "26.09.2026",
+      "tas": "DXB",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Dubai",
+      "54503_azn": "452.41 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Dubai"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "DEL",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - New Delhi",
+      "54503_azn": "634.15 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "New Delhi"
+    },
+    {
+      "19092026": "29.08.2026",
+      "tas": "BCN",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Barcelona",
+      "54503_azn": "1537.81 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Barcelona"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "BOM",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Mumbai",
+      "54503_azn": "4129.04 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Mumbai"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "SSH",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Sharm El Sheikh",
+      "54503_azn": "1605.87 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Sharm El Sheikh"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "NQZ",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Astana",
+      "54503_azn": "615.32 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Astana"
+    },
+    {
+      "19092026": "18.09.2026",
+      "tas": "TLV",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Tel Aviv",
+      "54503_azn": "1367.46 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Tel Aviv"
+    },
+    {
+      "19092026": "23.09.2026",
+      "tas": "DXB",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Dubai",
+      "54503_azn": "393.93 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Dubai"
+    },
+    {
+      "19092026": "18.09.2026",
+      "tas": "ANK",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Ankara",
+      "54503_azn": "482.64 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Ankara"
+    },
+    {
+      "19092026": "29.08.2026",
+      "tas": "DLM",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Dalaman",
+      "54503_azn": "622.41 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Dalaman"
+    },
+    {
+      "19092026": "11.09.2026",
+      "tas": "ALA",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Almaty",
+      "54503_azn": "630.65 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Almaty"
+    },
+    {
+      "19092026": "24.09.2026",
+      "tas": "KSY",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Kars",
+      "54503_azn": "348.12 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Kars"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "JED",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Jeddah",
+      "54503_azn": "632.04 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Jeddah"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "FRU",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Bishkek",
+      "54503_azn": "559.06 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Bishkek"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "LED",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - St Petersburg",
+      "54503_azn": "640.29 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "St Petersburg"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "TBS",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Tbilisi",
+      "54503_azn": "404.44 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Tbilisi"
+    },
+    {
+      "19092026": "14.09.2026",
+      "tas": "ANK",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Ankara",
+      "54503_azn": "481.75 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Ankara"
+    },
+    {
+      "19092026": "27.08.2026",
+      "tas": "SVX",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Ekaterinburg",
+      "54503_azn": "646.24 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Ekaterinburg"
+    },
+    {
+      "19092026": "20.09.2026",
+      "tas": "TBZ",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Tabriz",
+      "54503_azn": "1359.54 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Tabriz"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "TAS",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Tashkent",
+      "54503_azn": "520.28 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Tashkent"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "ISB",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Islamabad",
+      "54503_azn": "759.18 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Islamabad"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "BER",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Berlin",
+      "54503_azn": "680.96 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Berlin"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "CIT",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Shymkent",
+      "54503_azn": "515.18 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Shymkent"
+    },
+    {
+      "19092026": "25.09.2026",
+      "tas": "TZX",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Trabzon",
+      "54503_azn": "446.09 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Trabzon"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "DLM",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Dalaman",
+      "54503_azn": "624.44 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Dalaman"
+    },
+    {
+      "19092026": "24.09.2026",
+      "tas": "MOW",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Moscow",
+      "54503_azn": "478.12 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Moscow"
+    },
+    {
+      "19092026": "25.09.2026",
+      "tas": "TIV",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Tivat",
+      "54503_azn": "679.86 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Tivat"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "BUS",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Batumi",
+      "54503_azn": "509.49 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Batumi"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "BJV",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Bodrum",
+      "54503_azn": "660.11 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Bodrum"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "MSQ",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Minsk",
+      "54503_azn": "1165.34 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Minsk"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "IST",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Istanbul",
+      "54503_azn": "517.44 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Istanbul"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "SKD",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Samarkand",
+      "54503_azn": "520.28 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Samarkand"
+    },
+    {
+      "19092026": "12.09.2026",
+      "tas": "DXB",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Dubai",
+      "54503_azn": "2148.55 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Dubai"
+    },
+    {
+      "19092026": "29.08.2026",
+      "tas": "PAR",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Paris",
+      "54503_azn": "1686.42 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Paris"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "IZM",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Izmir",
+      "54503_azn": "504.36 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Izmir"
+    },
+    {
+      "19092026": "19.09.2026",
+      "tas": "MIL",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Milan",
+      "54503_azn": "523.58 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Milan"
+    },
+    {
+      "19092026": "09.09.2026",
+      "tas": "PRG",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Prague",
+      "54503_azn": "533.18 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Prague"
+    },
+    {
+      "19092026": "18.09.2026",
+      "tas": "THR",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Tehran",
+      "54503_azn": "1496.29 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Tehran"
+    },
+    {
+      "19092026": "29.08.2026",
+      "tas": "BAK",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Baku",
+      "54503_azn": "560.92 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Baku"
+    },
+    {
+      "19092026": "21.09.2026",
+      "tas": "BAK",
+      "bcn": "SSH",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Sharm El Sheikh - Baku",
+      "54503_azn": "354.20 AZN",
+      "barcelona": "Sharm El Sheikh",
+      "tashkent": "Baku"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "SSH",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Sharm El Sheikh",
+      "54503_azn": "730.03 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Sharm El Sheikh"
+    },
+    {
+      "19092026": "30.09.2026",
+      "tas": "RUH",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Riyadh",
+      "54503_azn": "562.73 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Riyadh"
+    },
+    {
+      "19092026": "27.08.2026",
+      "tas": "PRG",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Prague",
+      "54503_azn": "717.51 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Prague"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "DYU",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Dushanbe",
+      "54503_azn": "1066.29 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Dushanbe"
+    },
+    {
+      "19092026": "18.09.2026",
+      "tas": "DMM",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Dammam",
+      "54503_azn": "1608.97 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Dammam"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "AYT",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Antalya",
+      "54503_azn": "422.27 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Antalya"
+    },
+    {
+      "19092026": "22.09.2026",
+      "tas": "RMO",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Chisinau",
+      "54503_azn": "441.24 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Chisinau"
+    },
+    {
+      "19092026": "04.09.2026",
+      "tas": "BAK",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Baku",
+      "54503_azn": "400.45 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Baku"
+    },
+    {
+      "19092026": "25.09.2026",
+      "tas": "RMO",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Chisinau",
+      "54503_azn": "555.06 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Chisinau"
+    },
+    {
+      "19092026": "25.09.2026",
+      "tas": "MIL",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Milan",
+      "54503_azn": "600.55 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Milan"
+    },
+    {
+      "19092026": "27.08.2026",
+      "tas": "TIV",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Tivat",
+      "54503_azn": "693.79 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Tivat"
+    },
+    {
+      "19092026": "21.09.2026",
+      "tas": "RUH",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Riyadh",
+      "54503_azn": "1628.78 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Riyadh"
+    },
+    {
+      "19092026": "19.09.2026",
+      "tas": "SCO",
+      "bcn": "BOM",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Mumbai - Aktau",
+      "54503_azn": "342.53 AZN",
+      "barcelona": "Mumbai",
+      "tashkent": "Aktau"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "BJV",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Bodrum",
+      "54503_azn": "618.44 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Bodrum"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "IST",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Istanbul",
+      "54503_azn": "390.57 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Istanbul"
+    },
+    {
+      "19092026": "31.10.2026",
+      "tas": "BCN",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Barcelona",
+      "54503_azn": "677.82 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Barcelona"
+    },
+    {
+      "19092026": "27.08.2026",
+      "tas": "LHE",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Lahore",
+      "54503_azn": "810.70 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Lahore"
+    },
+    {
+      "19092026": "25.09.2026",
+      "tas": "VIE",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Vienna",
+      "54503_azn": "562.90 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Vienna"
+    },
+    {
+      "19092026": "18.09.2026",
+      "tas": "GUW",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Atyrau",
+      "54503_azn": "1412.75 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Atyrau"
+    },
+    {
+      "19092026": "14.09.2026",
+      "tas": "JED",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Jeddah",
+      "54503_azn": "1597.05 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Jeddah"
+    },
+    {
+      "19092026": "02.11.2026",
+      "tas": "TLV",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Tel Aviv",
+      "54503_azn": "832.42 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Tel Aviv"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "IZM",
+      "bcn": "SVX",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Ekaterinburg - Izmir",
+      "54503_azn": "503.45 AZN",
+      "barcelona": "Ekaterinburg",
+      "tashkent": "Izmir"
+    },
+    {
+      "19092026": "18.09.2026",
+      "tas": "AKX",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Aktobe",
+      "54503_azn": "1412.75 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Aktobe"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "RMO",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Chisinau",
+      "54503_azn": "479.63 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Chisinau"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "MOW",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Moscow",
+      "54503_azn": "590.76 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Moscow"
+    },
+    {
+      "19092026": "29.08.2026",
+      "tas": "RMO",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Chisinau",
+      "54503_azn": "1042.55 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Chisinau"
+    },
+    {
+      "19092026": "15.10.2026",
+      "tas": "TZX",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Trabzon",
+      "54503_azn": "418.21 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Trabzon"
+    },
+    {
+      "19092026": "09.09.2026",
+      "tas": "PRG",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Prague",
+      "54503_azn": "576.63 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Prague"
+    },
+    {
+      "19092026": "27.08.2026",
+      "tas": "VIE",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Vienna",
+      "54503_azn": "731.38 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Vienna"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "IST",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Istanbul",
+      "54503_azn": "366.66 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Istanbul"
+    },
+    {
+      "19092026": "16.10.2026",
+      "tas": "ANK",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Ankara",
+      "54503_azn": "461.80 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Ankara"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "IZM",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Izmir",
+      "54503_azn": "2013.28 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Izmir"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "SVX",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Ekaterinburg",
+      "54503_azn": "1670.56 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Ekaterinburg"
+    },
+    {
+      "19092026": "29.08.2026",
+      "tas": "ANK",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Ankara",
+      "54503_azn": "1000.94 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Ankara"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "BUS",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Batumi",
+      "54503_azn": "434.06 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Batumi"
+    },
+    {
+      "19092026": "28.09.2026",
+      "tas": "TIV",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Tivat",
+      "54503_azn": "564.80 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Tivat"
+    },
+    {
+      "19092026": "13.10.2026",
+      "tas": "JED",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Jeddah",
+      "54503_azn": "540.76 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Jeddah"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "BAK",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Baku",
+      "54503_azn": "233.87 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Baku"
+    },
+    {
+      "19092026": "07.09.2026",
+      "tas": "LED",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - St Petersburg",
+      "54503_azn": "501.40 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "St Petersburg"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "LON",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - London",
+      "54503_azn": "2738.47 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "London"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "KSY",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Kars",
+      "54503_azn": "329.01 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Kars"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "AYT",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Antalya",
+      "54503_azn": "408.27 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Antalya"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "THR",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Tehran",
+      "54503_azn": "366.69 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Tehran"
+    },
+    {
+      "19092026": "08.09.2026",
+      "tas": "BCN",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Barcelona",
+      "54503_azn": "758.92 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Barcelona"
+    },
+    {
+      "19092026": "25.10.2026",
+      "tas": "MLE",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Male",
+      "54503_azn": "2159.90 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Male"
+    },
+    {
+      "19092026": "01.11.2026",
+      "tas": "TLV",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Tel Aviv",
+      "54503_azn": "586.59 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Tel Aviv"
+    },
+    {
+      "19092026": "30.09.2026",
+      "tas": "DMM",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Dammam",
+      "54503_azn": "463.52 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Dammam"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "BOM",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Mumbai",
+      "54503_azn": "463.25 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Mumbai"
+    },
+    {
+      "19092026": "08.09.2026",
+      "tas": "MIL",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Milan",
+      "54503_azn": "677.68 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Milan"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "BJV",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Bodrum",
+      "54503_azn": "1508.08 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Bodrum"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "BCN",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Barcelona",
+      "54503_azn": "3027.76 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Barcelona"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "BJS",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Beijing",
+      "54503_azn": "2780.08 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Beijing"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "BOM",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Mumbai",
+      "54503_azn": "3199.69 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Mumbai"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "DLM",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Dalaman",
+      "54503_azn": "1321.83 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Dalaman"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "SCO",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Aktau",
+      "54503_azn": "433.94 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Aktau"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "BJV",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Bodrum",
+      "54503_azn": "499.41 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Bodrum"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "ALA",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Almaty",
+      "54503_azn": "600.38 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Almaty"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "DEL",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - New Delhi",
+      "54503_azn": "469.49 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "New Delhi"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "TBS",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Tbilisi",
+      "54503_azn": "323.06 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Tbilisi"
+    },
+    {
+      "19092026": "27.08.2026",
+      "tas": "IZM",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Izmir",
+      "54503_azn": "642.22 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Izmir"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "RUH",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Riyadh",
+      "54503_azn": "534.85 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Riyadh"
+    },
+    {
+      "19092026": "29.08.2026",
+      "tas": "MIL",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Milan",
+      "54503_azn": "1575.46 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Milan"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "LON",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - London",
+      "54503_azn": "531.06 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "London"
+    },
+    {
+      "19092026": "01.09.2026",
+      "tas": "BER",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Berlin",
+      "54503_azn": "609.43 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Berlin"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "MOW",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Moscow",
+      "54503_azn": "459.79 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Moscow"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "TIV",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Tivat",
+      "54503_azn": "1549.69 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Tivat"
+    },
+    {
+      "19092026": "12.09.2026",
+      "tas": "DXB",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Dubai",
+      "54503_azn": "2218.04 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Dubai"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "ANK",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Ankara",
+      "54503_azn": "1569.54 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Ankara"
+    },
+    {
+      "19092026": "06.09.2026",
+      "tas": "DLM",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Dalaman",
+      "54503_azn": "479.60 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Dalaman"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "FRU",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Bishkek",
+      "54503_azn": "1557.62 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Bishkek"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "MIL",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Milan",
+      "54503_azn": "2948.50 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Milan"
+    },
+    {
+      "19092026": "03.09.2026",
+      "tas": "LHE",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Lahore",
+      "54503_azn": "1912.29 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Lahore"
+    },
+    {
+      "19092026": "03.10.2026",
+      "tas": "MSQ",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Minsk",
+      "54503_azn": "891.71 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Minsk"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "TBZ",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Tabriz",
+      "54503_azn": "277.49 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Tabriz"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "DXB",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Dubai",
+      "54503_azn": "400.76 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Dubai"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "VIE",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Vienna",
+      "54503_azn": "642.02 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Vienna"
+    },
+    {
+      "19092026": "11.09.2026",
+      "tas": "PAR",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Paris",
+      "54503_azn": "642.02 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Paris"
+    },
+    {
+      "19092026": "14.09.2026",
+      "tas": "SSH",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Sharm El Sheikh",
+      "54503_azn": "624.88 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Sharm El Sheikh"
+    },
+    {
+      "19092026": "15.09.2026",
+      "tas": "COV",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Adana - Mersin",
+      "54503_azn": "408.27 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Adana - Mersin"
+    },
+    {
+      "19092026": "08.10.2026",
+      "tas": "IZM",
+      "bcn": "TAS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tashkent - Izmir",
+      "54503_azn": "483.50 AZN",
+      "barcelona": "Tashkent",
+      "tashkent": "Izmir"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "PAR",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Paris",
+      "54503_azn": "3069.37 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Paris"
+    },
+    {
+      "19092026": "03.09.2026",
+      "tas": "CIT",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Shymkent",
+      "54503_azn": "1208.60 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Shymkent"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "ISB",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Islamabad",
+      "54503_azn": "1912.29 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Islamabad"
+    },
+    {
+      "19092026": "05.09.2026",
+      "tas": "NQZ",
+      "bcn": "BUS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Batumi - Astana",
+      "54503_azn": "519.15 AZN",
+      "barcelona": "Batumi",
+      "tashkent": "Astana"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "PRG",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Prague",
+      "54503_azn": "2510.61 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Prague"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "TAS",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Tashkent",
+      "54503_azn": "1138.41 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Tashkent"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "GUW",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Atyrau",
+      "54503_azn": "1208.60 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Atyrau"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "TBZ",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Tabriz",
+      "54503_azn": "996.68 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Tabriz"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "RMO",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Chisinau",
+      "54503_azn": "354.60 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Chisinau"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "NQZ",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Astana",
+      "54503_azn": "1858.51 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Astana"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "RUH",
+      "bcn": "KSY",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Kars - Riyadh",
+      "54503_azn": "416.50 AZN",
+      "barcelona": "Kars",
+      "tashkent": "Riyadh"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "TBZ",
+      "bcn": "KSY",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Kars - Tabriz",
+      "54503_azn": "219.90 AZN",
+      "barcelona": "Kars",
+      "tashkent": "Tabriz"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "CIT",
+      "bcn": "KSY",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Kars - Shymkent",
+      "54503_azn": "284.50 AZN",
+      "barcelona": "Kars",
+      "tashkent": "Shymkent"
+    },
+    {
+      "19092026": "03.09.2026",
+      "tas": "COV",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Adana - Mersin",
+      "54503_azn": "1454.58 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Adana - Mersin"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "RUH",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Riyadh",
+      "54503_azn": "1517.82 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Riyadh"
+    },
+    {
+      "19092026": "20.09.2026",
+      "tas": "TZX",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Trabzon",
+      "54503_azn": "326.50 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Trabzon"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "AYT",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Antalya",
+      "54503_azn": "313.80 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Antalya"
+    },
+    {
+      "19092026": "30.09.2026",
+      "tas": "COV",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Adana - Mersin",
+      "54503_azn": "313.80 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Adana - Mersin"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "ALA",
+      "bcn": "KSY",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Kars - Almaty",
+      "54503_azn": "355.60 AZN",
+      "barcelona": "Kars",
+      "tashkent": "Almaty"
+    },
+    {
+      "19092026": "23.09.2026",
+      "tas": "MIL",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Milan",
+      "54503_azn": "425.90 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Milan"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "THR",
+      "bcn": "KSY",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Kars - Tehran",
+      "54503_azn": "309.10 AZN",
+      "barcelona": "Kars",
+      "tashkent": "Tehran"
+    },
+    {
+      "19092026": "20.09.2026",
+      "tas": "GUW",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Atyrau",
+      "54503_azn": "257.70 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Atyrau"
+    },
+    {
+      "19092026": "21.09.2026",
+      "tas": "BCN",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Barcelona",
+      "54503_azn": "432.70 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Barcelona"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "ANK",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Ankara",
+      "54503_azn": "367.30 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Ankara"
+    },
+    {
+      "19092026": "24.09.2026",
+      "tas": "DEL",
+      "bcn": "KSY",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Kars - New Delhi",
+      "54503_azn": "310.60 AZN",
+      "barcelona": "Kars",
+      "tashkent": "New Delhi"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "DMM",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Dammam",
+      "54503_azn": "1495.96 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Dammam"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "LED",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - St Petersburg",
+      "54503_azn": "2391.79 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "St Petersburg"
+    },
+    {
+      "19092026": "21.09.2026",
+      "tas": "BER",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Berlin",
+      "54503_azn": "369.20 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Berlin"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "MOW",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Moscow",
+      "54503_azn": "369.60 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Moscow"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "NQZ",
+      "bcn": "KSY",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Kars - Astana",
+      "54503_azn": "299.50 AZN",
+      "barcelona": "Kars",
+      "tashkent": "Astana"
+    },
+    {
+      "19092026": "20.09.2026",
+      "tas": "NQZ",
+      "bcn": "TBZ",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tabriz - Astana",
+      "54503_azn": "267.60 AZN",
+      "barcelona": "Tabriz",
+      "tashkent": "Astana"
+    },
+    {
+      "19092026": "03.09.2026",
+      "tas": "DYU",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Dushanbe",
+      "54503_azn": "1105.85 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Dushanbe"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "BER",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Berlin",
+      "54503_azn": "2848.55 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Berlin"
+    },
+    {
+      "19092026": "02.09.2026",
+      "tas": "DEL",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - New Delhi",
+      "54503_azn": "3281.23 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "New Delhi"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "TLV",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Tel Aviv",
+      "54503_azn": "1210.87 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Tel Aviv"
+    },
+    {
+      "19092026": "17.09.2026",
+      "tas": "VIE",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Vienna",
+      "54503_azn": "2833.58 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Vienna"
+    },
+    {
+      "19092026": "16.09.2026",
+      "tas": "AKX",
+      "bcn": "TBS",
+      "____barcelona__tashkent": "???????? ?????? ?? ??????????? Tbilisi - Aktobe",
+      "54503_azn": "1190.77 AZN",
+      "barcelona": "Tbilisi",
+      "tashkent": "Aktobe"
+    },
+    {
+      "19092026": "",
+      "tas": "SSH",
+      "bcn": "KSY",
       "____barcelona__tashkent": "",
       "54503_azn": "",
       "barcelona": "",
